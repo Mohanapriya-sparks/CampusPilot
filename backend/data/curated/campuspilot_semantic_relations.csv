@@ -1,0 +1,18 @@
+required_skill,evidence_skill,relation_type,score
+machine learning,pytorch,framework_evidence,0.75
+machine learning,tensorflow,framework_evidence,0.75
+machine learning,deep learning,domain_evidence,0.70
+machine learning,data science,domain_evidence,0.60
+artificial intelligence,machine learning,domain_evidence,0.75
+artificial intelligence,deep learning,domain_evidence,0.70
+artificial intelligence,pytorch,framework_evidence,0.65
+artificial intelligence,tensorflow,framework_evidence,0.65
+iot,esp32,platform_evidence,0.75
+iot,arduino,platform_evidence,0.65
+ui/ux,figma,tool_evidence,0.75
+cybersecurity,network security,domain_evidence,0.70
+cybersecurity,penetration testing,domain_evidence,0.70
+blockchain,solidity,technology_evidence,0.70
+blockchain,ethereum,technology_evidence,0.70
+blockchain,web3,domain_evidence,0.65
+git,github,tool_evidence,0.60

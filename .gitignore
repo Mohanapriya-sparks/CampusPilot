@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+*.desktop.ini
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.keystore
+*serviceAccount*.json
+!*.env.example
+
+# IntelliJ / Android Studio / IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter / Dart / Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+ephemeral/
+windows/flutter/ephemeral/
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio & Build Artifacts
+**/android/local.properties
+local.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Python & ML / Virtual Environs
+__pycache__/
+*.joblib
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large / Raw Datasets & Cache (Curated derived JSON models remain tracked)
+backend/data/cache/
+backend/data/kaggle_event_recommendation/
+backend/data/stackoverflow_2024/
+backend/data/resume_dataset/

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "273717351384",
+    "project_id": "campuspilot-ai-2026",
+    "storage_bucket": "campuspilot-ai-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273717351384:android:27f10b43e3bb8a0abf18ad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273717351384-nkln0k2d5ile4e1doqn7t4a4kp02tq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQpeJKLNm9kkJlLEZBAhGxNEdnQJVCyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273717351384-nkln0k2d5ile4e1doqn7t4a4kp02tq4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273717351384-sbmpvnfikn67g75crgjdbkpvn3nsh6dl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

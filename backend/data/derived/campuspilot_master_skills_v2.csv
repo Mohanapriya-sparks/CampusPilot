@@ -1,0 +1,2630 @@
+skill,resume_frequency,technical_frequency,linkedin_frequency,source_count,sources,priority_score,stackoverflow_frequency,stackoverflow_score
+javascript,53,200,0,3,resume|stackoverflow|technical_roles,1153.0,37492,100.0
+sql,113,148,0,3,resume|stackoverflow|technical_roles,953.0,30682,100.0
+python,32,150,0,3,resume|stackoverflow|technical_roles,882.0,30719,100.0
+java,45,125,0,3,resume|stackoverflow|technical_roles,770.0,18239,100.0
+aws,4,123,0,3,resume|stackoverflow|technical_roles,719.0,22191,100.0
+excel,675,1,0,2,resume|technical_roles,680.0,0,0.0
+sales,671,0,1,2,linkedin|resume,673.0,0,0.0
+html,92,75,0,3,resume|stackoverflow|technical_roles,567.0,31816,100.0
+word,530,0,0,1,resume,530.0,0,0.0
+css,46,75,0,3,resume|stackoverflow|technical_roles,521.0,31816,100.0
+ui/ux,3,99,0,2,resume|technical_roles,498.0,0,0.0
+react,0,75,0,2,stackoverflow|technical_roles,475.0,19167,100.0
+docker,0,74,0,2,stackoverflow|technical_roles,470.0,29219,100.0
+customer service,449,0,1,2,linkedin|resume,451.0,0,0.0
+quality,415,0,0,1,resume,415.0,0,0.0
+marketing,407,0,1,2,linkedin|resume,409.0,0,0.0
+php,33,50,0,3,resume|stackoverflow|technical_roles,383.0,10951,100.0
+recruitment,132,50,0,2,resume|technical_roles,382.0,0,0.0
+mysql,31,50,0,3,resume|stackoverflow|technical_roles,381.0,21099,100.0
+project management,245,25,1,3,linkedin|resume|technical_roles,372.0,0,0.0
+microsoft office,367,0,0,1,resume,367.0,0,0.0
+powerpoint,364,0,0,1,resume,364.0,0,0.0
+inventory,357,0,0,1,resume,357.0,0,0.0
+c#,0,51,0,2,stackoverflow|technical_roles,355.0,16318,100.0
+c++,0,50,0,2,stackoverflow|technical_roles,350.0,13827,100.0
+kubernetes,0,50,0,2,stackoverflow|technical_roles,350.0,10503,100.0
+azure,3,49,0,3,resume|stackoverflow|technical_roles,348.0,12850,100.0
+documentation,347,0,0,1,resume,347.0,0,0.0
+financial,337,0,0,1,resume,337.0,0,0.0
+processes,337,0,0,1,resume,337.0,0,0.0
+leadership,314,4,0,2,resume|technical_roles,334.0,0,0.0
+research,306,0,1,2,linkedin|resume,308.0,0,0.0
+terraform,0,49,0,2,stackoverflow|technical_roles,302.54,5754,57.54
+tensorflow,0,50,0,2,stackoverflow|technical_roles,296.38,4638,46.38
+reporting,294,0,0,1,resume,294.0,0,0.0
+managing,293,0,0,1,resume,293.0,0,0.0
+scheduling,289,0,0,1,resume,289.0,0,0.0
+access,286,0,0,1,resume,286.0,0,0.0
+swift,5,50,0,3,resume|stackoverflow|technical_roles,283.29,2829,28.29
+agile,26,51,0,2,resume|technical_roles,281.0,0,0.0
+sql server,29,49,0,2,resume|technical_roles,274.0,0,0.0
+database,271,0,0,1,resume,271.0,0,0.0
+safety,267,0,0,1,resume,267.0,0,0.0
+outlook,257,0,0,1,resume,257.0,0,0.0
+solidity,0,50,0,2,stackoverflow|technical_roles,256.44,644,6.44
+accounting,256,0,0,1,resume,256.0,0,0.0
+rest api,0,51,0,1,technical_roles,255.0,0,0.0
+payroll,252,0,0,1,resume,252.0,0,0.0
+ethereum,0,49,0,1,technical_roles,245.0,0,0.0
+figma,0,49,0,1,technical_roles,245.0,0,0.0
+jenkins,0,49,0,1,technical_roles,245.0,0,0.0
+spring,0,49,0,1,technical_roles,245.0,0,0.0
+analytics,0,48,0,1,technical_roles,240.0,0,0.0
+nlp,0,48,0,1,technical_roles,240.0,0,0.0
+siem,0,48,0,1,technical_roles,240.0,0,0.0
+web3,0,48,0,1,technical_roles,240.0,0,0.0
+postgresql,3,27,0,3,resume|stackoverflow|technical_roles,238.0,25536,100.0
+credit,235,0,0,1,resume,235.0,0,0.0
+mongodb,3,25,0,3,resume|stackoverflow|technical_roles,228.0,13007,100.0
+contracts,227,0,0,1,resume,227.0,0,0.0
+node.js,0,25,0,2,stackoverflow|technical_roles,225.0,19772,100.0
+typescript,0,25,0,2,stackoverflow|technical_roles,225.0,23150,100.0
+express,16,24,0,3,resume|stackoverflow|technical_roles,222.14,8614,86.14
+pandas,0,25,0,2,stackoverflow|technical_roles,220.01,9501,95.01
+gcp,0,24,0,2,stackoverflow|technical_roles,220.0,11605,100.0
+angular,0,26,0,2,stackoverflow|technical_roles,213.06,8306,83.06
+training,96,23,1,3,linkedin|resume|technical_roles,213.0,0,0.0
+asp.net,17,25,0,3,resume|stackoverflow|technical_roles,204.65,6265,62.65
+statistics,67,25,0,2,resume|technical_roles,192.0,0,0.0
+spring boot,0,26,0,2,stackoverflow|technical_roles,191.65,6165,61.65
+vue.js,0,23,0,2,stackoverflow|technical_roles,189.82999999999998,7483,74.83
+billing,189,0,0,1,resume,189.0,0,0.0
+employee relations,63,25,0,2,resume|technical_roles,188.0,0,0.0
+linux,63,25,0,2,resume|technical_roles,188.0,0,0.0
+flask,0,25,0,2,stackoverflow|technical_roles,187.45,6245,62.45
+insurance,187,0,0,1,resume,187.0,0,0.0
+django,0,25,0,2,stackoverflow|technical_roles,183.35,5835,58.35
+presentations,182,0,0,1,resume,182.0,0,0.0
+kotlin,0,25,0,2,stackoverflow|technical_roles,181.65,5665,56.65
+finance,178,0,1,2,linkedin|resume,180.0,0,0.0
+strategic,179,0,0,1,resume,179.0,0,0.0
+network,178,0,0,1,resume,178.0,0,0.0
+xcode,0,24,0,2,stackoverflow|technical_roles,174.11,5411,54.11
+oracle,117,0,0,2,resume|stackoverflow,169.73,5273,52.73
+laravel,0,25,0,2,stackoverflow|technical_roles,163.34,3834,38.34
+network security,26,27,0,2,resume|technical_roles,161.0,0,0.0
+administrative,152,0,1,2,linkedin|resume,154.0,0,0.0
+scrum,20,26,0,2,resume|technical_roles,150.0,0,0.0
+purchasing,147,0,1,2,linkedin|resume,149.0,0,0.0
+databases,149,0,0,1,resume,149.0,0,0.0
+functional,149,0,0,1,resume,149.0,0,0.0
+hiring,149,0,0,1,resume,149.0,0,0.0
+advertising,145,0,1,2,linkedin|resume,147.0,0,0.0
+closing,146,0,0,1,resume,146.0,0,0.0
+pricing,146,0,0,1,resume,146.0,0,0.0
+strategy,145,0,0,1,resume,145.0,0,0.0
+keras,0,25,0,2,stackoverflow|technical_roles,144.68,1968,19.68
+staffing,144,0,0,1,resume,144.0,0,0.0
+tableau,17,25,0,2,resume|technical_roles,142.0,0,0.0
+coaching,142,0,0,1,resume,142.0,0,0.0
+unreal engine,0,25,0,2,stackoverflow|technical_roles,141.39,1639,16.39
+firewalls,16,25,0,2,resume|technical_roles,141.0,0,0.0
+machine learning,6,27,0,2,resume|technical_roles,141.0,0,0.0
+seo,3,27,0,2,resume|technical_roles,138.0,0,0.0
+symfony,0,24,0,2,stackoverflow|technical_roles,135.31,1531,15.31
+basic,135,0,0,1,resume,135.0,0,0.0
+forms,134,0,0,1,resume,134.0,0,0.0
+budgeting,133,0,0,1,resume,133.0,0,0.0
+hr,132,0,0,1,resume,132.0,0,0.0
+prototyping,6,25,0,2,resume|technical_roles,131.0,0,0.0
+blockchain,0,26,0,1,technical_roles,130.0,0,0.0
+core data,0,26,0,1,technical_roles,130.0,0,0.0
+game design,0,26,0,1,technical_roles,130.0,0,0.0
+hibernate,0,26,0,1,technical_roles,130.0,0,0.0
+ios development,0,26,0,1,technical_roles,130.0,0,0.0
+microservices,0,26,0,1,technical_roles,130.0,0,0.0
+organizational,130,0,0,1,resume,130.0,0,0.0
+penetration testing,0,26,0,1,technical_roles,130.0,0,0.0
+unity,0,26,0,1,technical_roles,130.0,0,0.0
+digital marketing,4,25,0,2,resume|technical_roles,129.0,0,0.0
+jira,4,25,0,2,resume|technical_roles,129.0,0,0.0
+email,129,0,0,1,resume,129.0,0,0.0
+data visualization,3,25,0,2,resume|technical_roles,128.0,0,0.0
+social media,8,24,0,2,resume|technical_roles,128.0,0,0.0
+government,127,0,0,1,resume,127.0,0,0.0
+hardware,127,0,0,1,resume,127.0,0,0.0
+networking,127,0,0,1,resume,127.0,0,0.0
+supervision,127,0,0,1,resume,127.0,0,0.0
+telephone,127,0,0,1,resume,127.0,0,0.0
+adobe xd,0,25,0,1,technical_roles,125.0,0,0.0
+ci/cd,0,25,0,1,technical_roles,125.0,0,0.0
+deep learning,0,25,0,1,technical_roles,125.0,0,0.0
+helm,0,25,0,1,technical_roles,125.0,0,0.0
+hr management,0,25,0,1,technical_roles,125.0,0,0.0
+hr policies,0,25,0,1,technical_roles,125.0,0,0.0
+net core,0,25,0,1,technical_roles,125.0,0,0.0
+ppc,0,25,0,1,technical_roles,125.0,0,0.0
+recruiting,125,0,0,1,resume,125.0,0,0.0
+redux,0,25,0,1,technical_roles,125.0,0,0.0
+stakeholder management,0,25,0,1,technical_roles,125.0,0,0.0
+customer satisfaction,124,0,0,1,resume,124.0,0,0.0
+logistics,124,0,0,1,resume,124.0,0,0.0
+business development,121,0,1,2,linkedin|resume,123.0,0,0.0
+ios,3,24,0,2,resume|technical_roles,123.0,0,0.0
+sap,123,0,0,1,resume,123.0,0,0.0
+written,123,0,0,1,resume,123.0,0,0.0
+problem solving,117,1,0,2,resume|technical_roles,122.0,0,0.0
+english,122,0,0,1,resume,122.0,0,0.0
+data entry,121,0,0,1,resume,121.0,0,0.0
+windows,121,0,0,1,resume,121.0,0,0.0
+accounts payable,120,0,0,1,resume,120.0,0,0.0
+ethical hacking,0,24,0,1,technical_roles,120.0,0,0.0
+sketch,0,24,0,1,technical_roles,120.0,0,0.0
+troubleshooting,120,0,0,1,resume,120.0,0,0.0
+vr development,0,24,0,1,technical_roles,120.0,0,0.0
+wireframing,0,24,0,1,technical_roles,120.0,0,0.0
+human resources,117,0,1,2,linkedin|resume,119.0,0,0.0
+visual studio,18,0,0,2,resume|stackoverflow,118.0,17021,100.0
+quality assurance,115,0,1,2,linkedin|resume,117.0,0,0.0
+android sdk,0,23,0,1,technical_roles,115.0,0,0.0
+marketing campaigns,0,23,0,1,technical_roles,115.0,0,0.0
+supervisor,115,0,0,1,resume,115.0,0,0.0
+vr,0,23,0,1,technical_roles,115.0,0,0.0
+legal,112,0,1,2,linkedin|resume,114.0,0,0.0
+agency,112,0,0,1,resume,112.0,0,0.0
+focus,112,0,0,1,resume,112.0,0,0.0
+time management,112,0,0,1,resume,112.0,0,0.0
+content,111,0,0,1,resume,111.0,0,0.0
+direction,110,0,0,1,resume,110.0,0,0.0
+proposals,110,0,0,1,resume,110.0,0,0.0
+bash,9,0,0,2,resume|stackoverflow,109.0,20412,100.0
+forecasting,109,0,0,1,resume,109.0,0,0.0
+quickbooks,109,0,0,1,resume,109.0,0,0.0
+microsoft sql server,8,0,0,2,resume|stackoverflow,108.0,13275,100.0
+power point,108,0,0,1,resume,108.0,0,0.0
+procurement,108,0,0,1,resume,108.0,0,0.0
+jquery,7,0,0,2,resume|stackoverflow,107.0,10381,100.0
+teaching,107,0,0,1,resume,107.0,0,0.0
+website,107,0,0,1,resume,107.0,0,0.0
+enterprise,106,0,0,1,resume,106.0,0,0.0
+selling,106,0,0,1,resume,106.0,0,0.0
+profit,104,0,0,1,resume,104.0,0,0.0
+tax,102,0,0,1,resume,102.0,0,0.0
+banking,101,0,0,1,resume,101.0,0,0.0
+.net,0,0,0,1,stackoverflow,100.0,11542,100.0
+c,0,0,0,1,stackoverflow,100.0,12184,100.0
+homebrew,0,0,0,1,stackoverflow,100.0,12081,100.0
+intellij idea,0,0,0,1,stackoverflow,100.0,15555,100.0
+make,0,0,0,1,stackoverflow,100.0,11259,100.0
+notepad++,0,0,0,1,stackoverflow,100.0,13874,100.0
+npm,0,0,0,1,stackoverflow,100.0,26866,100.0
+pip,0,0,0,1,stackoverflow,100.0,17561,100.0
+raspberry pi,0,0,0,1,stackoverflow,100.0,10783,100.0
+redis,0,0,0,1,stackoverflow,100.0,10463,100.0
+sqlite,0,0,0,1,stackoverflow,100.0,17365,100.0
+vim,0,0,0,1,stackoverflow,100.0,12523,100.0
+vite,0,0,0,1,stackoverflow,100.0,10804,100.0
+vs code,0,0,0,1,stackoverflow,100.0,42751,100.0
+yarn,0,0,0,1,stackoverflow,100.0,10209,100.0
+webpack,0,0,0,1,stackoverflow,99.7,9970,99.7
+public relations,97,0,1,2,linkedin|resume,99.0,0,0.0
+financial statements,99,0,0,1,resume,99.0,0,0.0
+numpy,0,0,0,1,stackoverflow,97.18,9718,97.18
+photoshop,92,1,0,2,resume|technical_roles,97.0,0,0.0
+general ledger,97,0,0,1,resume,97.0,0,0.0
+receiving,95,0,0,1,resume,95.0,0,0.0
+android studio,0,0,0,1,stackoverflow,93.79,9379,93.79
+microsoft office suite,91,0,0,1,resume,91.0,0,0.0
+mariadb,0,0,0,1,stackoverflow,89.91,8991,89.91
+mail,89,0,0,1,resume,89.0,0,0.0
+strategic planning,89,0,0,1,resume,89.0,0,0.0
+senior management,88,0,0,1,resume,88.0,0,0.0
+shipping,88,0,0,1,resume,88.0,0,0.0
+technical support,88,0,0,1,resume,88.0,0,0.0
+pycharm,0,0,0,1,stackoverflow,87.81,8781,87.81
+nuget,0,0,0,1,stackoverflow,87.03,8703,87.03
+programming,87,0,0,1,resume,87.0,0,0.0
+next.js,0,0,0,1,stackoverflow,86.81,8681,86.81
+servers,86,0,0,1,resume,86.0,0,0.0
+quality control,85,0,0,1,resume,85.0,0,0.0
+maven,0,0,0,1,stackoverflow,84.35,8435,84.35
+communication,64,4,0,2,resume|technical_roles,84.0,0,0.0
+arduino,0,0,0,1,stackoverflow,83.4,8340,83.4
+powershell,0,0,0,1,stackoverflow,83.28,8328,83.28
+visual studio solution,0,0,0,1,stackoverflow,83.15,8315,83.15
+gradle,0,0,0,1,stackoverflow,83.1,8310,83.1
+video,83,0,0,1,resume,83.0,0,0.0
+asp.net core,0,0,0,1,stackoverflow,81.87,8187,81.87
+gnu gcc,0,0,0,1,stackoverflow,81.32,8132,81.32
+go,0,0,0,1,stackoverflow,81.03,8103,81.03
+spanish,81,0,0,1,resume,81.0,0,0.0
+designing,80,0,0,1,resume,80.0,0,0.0
+fast,80,0,0,1,resume,80.0,0,0.0
+funds,80,0,0,1,resume,80.0,0,0.0
+instruction,80,0,0,1,resume,80.0,0,0.0
+workflow,80,0,0,1,resume,80.0,0,0.0
+cmake,0,0,0,1,stackoverflow,79.05,7905,79.05
+consulting,77,0,1,2,linkedin|resume,79.0,0,0.0
+accounts receivable,79,0,0,1,resume,79.0,0,0.0
+illustrator,78,0,0,1,resume,78.0,0,0.0
+spreadsheets,78,0,0,1,resume,78.0,0,0.0
+works,78,0,0,1,resume,78.0,0,0.0
+coding,77,0,0,1,resume,77.0,0,0.0
+rust,0,0,0,1,stackoverflow,75.59,7559,75.59
+.net framework,0,0,0,1,stackoverflow,75.25,7525,75.25
+inspection,75,0,0,1,resume,75.0,0,0.0
+jupyter notebook/jupyterlab,0,0,0,1,stackoverflow,74.32,7432,74.32
+conferences,74,0,0,1,resume,74.0,0,0.0
+inventory control,74,0,0,1,resume,74.0,0,0.0
+mentoring,74,0,0,1,resume,74.0,0,0.0
+approach,73,0,0,1,resume,73.0,0,0.0
+letters,73,0,0,1,resume,73.0,0,0.0
+team player,73,0,0,1,resume,73.0,0,0.0
+neovim,0,0,0,1,stackoverflow,72.39,7239,72.39
+autocad,72,0,0,1,resume,72.0,0,0.0
+competitive,72,0,0,1,resume,72.0,0,0.0
+workshops,72,0,0,1,resume,72.0,0,0.0
+academic,71,0,0,1,resume,71.0,0,0.0
+ad,71,0,0,1,resume,71.0,0,0.0
+merchandising,71,0,0,1,resume,71.0,0,0.0
+special events,71,0,0,1,resume,71.0,0,0.0
+engineer,70,0,0,1,resume,70.0,0,0.0
+cloudflare,0,0,0,1,stackoverflow,69.74,6974,69.74
+wordpress,7,1,0,3,resume|stackoverflow|technical_roles,69.11,5711,57.11
+information technology,67,0,1,2,linkedin|resume,69.0,0,0.0
+balance,69,0,0,1,resume,69.0,0,0.0
+money,69,0,0,1,resume,69.0,0,0.0
+networks,69,0,0,1,resume,69.0,0,0.0
+process improvement,69,0,0,1,resume,69.0,0,0.0
+sharepoint,69,0,0,1,resume,69.0,0,0.0
+financial reporting,68,0,0,1,resume,68.0,0,0.0
+organizing,68,0,0,1,resume,68.0,0,0.0
+eclipse,13,0,0,2,resume|stackoverflow,67.47,5447,54.47
+com,67,0,0,1,resume,67.0,0,0.0
+counseling,67,0,0,1,resume,67.0,0,0.0
+real estate,67,0,0,1,resume,67.0,0,0.0
+seminars,67,0,0,1,resume,67.0,0,0.0
+data analysis,61,1,0,2,resume|technical_roles,66.0,0,0.0
+operations,66,0,0,1,resume,66.0,0,0.0
+risk management,66,0,0,1,resume,66.0,0,0.0
+elasticsearch,0,0,0,1,stackoverflow,65.33,6533,65.33
+administrative support,65,0,0,1,resume,65.0,0,0.0
+cpr,65,0,0,1,resume,65.0,0,0.0
+receptionist,65,0,0,1,resume,65.0,0,0.0
+training programs,65,0,0,1,resume,65.0,0,0.0
+visio,65,0,0,1,resume,65.0,0,0.0
+firebase,0,0,0,1,stackoverflow,64.43,6443,64.43
+call center,64,0,0,1,resume,64.0,0,0.0
+clerical,64,0,0,1,resume,64.0,0,0.0
+sublime text,0,0,0,1,stackoverflow,63.32,6332,63.32
+auditing,63,0,0,1,resume,63.0,0,0.0
+exchange,63,0,0,1,resume,63.0,0,0.0
+features,63,0,0,1,resume,63.0,0,0.0
+law,63,0,0,1,resume,63.0,0,0.0
+mentor,62,0,0,1,resume,62.0,0,0.0
+operating systems,62,0,0,1,resume,62.0,0,0.0
+publisher,62,0,0,1,resume,62.0,0,0.0
+peoplesoft,61,0,0,1,resume,61.0,0,0.0
+retail sales,61,0,0,1,resume,61.0,0,0.0
+transportation,61,0,0,1,resume,61.0,0,0.0
+art,60,0,0,1,resume,60.0,0,0.0
+arts,60,0,0,1,resume,60.0,0,0.0
+balance sheet,60,0,0,1,resume,60.0,0,0.0
+human resource,60,0,0,1,resume,60.0,0,0.0
+reading,60,0,0,1,resume,60.0,0,0.0
+msbuild,0,0,0,1,stackoverflow,59.73,5973,59.73
+account management,59,0,0,1,resume,59.0,0,0.0
+charts,59,0,0,1,resume,59.0,0,0.0
+recording,59,0,0,1,resume,59.0,0,0.0
+troubleshoot,59,0,0,1,resume,59.0,0,0.0
+teamwork,48,2,0,2,resume|technical_roles,58.0,0,0.0
+active directory,58,0,0,1,resume,58.0,0,0.0
+adobe,58,0,0,1,resume,58.0,0,0.0
+consultant,58,0,0,1,resume,58.0,0,0.0
+organizational skills,58,0,0,1,resume,58.0,0,0.0
+promotion,58,0,0,1,resume,58.0,0,0.0
+microsoft access,36,0,0,2,resume|stackoverflow,57.93,2193,21.93
+invoicing,57,0,0,1,resume,57.0,0,0.0
+performance management,57,0,0,1,resume,57.0,0,0.0
+san,57,0,0,1,resume,57.0,0,0.0
+supervising,57,0,0,1,resume,57.0,0,0.0
+apt,0,0,0,1,stackoverflow,56.69,5669,56.69
+assembly,24,0,0,2,resume|stackoverflow,56.33,3233,32.33
+bi,56,0,0,1,resume,56.0,0,0.0
+cash flow,56,0,0,1,resume,56.0,0,0.0
+mechanical,56,0,0,1,resume,56.0,0,0.0
+matlab,32,0,0,2,resume|stackoverflow,55.78,2378,23.78
+book,55,0,0,1,resume,55.0,0,0.0
+bookkeeping,55,0,0,1,resume,55.0,0,0.0
+pos,55,0,0,1,resume,55.0,0,0.0
+vercel,0,0,0,1,stackoverflow,54.91,5491,54.91
+digital ocean,0,0,0,1,stackoverflow,54.09,5409,54.09
+optimization,54,0,0,1,resume,54.0,0,0.0
+websites,54,0,0,1,resume,54.0,0,0.0
+nano,0,0,0,1,stackoverflow,53.64,5364,53.64
+fashion,53,0,0,1,resume,53.0,0,0.0
+marketing strategies,53,0,0,1,resume,53.0,0,0.0
+repairs,53,0,0,1,resume,53.0,0,0.0
+six sigma,53,0,0,1,resume,53.0,0,0.0
+team building,53,0,0,1,resume,53.0,0,0.0
+type,53,0,0,1,resume,53.0,0,0.0
+upgrades,53,0,0,1,resume,53.0,0,0.0
+ansible,0,2,0,2,stackoverflow|technical_roles,52.72,4272,42.72
+backup,52,0,0,1,resume,52.0,0,0.0
+coach,52,0,0,1,resume,52.0,0,0.0
+conversion,52,0,0,1,resume,52.0,0,0.0
+critical thinking,52,0,0,1,resume,52.0,0,0.0
+crm,52,0,0,1,resume,52.0,0,0.0
+instructor,52,0,0,1,resume,52.0,0,0.0
+radio,52,0,0,1,resume,52.0,0,0.0
+editing,51,0,0,1,resume,51.0,0,0.0
+erp,51,0,0,1,resume,51.0,0,0.0
+first aid,51,0,0,1,resume,51.0,0,0.0
+leadership skills,51,0,0,1,resume,51.0,0,0.0
+maintenance,51,0,0,1,resume,51.0,0,0.0
+teacher,51,0,0,1,resume,51.0,0,0.0
+spring framework,0,0,0,1,stackoverflow,50.91,5091,50.91
+rabbitmq,0,0,0,1,stackoverflow,50.1,5010,50.1
+automation,50,0,0,1,resume,50.0,0,0.0
+packaging,50,0,0,1,resume,50.0,0,0.0
+product development,50,0,0,1,resume,50.0,0,0.0
+read,50,0,0,1,resume,50.0,0,0.0
+cisco,49,0,0,1,resume,49.0,0,0.0
+concept,49,0,0,1,resume,49.0,0,0.0
+excellent customer service,49,0,0,1,resume,49.0,0,0.0
+image,49,0,0,1,resume,49.0,0,0.0
+lan,49,0,0,1,resume,49.0,0,0.0
+mac,49,0,0,1,resume,49.0,0,0.0
+negotiating,49,0,0,1,resume,49.0,0,0.0
+spreadsheet,49,0,0,1,resume,49.0,0,0.0
+vision,49,0,0,1,resume,49.0,0,0.0
+scikit-learn,0,0,0,1,stackoverflow,48.49,4849,48.49
+pytorch,0,0,0,1,stackoverflow,48.46,4846,48.46
+pnpm,0,0,0,1,stackoverflow,48.36,4836,48.36
+adp,48,0,0,1,resume,48.0,0,0.0
+client relations,48,0,0,1,resume,48.0,0,0.0
+fastapi,0,0,0,1,stackoverflow,48.0,4800,48.0
+financial reports,48,0,0,1,resume,48.0,0,0.0
+negotiations,48,0,0,1,resume,48.0,0,0.0
+proposal,48,0,0,1,resume,48.0,0,0.0
+llvm's clang,0,0,0,1,stackoverflow,47.71,4771,47.71
+composer,0,0,0,1,stackoverflow,47.67,4767,47.67
+chocolatey,0,0,0,1,stackoverflow,47.46,4746,47.46
+change management,47,0,0,1,resume,47.0,0,0.0
+drafting,47,0,0,1,resume,47.0,0,0.0
+negotiation,47,0,0,1,resume,47.0,0,0.0
+reconciling,47,0,0,1,resume,47.0,0,0.0
+unique,47,0,0,1,resume,47.0,0,0.0
+attention to detail,46,0,0,1,resume,46.0,0,0.0
+customer support,46,0,0,1,resume,46.0,0,0.0
+indesign,46,0,0,1,resume,46.0,0,0.0
+migration,46,0,0,1,resume,46.0,0,0.0
+ca,45,0,0,1,resume,45.0,0,0.0
+customer relations,45,0,0,1,resume,45.0,0,0.0
+decision making,45,0,0,1,resume,45.0,0,0.0
+information systems,45,0,0,1,resume,45.0,0,0.0
+phones,45,0,0,1,resume,45.0,0,0.0
+fundraising,44,0,0,1,resume,44.0,0,0.0
+inventory management,44,0,0,1,resume,44.0,0,0.0
+next,44,0,0,1,resume,44.0,0,0.0
+qa,44,0,0,1,resume,44.0,0,0.0
+windows 7,44,0,0,1,resume,44.0,0,0.0
+year-end,44,0,0,1,resume,44.0,0,0.0
+cargo,0,0,0,1,stackoverflow,43.98,4398,43.98
+ninja,0,0,0,1,stackoverflow,43.89,4389,43.89
+webstorm,0,0,0,1,stackoverflow,43.6,4360,43.6
+apache kafka,0,0,0,1,stackoverflow,43.08,4308,43.08
+conflict resolution,43,0,0,1,resume,43.0,0,0.0
+data collection,43,0,0,1,resume,43.0,0,0.0
+excellent communication,43,0,0,1,resume,43.0,0,0.0
+press releases,43,0,0,1,resume,43.0,0,0.0
+surveys,43,0,0,1,resume,43.0,0,0.0
+flutter,0,0,0,1,stackoverflow,42.93,4293,42.93
+vmware,12,0,0,2,resume|stackoverflow,42.43,3043,30.43
+management,40,0,1,2,linkedin|resume,42.0,0,0.0
+accountant,42,0,0,1,resume,42.0,0,0.0
+branding,42,0,0,1,resume,42.0,0,0.0
+cashier,42,0,0,1,resume,42.0,0,0.0
+directing,42,0,0,1,resume,42.0,0,0.0
+fixed assets,42,0,0,1,resume,42.0,0,0.0
+layout,42,0,0,1,resume,42.0,0,0.0
+researching,42,0,0,1,resume,42.0,0,0.0
+trainer,42,0,0,1,resume,42.0,0,0.0
+travel arrangements,42,0,0,1,resume,42.0,0,0.0
+typing,42,0,0,1,resume,42.0,0,0.0
+dynamodb,0,0,0,1,stackoverflow,41.38,4138,41.38
+lotus notes,41,0,0,1,resume,41.0,0,0.0
+modeling,41,0,0,1,resume,41.0,0,0.0
+requirement,41,0,0,1,resume,41.0,0,0.0
+tax returns,41,0,0,1,resume,41.0,0,0.0
+unix,41,0,0,1,resume,41.0,0,0.0
+upgrade,41,0,0,1,resume,41.0,0,0.0
+vista,41,0,0,1,resume,41.0,0,0.0
+brochures,40,0,0,1,resume,40.0,0,0.0
+business operations,40,0,0,1,resume,40.0,0,0.0
+clientele,40,0,0,1,resume,40.0,0,0.0
+event planning,40,0,0,1,resume,40.0,0,0.0
+financial analysis,40,0,0,1,resume,40.0,0,0.0
+financial management,40,0,0,1,resume,40.0,0,0.0
+interpersonal skills,40,0,0,1,resume,40.0,0,0.0
+microsoft outlook,40,0,0,1,resume,40.0,0,0.0
+sound,40,0,0,1,resume,40.0,0,0.0
+technician,40,0,0,1,resume,40.0,0,0.0
+opencv,0,0,0,1,stackoverflow,39.61,3961,39.61
+adobe photoshop,39,0,0,1,resume,39.0,0,0.0
+microsoft project,39,0,0,1,resume,39.0,0,0.0
+monitors,39,0,0,1,resume,39.0,0,0.0
+pr,39,0,0,1,resume,39.0,0,0.0
+producing,39,0,0,1,resume,39.0,0,0.0
+protocols,39,0,0,1,resume,39.0,0,0.0
+quick,39,0,0,1,resume,39.0,0,0.0
+streamline,39,0,0,1,resume,39.0,0,0.0
+tables,39,0,0,1,resume,39.0,0,0.0
+supabase,0,0,0,1,stackoverflow,38.45,3845,38.45
+react native,0,0,0,1,stackoverflow,38.32,3832,38.32
+driving,38,0,0,1,resume,38.0,0,0.0
+help desk,38,0,0,1,resume,38.0,0,0.0
+hris,38,0,0,1,resume,38.0,0,0.0
+ibm,38,0,0,1,resume,38.0,0,0.0
+messaging,38,0,0,1,resume,38.0,0,0.0
+taxes,38,0,0,1,resume,38.0,0,0.0
+windows xp,38,0,0,1,resume,38.0,0,0.0
+heroku,0,0,0,1,stackoverflow,37.98,3798,37.98
+lua,0,0,0,1,stackoverflow,37.28,3728,37.28
+pacman,0,0,0,1,stackoverflow,37.02,3702,37.02
+council,37,0,0,1,resume,37.0,0,0.0
+notes,37,0,0,1,resume,37.0,0,0.0
+page,37,0,0,1,resume,37.0,0,0.0
+printers,37,0,0,1,resume,37.0,0,0.0
+publications,37,0,0,1,resume,37.0,0,0.0
+vba,14,0,0,2,resume|stackoverflow,36.480000000000004,2248,22.48
+acquisitions,36,0,0,1,resume,36.0,0,0.0
+business management,36,0,0,1,resume,36.0,0,0.0
+e-mail,36,0,0,1,resume,36.0,0,0.0
+public speaking,36,0,0,1,resume,36.0,0,0.0
+speaking,36,0,0,1,resume,36.0,0,0.0
+staff training,36,0,0,1,resume,36.0,0,0.0
+xml,36,0,0,1,resume,36.0,0,0.0
+dart,0,0,0,1,stackoverflow,35.94,3594,35.94
+analyst,33,0,1,2,linkedin|resume,35.0,0,0.0
+cash management,35,0,0,1,resume,35.0,0,0.0
+grants,35,0,0,1,resume,35.0,0,0.0
+hp,35,0,0,1,resume,35.0,0,0.0
+scripts,35,0,0,1,resume,35.0,0,0.0
+switches,35,0,0,1,resume,35.0,0,0.0
+validation,35,0,0,1,resume,35.0,0,0.0
+phpstorm,0,0,0,1,stackoverflow,34.28,3428,34.28
+marketing strategy,24,2,0,2,resume|technical_roles,34.0,0,0.0
+ap,34,0,0,1,resume,34.0,0,0.0
+ar,34,0,0,1,resume,34.0,0,0.0
+bank reconciliations,34,0,0,1,resume,34.0,0,0.0
+cash handling,34,0,0,1,resume,34.0,0,0.0
+cooking,34,0,0,1,resume,34.0,0,0.0
+estimating,34,0,0,1,resume,34.0,0,0.0
+managerial,34,0,0,1,resume,34.0,0,0.0
+marketing materials,34,0,0,1,resume,34.0,0,0.0
+multi-tasking,34,0,0,1,resume,34.0,0,0.0
+newsletter,34,0,0,1,resume,34.0,0,0.0
+press,34,0,0,1,resume,34.0,0,0.0
+routers,34,0,0,1,resume,34.0,0,0.0
+scanning,34,0,0,1,resume,34.0,0,0.0
+software development,34,0,0,1,resume,34.0,0,0.0
+vendor management,34,0,0,1,resume,34.0,0,0.0
+qt,0,0,0,1,stackoverflow,33.6,3360,33.6
+rider,0,0,0,1,stackoverflow,33.17,3317,33.17
+citrix,33,0,0,1,resume,33.0,0,0.0
+cost control,33,0,0,1,resume,33.0,0,0.0
+disaster recovery,33,0,0,1,resume,33.0,0,0.0
+presenting,33,0,0,1,resume,33.0,0,0.0
+telecommunications,33,0,0,1,resume,33.0,0,0.0
+vpn,33,0,0,1,resume,33.0,0,0.0
+angularjs,0,0,0,1,stackoverflow,32.92,3292,32.92
+netlify,0,0,0,1,stackoverflow,32.38,3238,32.38
+google analytics,27,1,0,2,resume|technical_roles,32.0,0,0.0
+articles,32,0,0,1,resume,32.0,0,0.0
+cad,32,0,0,1,resume,32.0,0,0.0
+controller,32,0,0,1,resume,32.0,0,0.0
+database management,32,0,0,1,resume,32.0,0,0.0
+equity,32,0,0,1,resume,32.0,0,0.0
+liaison,32,0,0,1,resume,32.0,0,0.0
+listening,32,0,0,1,resume,32.0,0,0.0
+nursing,32,0,0,1,resume,32.0,0,0.0
+oil,32,0,0,1,resume,32.0,0,0.0
+operations management,32,0,0,1,resume,32.0,0,0.0
+relationship building,32,0,0,1,resume,32.0,0,0.0
+security,32,0,0,1,resume,32.0,0,0.0
+specification,32,0,0,1,resume,32.0,0,0.0
+unity 3d,0,0,0,1,stackoverflow,31.79,3179,31.79
+ruby,0,0,0,1,stackoverflow,31.47,3147,31.47
+svelte,0,0,0,1,stackoverflow,31.46,3146,31.46
+ada,26,0,0,2,resume|stackoverflow,31.42,542,5.42
+opengl,0,0,0,1,stackoverflow,31.22,3122,31.22
+supply chain,29,0,1,2,linkedin|resume,31.0,0,0.0
+army,31,0,0,1,resume,31.0,0,0.0
+associate,31,0,0,1,resume,31.0,0,0.0
+bank reconciliation,31,0,0,1,resume,31.0,0,0.0
+cash,31,0,0,1,resume,31.0,0,0.0
+cash register,31,0,0,1,resume,31.0,0,0.0
+color,31,0,0,1,resume,31.0,0,0.0
+graphics,31,0,0,1,resume,31.0,0,0.0
+innovation,31,0,0,1,resume,31.0,0,0.0
+problem resolution,31,0,0,1,resume,31.0,0,0.0
+problem solver,31,0,0,1,resume,31.0,0,0.0
+record keeping,31,0,0,1,resume,31.0,0,0.0
+team lead,31,0,0,1,resume,31.0,0,0.0
+testing,31,0,0,1,resume,31.0,0,0.0
+firebase realtime database,0,0,0,1,stackoverflow,30.18,3018,30.18
+ads,30,0,0,1,resume,30.0,0,0.0
+developer,30,0,0,1,resume,30.0,0,0.0
+financials,30,0,0,1,resume,30.0,0,0.0
+ftp,30,0,0,1,resume,30.0,0,0.0
+imaging,30,0,0,1,resume,30.0,0,0.0
+media relations,30,0,0,1,resume,30.0,0,0.0
+ms office suite,30,0,0,1,resume,30.0,0,0.0
+performance reviews,30,0,0,1,resume,30.0,0,0.0
+tcp/ip,30,0,0,1,resume,30.0,0,0.0
+tv,30,0,0,1,resume,30.0,0,0.0
+wan,30,0,0,1,resume,30.0,0,0.0
+electron,0,0,0,1,stackoverflow,29.61,2961,29.61
+datagrip,0,0,0,1,stackoverflow,29.48,2948,29.48
+business intelligence,29,0,0,1,resume,29.0,0,0.0
+case management,29,0,0,1,resume,29.0,0,0.0
+cpa,29,0,0,1,resume,29.0,0,0.0
+dreamweaver,29,0,0,1,resume,29.0,0,0.0
+due diligence,29,0,0,1,resume,29.0,0,0.0
+e-commerce,29,0,0,1,resume,29.0,0,0.0
+hyperion,29,0,0,1,resume,29.0,0,0.0
+interpretation,29,0,0,1,resume,29.0,0,0.0
+ledger,29,0,0,1,resume,29.0,0,0.0
+logic,29,0,0,1,resume,29.0,0,0.0
+marketing plan,29,0,0,1,resume,29.0,0,0.0
+ms access,29,0,0,1,resume,29.0,0,0.0
+navy,29,0,0,1,resume,29.0,0,0.0
+solutions,29,0,0,1,resume,29.0,0,0.0
+television,29,0,0,1,resume,29.0,0,0.0
+cloud firestore,0,0,0,1,stackoverflow,28.42,2842,28.42
+nestjs,0,0,0,1,stackoverflow,28.32,2832,28.32
+vscodium,0,0,0,1,stackoverflow,28.07,2807,28.07
+automotive,28,0,0,1,resume,28.0,0,0.0
+continuous improvement,28,0,0,1,resume,28.0,0,0.0
+customer services,28,0,0,1,resume,28.0,0,0.0
+drivers,28,0,0,1,resume,28.0,0,0.0
+graphic,28,0,0,1,resume,28.0,0,0.0
+graphic design,28,0,0,1,resume,28.0,0,0.0
+investments,28,0,0,1,resume,28.0,0,0.0
+machinery,28,0,0,1,resume,28.0,0,0.0
+market research,28,0,0,1,resume,28.0,0,0.0
+marketing plans,28,0,0,1,resume,28.0,0,0.0
+operating system,28,0,0,1,resume,28.0,0,0.0
+painting,28,0,0,1,resume,28.0,0,0.0
+team leader,28,0,0,1,resume,28.0,0,0.0
+trade shows,28,0,0,1,resume,28.0,0,0.0
+wiring,28,0,0,1,resume,28.0,0,0.0
+ipython,0,0,0,1,stackoverflow,27.32,2732,27.32
+adobe acrobat,27,0,0,1,resume,27.0,0,0.0
+cold calling,27,0,0,1,resume,27.0,0,0.0
+consultation,27,0,0,1,resume,27.0,0,0.0
+dhcp,27,0,0,1,resume,27.0,0,0.0
+dns,27,0,0,1,resume,27.0,0,0.0
+fax,27,0,0,1,resume,27.0,0,0.0
+lesson plans,27,0,0,1,resume,27.0,0,0.0
+microsoft windows,27,0,0,1,resume,27.0,0,0.0
+ms project,27,0,0,1,resume,27.0,0,0.0
+problem solving skills,27,0,0,1,resume,27.0,0,0.0
+program management,27,0,0,1,resume,27.0,0,0.0
+solidworks,27,0,0,1,resume,27.0,0,0.0
+clion,0,0,0,1,stackoverflow,26.95,2695,26.95
+podman,0,0,0,1,stackoverflow,26.82,2682,26.82
+cuda,0,0,0,1,stackoverflow,26.58,2658,26.58
+creativity,21,1,0,2,resume|technical_roles,26.0,0,0.0
+product management,24,0,1,2,linkedin|resume,26.0,0,0.0
+accounting software,26,0,0,1,resume,26.0,0,0.0
+accruals,26,0,0,1,resume,26.0,0,0.0
+basis,26,0,0,1,resume,26.0,0,0.0
+billings,26,0,0,1,resume,26.0,0,0.0
+calibration,26,0,0,1,resume,26.0,0,0.0
+drawing,26,0,0,1,resume,26.0,0,0.0
+flash,26,0,0,1,resume,26.0,0,0.0
+kronos,26,0,0,1,resume,26.0,0,0.0
+leadership development,26,0,0,1,resume,26.0,0,0.0
+newsletters,26,0,0,1,resume,26.0,0,0.0
+pivot tables,26,0,0,1,resume,26.0,0,0.0
+real-time,26,0,0,1,resume,26.0,0,0.0
+simulation,26,0,0,1,resume,26.0,0,0.0
+treasury,26,0,0,1,resume,26.0,0,0.0
+r,0,0,0,1,stackoverflow,25.95,2595,25.95
+bigquery,0,0,0,1,stackoverflow,25.31,2531,25.31
+account reconciliation,25,0,0,1,resume,25.0,0,0.0
+api,25,0,0,1,resume,25.0,0,0.0
+award,25,0,0,1,resume,25.0,0,0.0
+business plan,25,0,0,1,resume,25.0,0,0.0
+contract negotiations,25,0,0,1,resume,25.0,0,0.0
+employee training,25,0,0,1,resume,25.0,0,0.0
+inspect,25,0,0,1,resume,25.0,0,0.0
+math,25,0,0,1,resume,25.0,0,0.0
+oral,25,0,0,1,resume,25.0,0,0.0
+photo,25,0,0,1,resume,25.0,0,0.0
+rapport,25,0,0,1,resume,25.0,0,0.0
+routing,25,0,0,1,resume,25.0,0,0.0
+sage,25,0,0,1,resume,25.0,0,0.0
+securities,25,0,0,1,resume,25.0,0,0.0
+staff development,25,0,0,1,resume,25.0,0,0.0
+utilities,25,0,0,1,resume,25.0,0,0.0
+voip,25,0,0,1,resume,25.0,0,0.0
+welding,25,0,0,1,resume,25.0,0,0.0
+visual basic (.net),0,0,0,1,stackoverflow,24.99,2499,24.99
+msvc,0,0,0,1,stackoverflow,24.82,2482,24.82
+emacs,0,0,0,1,stackoverflow,24.46,2446,24.46
+adobe illustrator,19,1,0,2,resume|technical_roles,24.0,0,0.0
+content creation,14,2,0,2,resume|technical_roles,24.0,0,0.0
+net,19,1,0,2,resume|technical_roles,24.0,0,0.0
+apple,24,0,0,1,resume,24.0,0,0.0
+as400,24,0,0,1,resume,24.0,0,0.0
+asset management,24,0,0,1,resume,24.0,0,0.0
+business process,24,0,0,1,resume,24.0,0,0.0
+cms,24,0,0,1,resume,24.0,0,0.0
+cost analysis,24,0,0,1,resume,24.0,0,0.0
+detail oriented,24,0,0,1,resume,24.0,0,0.0
+economics,24,0,0,1,resume,24.0,0,0.0
+financing,24,0,0,1,resume,24.0,0,0.0
+interpersonal,24,0,0,1,resume,24.0,0,0.0
+loss prevention,24,0,0,1,resume,24.0,0,0.0
+medical terminology,24,0,0,1,resume,24.0,0,0.0
+mis,24,0,0,1,resume,24.0,0,0.0
+scanners,24,0,0,1,resume,24.0,0,0.0
+schematics,24,0,0,1,resume,24.0,0,0.0
+weapons,24,0,0,1,resume,24.0,0,0.0
+blazor,0,0,0,1,stackoverflow,23.78,2378,23.78
+godot,0,0,0,1,stackoverflow,23.63,2363,23.63
+hetzner,0,0,0,1,stackoverflow,23.01,2301,23.01
+business processes,23,0,0,1,resume,23.0,0,0.0
+cpr certified,23,0,0,1,resume,23.0,0,0.0
+dell,23,0,0,1,resume,23.0,0,0.0
+direct mail,23,0,0,1,resume,23.0,0,0.0
+electronics,23,0,0,1,resume,23.0,0,0.0
+expense reports,23,0,0,1,resume,23.0,0,0.0
+gl,23,0,0,1,resume,23.0,0,0.0
+increase,23,0,0,1,resume,23.0,0,0.0
+internet research,23,0,0,1,resume,23.0,0,0.0
+ip,23,0,0,1,resume,23.0,0,0.0
+iso,23,0,0,1,resume,23.0,0,0.0
+itil,23,0,0,1,resume,23.0,0,0.0
+mathematics,23,0,0,1,resume,23.0,0,0.0
+ms outlook,23,0,0,1,resume,23.0,0,0.0
+natural,23,0,0,1,resume,23.0,0,0.0
+os,23,0,0,1,resume,23.0,0,0.0
+phone system,23,0,0,1,resume,23.0,0,0.0
+photography,23,0,0,1,resume,23.0,0,0.0
+police,23,0,0,1,resume,23.0,0,0.0
+project planning,23,0,0,1,resume,23.0,0,0.0
+regulatory compliance,23,0,0,1,resume,23.0,0,0.0
+relationship management,23,0,0,1,resume,23.0,0,0.0
+rfp,23,0,0,1,resume,23.0,0,0.0
+telephones,23,0,0,1,resume,23.0,0,0.0
+trend,23,0,0,1,resume,23.0,0,0.0
+windows server,23,0,0,1,resume,23.0,0,0.0
+ruby on rails,0,0,0,1,stackoverflow,22.94,2294,22.94
+perl,8,0,0,2,resume|stackoverflow,22.82,1482,14.82
+account reconciliations,22,0,0,1,resume,22.0,0,0.0
+acrobat,22,0,0,1,resume,22.0,0,0.0
+audio,22,0,0,1,resume,22.0,0,0.0
+audits,22,0,0,1,resume,22.0,0,0.0
+budget management,22,0,0,1,resume,22.0,0,0.0
+cable,22,0,0,1,resume,22.0,0,0.0
+computer literate,22,0,0,1,resume,22.0,0,0.0
+content management,22,0,0,1,resume,22.0,0,0.0
+customer relationship management,22,0,0,1,resume,22.0,0,0.0
+edit,22,0,0,1,resume,22.0,0,0.0
+firewall,22,0,0,1,resume,22.0,0,0.0
+human resource management,22,0,0,1,resume,22.0,0,0.0
+jd edwards,22,0,0,1,resume,22.0,0,0.0
+mac os,22,0,0,1,resume,22.0,0,0.0
+marketing collateral,22,0,0,1,resume,22.0,0,0.0
+payroll processing,22,0,0,1,resume,22.0,0,0.0
+project plans,22,0,0,1,resume,22.0,0,0.0
+reception,22,0,0,1,resume,22.0,0,0.0
+sales and,22,0,0,1,resume,22.0,0,0.0
+sas,22,0,0,1,resume,22.0,0,0.0
+structured,22,0,0,1,resume,22.0,0,0.0
+symantec,22,0,0,1,resume,22.0,0,0.0
+training materials,22,0,0,1,resume,22.0,0,0.0
+visual basic,22,0,0,1,resume,22.0,0,0.0
+window,22,0,0,1,resume,22.0,0,0.0
+accounting system,21,0,0,1,resume,21.0,0,0.0
+benefits administration,21,0,0,1,resume,21.0,0,0.0
+blueprints,21,0,0,1,resume,21.0,0,0.0
+debit,21,0,0,1,resume,21.0,0,0.0
+film,21,0,0,1,resume,21.0,0,0.0
+financial accounting,21,0,0,1,resume,21.0,0,0.0
+http,21,0,0,1,resume,21.0,0,0.0
+hvac,21,0,0,1,resume,21.0,0,0.0
+lighting,21,0,0,1,resume,21.0,0,0.0
+macros,21,0,0,1,resume,21.0,0,0.0
+pick,21,0,0,1,resume,21.0,0,0.0
+quick learner,21,0,0,1,resume,21.0,0,0.0
+self-starter,21,0,0,1,resume,21.0,0,0.0
+spss,21,0,0,1,resume,21.0,0,0.0
+strategic plans,21,0,0,1,resume,21.0,0,0.0
+supervisory,21,0,0,1,resume,21.0,0,0.0
+technical assistance,21,0,0,1,resume,21.0,0,0.0
+win,21,0,0,1,resume,21.0,0,0.0
+bun,0,0,0,1,stackoverflow,20.5,2050,20.5
+hugging face transformers,0,0,0,1,stackoverflow,20.38,2038,20.38
+apache spark,0,0,0,1,stackoverflow,20.16,2016,20.16
+h2,0,0,0,1,stackoverflow,20.06,2006,20.06
+groovy,0,0,0,1,stackoverflow,20.04,2004,20.04
+accounts receivables,20,0,0,1,resume,20.0,0,0.0
+administrative assistant,20,0,0,1,resume,20.0,0,0.0
+annual reports,20,0,0,1,resume,20.0,0,0.0
+b2b,20,0,0,1,resume,20.0,0,0.0
+broadcast,20,0,0,1,resume,20.0,0,0.0
+business analysis,20,0,0,1,resume,20.0,0,0.0
+business plans,20,0,0,1,resume,20.0,0,0.0
+communicator,20,0,0,1,resume,20.0,0,0.0
+concise,20,0,0,1,resume,20.0,0,0.0
+costing,20,0,0,1,resume,20.0,0,0.0
+data management,20,0,0,1,resume,20.0,0,0.0
+dc,20,0,0,1,resume,20.0,0,0.0
+dependable,20,0,0,1,resume,20.0,0,0.0
+desktop support,20,0,0,1,resume,20.0,0,0.0
+document management,20,0,0,1,resume,20.0,0,0.0
+fast learner,20,0,0,1,resume,20.0,0,0.0
+faxing,20,0,0,1,resume,20.0,0,0.0
+frame,20,0,0,1,resume,20.0,0,0.0
+hindi,20,0,0,1,resume,20.0,0,0.0
+laser,20,0,0,1,resume,20.0,0,0.0
+mental health,20,0,0,1,resume,20.0,0,0.0
+neat,20,0,0,1,resume,20.0,0,0.0
+novell,20,0,0,1,resume,20.0,0,0.0
+outside sales,20,0,0,1,resume,20.0,0,0.0
+patient care,20,0,0,1,resume,20.0,0,0.0
+peachtree,20,0,0,1,resume,20.0,0,0.0
+positioning,20,0,0,1,resume,20.0,0,0.0
+publicity,20,0,0,1,resume,20.0,0,0.0
+satisfaction,20,0,0,1,resume,20.0,0,0.0
+trouble shooting,20,0,0,1,resume,20.0,0,0.0
+underwriting,20,0,0,1,resume,20.0,0,0.0
+variance analysis,20,0,0,1,resume,20.0,0,0.0
+view,20,0,0,1,resume,20.0,0,0.0
+windows 2000,20,0,0,1,resume,20.0,0,0.0
+swiftui,0,0,0,1,stackoverflow,19.86,1986,19.86
+3d modeling,4,3,0,2,resume|technical_roles,19.0,0,0.0
+advertisements,19,0,0,1,resume,19.0,0,0.0
+architect,19,0,0,1,resume,19.0,0,0.0
+camera,19,0,0,1,resume,19.0,0,0.0
+cpt,19,0,0,1,resume,19.0,0,0.0
+crystal reports,19,0,0,1,resume,19.0,0,0.0
+decision-making,19,0,0,1,resume,19.0,0,0.0
+french,19,0,0,1,resume,19.0,0,0.0
+general accounting,19,0,0,1,resume,19.0,0,0.0
+general manager,19,0,0,1,resume,19.0,0,0.0
+languages,19,0,0,1,resume,19.0,0,0.0
+mailing,19,0,0,1,resume,19.0,0,0.0
+mba,19,0,0,1,resume,19.0,0,0.0
+organizational development,19,0,0,1,resume,19.0,0,0.0
+personnel management,19,0,0,1,resume,19.0,0,0.0
+printer,19,0,0,1,resume,19.0,0,0.0
+proofreading,19,0,0,1,resume,19.0,0,0.0
+team leadership,19,0,0,1,resume,19.0,0,0.0
+telecom,19,0,0,1,resume,19.0,0,0.0
+verbal communication skills,19,0,0,1,resume,19.0,0,0.0
+writer,19,0,0,1,resume,19.0,0,0.0
+goland,0,0,0,1,stackoverflow,18.93,1893,18.93
+risk analysis,13,1,0,2,resume|technical_roles,18.0,0,0.0
+audit,18,0,0,1,resume,18.0,0,0.0
+business objects,18,0,0,1,resume,18.0,0,0.0
+customer care,18,0,0,1,resume,18.0,0,0.0
+customer service skills,18,0,0,1,resume,18.0,0,0.0
+executive management,18,0,0,1,resume,18.0,0,0.0
+faxes,18,0,0,1,resume,18.0,0,0.0
+internet explorer,18,0,0,1,resume,18.0,0,0.0
+laptops,18,0,0,1,resume,18.0,0,0.0
+mainframe,18,0,0,1,resume,18.0,0,0.0
+management skills,18,0,0,1,resume,18.0,0,0.0
+microsoft exchange,18,0,0,1,resume,18.0,0,0.0
+online marketing,18,0,0,1,resume,18.0,0,0.0
+paint,18,0,0,1,resume,18.0,0,0.0
+plumbing,18,0,0,1,resume,18.0,0,0.0
+retail marketing,18,0,0,1,resume,18.0,0,0.0
+sales reports,18,0,0,1,resume,18.0,0,0.0
+sarbanes-oxley,18,0,0,1,resume,18.0,0,0.0
+self motivated,18,0,0,1,resume,18.0,0,0.0
+system integration,18,0,0,1,resume,18.0,0,0.0
+test equipment,18,0,0,1,resume,18.0,0,0.0
+objective-c,0,1,0,2,stackoverflow|technical_roles,17.83,1283,12.83
+nuxt.js,0,0,0,1,stackoverflow,17.53,1753,17.53
+cosmos db,0,0,0,1,stackoverflow,17.46,1746,17.46
+a/p,17,0,0,1,resume,17.0,0,0.0
+accounts and,17,0,0,1,resume,17.0,0,0.0
+analytical skills,17,0,0,1,resume,17.0,0,0.0
+creative problem solving,17,0,0,1,resume,17.0,0,0.0
+detail-oriented,17,0,0,1,resume,17.0,0,0.0
+edge,17,0,0,1,resume,17.0,0,0.0
+financial planning,17,0,0,1,resume,17.0,0,0.0
+forklift,17,0,0,1,resume,17.0,0,0.0
+ids,17,0,0,1,resume,17.0,0,0.0
+information security,17,0,0,1,resume,17.0,0,0.0
+integration,17,0,0,1,resume,17.0,0,0.0
+integrator,17,0,0,1,resume,17.0,0,0.0
+navigation,17,0,0,1,resume,17.0,0,0.0
+new product development,17,0,0,1,resume,17.0,0,0.0
+office management,17,0,0,1,resume,17.0,0,0.0
+payables,17,0,0,1,resume,17.0,0,0.0
+presentation skills,17,0,0,1,resume,17.0,0,0.0
+psychology,17,0,0,1,resume,17.0,0,0.0
+script,17,0,0,1,resume,17.0,0,0.0
+sdlc,17,0,0,1,resume,17.0,0,0.0
+soldering,17,0,0,1,resume,17.0,0,0.0
+sop,17,0,0,1,resume,17.0,0,0.0
+statistical analysis,17,0,0,1,resume,17.0,0,0.0
+strong communication skills,17,0,0,1,resume,17.0,0,0.0
+telecommunication,17,0,0,1,resume,17.0,0,0.0
+vendor relations,17,0,0,1,resume,17.0,0,0.0
+windows 95,17,0,0,1,resume,17.0,0,0.0
+google test,0,0,0,1,stackoverflow,16.78,1678,16.78
+netbeans,0,0,0,1,stackoverflow,16.71,1671,16.71
+rstudio,0,0,0,1,stackoverflow,16.13,1613,16.13
+administrative duties,16,0,0,1,resume,16.0,0,0.0
+answering phones,16,0,0,1,resume,16.0,0,0.0
+application development,16,0,0,1,resume,16.0,0,0.0
+arabic,16,0,0,1,resume,16.0,0,0.0
+bonds,16,0,0,1,resume,16.0,0,0.0
+budget planning,16,0,0,1,resume,16.0,0,0.0
+cases,16,0,0,1,resume,16.0,0,0.0
+cash receipts,16,0,0,1,resume,16.0,0,0.0
+chemistry,16,0,0,1,resume,16.0,0,0.0
+configuration management,16,0,0,1,resume,16.0,0,0.0
+contract management,16,0,0,1,resume,16.0,0,0.0
+contract negotiation,16,0,0,1,resume,16.0,0,0.0
+copying,16,0,0,1,resume,16.0,0,0.0
+corporate finance,16,0,0,1,resume,16.0,0,0.0
+employee development,16,0,0,1,resume,16.0,0,0.0
+fluent in spanish,16,0,0,1,resume,16.0,0,0.0
+graphs,16,0,0,1,resume,16.0,0,0.0
+icd-9,16,0,0,1,resume,16.0,0,0.0
+lean manufacturing,16,0,0,1,resume,16.0,0,0.0
+microsoft certified professional,16,0,0,1,resume,16.0,0,0.0
+million,16,0,0,1,resume,16.0,0,0.0
+new business development,16,0,0,1,resume,16.0,0,0.0
+newspaper,16,0,0,1,resume,16.0,0,0.0
+office equipment,16,0,0,1,resume,16.0,0,0.0
+pbx,16,0,0,1,resume,16.0,0,0.0
+pl/sql,16,0,0,1,resume,16.0,0,0.0
+posters,16,0,0,1,resume,16.0,0,0.0
+program development,16,0,0,1,resume,16.0,0,0.0
+scripting,16,0,0,1,resume,16.0,0,0.0
+self-motivated,16,0,0,1,resume,16.0,0,0.0
+social media platforms,16,0,0,1,resume,16.0,0,0.0
+strategic marketing,16,0,0,1,resume,16.0,0,0.0
+user training,16,0,0,1,resume,16.0,0,0.0
+htmx,0,0,0,1,stackoverflow,15.91,1591,15.91
+fortran,9,0,0,2,resume|stackoverflow,15.65,665,6.65
+scala,0,0,0,1,stackoverflow,15.47,1547,15.47
+qt creator,0,0,0,1,stackoverflow,15.46,1546,15.46
+ant,0,0,0,1,stackoverflow,15.39,1539,15.39
+financial modeling,10,1,0,2,resume|technical_roles,15.0,0,0.0
+adobe creative suite,15,0,0,1,resume,15.0,0,0.0
+advanced problem-solving,15,0,0,1,resume,15.0,0,0.0
+atm,15,0,0,1,resume,15.0,0,0.0
+author,15,0,0,1,resume,15.0,0,0.0
+automate,15,0,0,1,resume,15.0,0,0.0
+balance sheets,15,0,0,1,resume,15.0,0,0.0
+cabling,15,0,0,1,resume,15.0,0,0.0
+cash registers,15,0,0,1,resume,15.0,0,0.0
+catalog,15,0,0,1,resume,15.0,0,0.0
+catalogs,15,0,0,1,resume,15.0,0,0.0
+correspondence,15,0,0,1,resume,15.0,0,0.0
+cost accounting,15,0,0,1,resume,15.0,0,0.0
+cost reduction,15,0,0,1,resume,15.0,0,0.0
+customer,15,0,0,1,resume,15.0,0,0.0
+data base,15,0,0,1,resume,15.0,0,0.0
+dec,15,0,0,1,resume,15.0,0,0.0
+editor,15,0,0,1,resume,15.0,0,0.0
+fluent in english,15,0,0,1,resume,15.0,0,0.0
+general ledger accounts,15,0,0,1,resume,15.0,0,0.0
+gis,15,0,0,1,resume,15.0,0,0.0
+it support,15,0,0,1,resume,15.0,0,0.0
+multimedia,15,0,0,1,resume,15.0,0,0.0
+naval,15,0,0,1,resume,15.0,0,0.0
+network administration,15,0,0,1,resume,15.0,0,0.0
+nt,15,0,0,1,resume,15.0,0,0.0
+oral communication,15,0,0,1,resume,15.0,0,0.0
+payments,15,0,0,1,resume,15.0,0,0.0
+premier,15,0,0,1,resume,15.0,0,0.0
+producer,15,0,0,1,resume,15.0,0,0.0
+promotional materials,15,0,0,1,resume,15.0,0,0.0
+property management,15,0,0,1,resume,15.0,0,0.0
+publication,15,0,0,1,resume,15.0,0,0.0
+quick books,15,0,0,1,resume,15.0,0,0.0
+quickbooks pro,15,0,0,1,resume,15.0,0,0.0
+rehabilitation,15,0,0,1,resume,15.0,0,0.0
+repairing,15,0,0,1,resume,15.0,0,0.0
+report writing,15,0,0,1,resume,15.0,0,0.0
+risk assessment,15,0,0,1,resume,15.0,0,0.0
+sales management,15,0,0,1,resume,15.0,0,0.0
+stories,15,0,0,1,resume,15.0,0,0.0
+tutoring,15,0,0,1,resume,15.0,0,0.0
+upgrading,15,0,0,1,resume,15.0,0,0.0
+valuation,15,0,0,1,resume,15.0,0,0.0
+web design,15,0,0,1,resume,15.0,0,0.0
+windows 8,15,0,0,1,resume,15.0,0,0.0
+word processing,15,0,0,1,resume,15.0,0,0.0
+astro,0,0,0,1,stackoverflow,14.62,1462,14.62
+nix,0,0,0,1,stackoverflow,14.5,1450,14.5
+.net maui,0,0,0,1,stackoverflow,14.46,1446,14.46
+"linode, now akamai",0,0,0,1,stackoverflow,14.25,1425,14.25
+gdscript,0,0,0,1,stackoverflow,14.02,1402,14.02
+accounting systems,14,0,0,1,resume,14.0,0,0.0
+air force,14,0,0,1,resume,14.0,0,0.0
+and marketing,14,0,0,1,resume,14.0,0,0.0
+articulate,14,0,0,1,resume,14.0,0,0.0
+business administration,14,0,0,1,resume,14.0,0,0.0
+business planning,14,0,0,1,resume,14.0,0,0.0
+clarify,14,0,0,1,resume,14.0,0,0.0
+composition,14,0,0,1,resume,14.0,0,0.0
+desktops,14,0,0,1,resume,14.0,0,0.0
+essbase,14,0,0,1,resume,14.0,0,0.0
+excel spreadsheets,14,0,0,1,resume,14.0,0,0.0
+filling,14,0,0,1,resume,14.0,0,0.0
+firing,14,0,0,1,resume,14.0,0,0.0
+great organizational skills,14,0,0,1,resume,14.0,0,0.0
+gui,14,0,0,1,resume,14.0,0,0.0
+healthcare,14,0,0,1,resume,14.0,0,0.0
+human resources management,14,0,0,1,resume,14.0,0,0.0
+inspecting,14,0,0,1,resume,14.0,0,0.0
+interior design,14,0,0,1,resume,14.0,0,0.0
+internal audit,14,0,0,1,resume,14.0,0,0.0
+its,14,0,0,1,resume,14.0,0,0.0
+labor relations,14,0,0,1,resume,14.0,0,0.0
+legal documents,14,0,0,1,resume,14.0,0,0.0
+litigation,14,0,0,1,resume,14.0,0,0.0
+logging,14,0,0,1,resume,14.0,0,0.0
+maintain records,14,0,0,1,resume,14.0,0,0.0
+marketing communications,14,0,0,1,resume,14.0,0,0.0
+mcp,14,0,0,1,resume,14.0,0,0.0
+mediation,14,0,0,1,resume,14.0,0,0.0
+minitab,14,0,0,1,resume,14.0,0,0.0
+multitasking,14,0,0,1,resume,14.0,0,0.0
+office manager,14,0,0,1,resume,14.0,0,0.0
+paralegal,14,0,0,1,resume,14.0,0,0.0
+promotional,14,0,0,1,resume,14.0,0,0.0
+router,14,0,0,1,resume,14.0,0,0.0
+sales manager,14,0,0,1,resume,14.0,0,0.0
+sales training,14,0,0,1,resume,14.0,0,0.0
+settlements,14,0,0,1,resume,14.0,0,0.0
+sla,14,0,0,1,resume,14.0,0,0.0
+sun,14,0,0,1,resume,14.0,0,0.0
+supply chain management,14,0,0,1,resume,14.0,0,0.0
+system administration,14,0,0,1,resume,14.0,0,0.0
+transmission,14,0,0,1,resume,14.0,0,0.0
+written communication skills,14,0,0,1,resume,14.0,0,0.0
+ovh,0,0,0,1,stackoverflow,13.97,1397,13.97
+managed hosting,0,0,0,1,stackoverflow,13.86,1386,13.86
+delphi,3,0,0,2,resume|stackoverflow,13.73,1073,10.73
+snowflake,0,0,0,1,stackoverflow,13.64,1364,13.64
+ruff,0,0,0,1,stackoverflow,13.55,1355,13.55
+platformio,0,0,0,1,stackoverflow,13.48,1348,13.48
+influxdb,0,0,0,1,stackoverflow,13.38,1338,13.38
+xamarin,0,0,0,1,stackoverflow,13.33,1333,13.33
+oracle cloud infrastructure (oci),0,0,0,1,stackoverflow,13.32,1332,13.32
+drupal,4,0,0,2,resume|stackoverflow,13.2,920,9.2
+render,0,0,0,1,stackoverflow,13.05,1305,13.05
+adp payroll,13,0,0,1,resume,13.0,0,0.0
+and sales,13,0,0,1,resume,13.0,0,0.0
+apache,13,0,0,1,resume,13.0,0,0.0
+attorney,13,0,0,1,resume,13.0,0,0.0
+back-up,13,0,0,1,resume,13.0,0,0.0
+benchmarking,13,0,0,1,resume,13.0,0,0.0
+bloomberg,13,0,0,1,resume,13.0,0,0.0
+bridges,13,0,0,1,resume,13.0,0,0.0
+budget analysis,13,0,0,1,resume,13.0,0,0.0
+business solutions,13,0,0,1,resume,13.0,0,0.0
+business strategy,13,0,0,1,resume,13.0,0,0.0
+claims,13,0,0,1,resume,13.0,0,0.0
+cognos,13,0,0,1,resume,13.0,0,0.0
+community relations,13,0,0,1,resume,13.0,0,0.0
+data warehouse,13,0,0,1,resume,13.0,0,0.0
+direct sales,13,0,0,1,resume,13.0,0,0.0
+file,13,0,0,1,resume,13.0,0,0.0
+food safety,13,0,0,1,resume,13.0,0,0.0
+ghost,13,0,0,1,resume,13.0,0,0.0
+hand tools,13,0,0,1,resume,13.0,0,0.0
+inventory levels,13,0,0,1,resume,13.0,0,0.0
+invoices,13,0,0,1,resume,13.0,0,0.0
+lesson planning,13,0,0,1,resume,13.0,0,0.0
+marketing analysis,13,0,0,1,resume,13.0,0,0.0
+mcse,13,0,0,1,resume,13.0,0,0.0
+metrics,13,0,0,1,resume,13.0,0,0.0
+microsoft,13,0,0,1,resume,13.0,0,0.0
+microsoft dynamics,13,0,0,1,resume,13.0,0,0.0
+month end close,13,0,0,1,resume,13.0,0,0.0
+nas,13,0,0,1,resume,13.0,0,0.0
+new construction,13,0,0,1,resume,13.0,0,0.0
+pdf,13,0,0,1,resume,13.0,0,0.0
+peak,13,0,0,1,resume,13.0,0,0.0
+people skills,13,0,0,1,resume,13.0,0,0.0
+proxy,13,0,0,1,resume,13.0,0,0.0
+sales support,13,0,0,1,resume,13.0,0,0.0
+scientific,13,0,0,1,resume,13.0,0,0.0
+secretarial,13,0,0,1,resume,13.0,0,0.0
+speeches,13,0,0,1,resume,13.0,0,0.0
+storage area network,13,0,0,1,resume,13.0,0,0.0
+switch,13,0,0,1,resume,13.0,0,0.0
+therapy,13,0,0,1,resume,13.0,0,0.0
+translation,13,0,0,1,resume,13.0,0,0.0
+verbal communication,13,0,0,1,resume,13.0,0,0.0
+written communication,13,0,0,1,resume,13.0,0,0.0
+cassandra,0,0,0,1,stackoverflow,12.68,1268,12.68
+code::blocks,0,0,0,1,stackoverflow,12.47,1247,12.47
+elixir,0,0,0,1,stackoverflow,12.43,1243,12.43
+accounts payables,12,0,0,1,resume,12.0,0,0.0
+accrual,12,0,0,1,resume,12.0,0,0.0
+administrative functions,12,0,0,1,resume,12.0,0,0.0
+antivirus,12,0,0,1,resume,12.0,0,0.0
+cancer,12,0,0,1,resume,12.0,0,0.0
+ccna,12,0,0,1,resume,12.0,0,0.0
+certified public accountant,12,0,0,1,resume,12.0,0,0.0
+client/server,12,0,0,1,resume,12.0,0,0.0
+cnc,12,0,0,1,resume,12.0,0,0.0
+collection,12,0,0,1,resume,12.0,0,0.0
+compensation,12,0,0,1,resume,12.0,0,0.0
+computer hardware,12,0,0,1,resume,12.0,0,0.0
+computer proficiency,12,0,0,1,resume,12.0,0,0.0
+curriculum development,12,0,0,1,resume,12.0,0,0.0
+direct marketing,12,0,0,1,resume,12.0,0,0.0
+dos,12,0,0,1,resume,12.0,0,0.0
+enthusiastic people person,12,0,0,1,resume,12.0,0,0.0
+front office,12,0,0,1,resume,12.0,0,0.0
+home health,12,0,0,1,resume,12.0,0,0.0
+illustration,12,0,0,1,resume,12.0,0,0.0
+inspector,12,0,0,1,resume,12.0,0,0.0
+instructional design,12,0,0,1,resume,12.0,0,0.0
+latin,12,0,0,1,resume,12.0,0,0.0
+market analysis,12,0,0,1,resume,12.0,0,0.0
+market trends,12,0,0,1,resume,12.0,0,0.0
+marketing and sales,12,0,0,1,resume,12.0,0,0.0
+medical billing,12,0,0,1,resume,12.0,0,0.0
+microsoft sharepoint,12,0,0,1,resume,12.0,0,0.0
+microstation,12,0,0,1,resume,12.0,0,0.0
+ms sql server,12,0,0,1,resume,12.0,0,0.0
+philosophy,12,0,0,1,resume,12.0,0,0.0
+plc,12,0,0,1,resume,12.0,0,0.0
+real time,12,0,0,1,resume,12.0,0,0.0
+rendering,12,0,0,1,resume,12.0,0,0.0
+renovation,12,0,0,1,resume,12.0,0,0.0
+search engine optimization,12,0,0,1,resume,12.0,0,0.0
+sorting,12,0,0,1,resume,12.0,0,0.0
+speaker,12,0,0,1,resume,12.0,0,0.0
+ssl,12,0,0,1,resume,12.0,0,0.0
+strong interpersonal skills,12,0,0,1,resume,12.0,0,0.0
+technical documentation,12,0,0,1,resume,12.0,0,0.0
+telephone skills,12,0,0,1,resume,12.0,0,0.0
+tops,12,0,0,1,resume,12.0,0,0.0
+windows nt,12,0,0,1,resume,12.0,0,0.0
+haskell,0,0,0,1,stackoverflow,11.93,1193,11.93
+fly.io,0,0,0,1,stackoverflow,11.89,1189,11.89
+gtk,0,0,0,1,stackoverflow,11.76,1176,11.76
+ionic,0,0,0,1,stackoverflow,11.32,1132,11.32
+openshift,0,0,0,1,stackoverflow,11.2,1120,11.2
+tauri,0,0,0,1,stackoverflow,11.14,1114,11.14
+aviation,11,0,0,1,resume,11.0,0,0.0
+brand strategy,11,0,0,1,resume,11.0,0,0.0
+budget preparation,11,0,0,1,resume,11.0,0,0.0
+buying/procurement,11,0,0,1,resume,11.0,0,0.0
+cables,11,0,0,1,resume,11.0,0,0.0
+crisis management,11,0,0,1,resume,11.0,0,0.0
+diagnosis,11,0,0,1,resume,11.0,0,0.0
+ecommerce,11,0,0,1,resume,11.0,0,0.0
+equipment maintenance,11,0,0,1,resume,11.0,0,0.0
+event management,11,0,0,1,resume,11.0,0,0.0
+explorer,11,0,0,1,resume,11.0,0,0.0
+goal setting,11,0,0,1,resume,11.0,0,0.0
+gps,11,0,0,1,resume,11.0,0,0.0
+great plains,11,0,0,1,resume,11.0,0,0.0
+iis,11,0,0,1,resume,11.0,0,0.0
+international business,11,0,0,1,resume,11.0,0,0.0
+labview,11,0,0,1,resume,11.0,0,0.0
+lawson,11,0,0,1,resume,11.0,0,0.0
+local area network,11,0,0,1,resume,11.0,0,0.0
+logo,11,0,0,1,resume,11.0,0,0.0
+lotus,11,0,0,1,resume,11.0,0,0.0
+manufacturing process,11,0,0,1,resume,11.0,0,0.0
+mechanic,11,0,0,1,resume,11.0,0,0.0
+microsoft office applications,11,0,0,1,resume,11.0,0,0.0
+microsoft office programs,11,0,0,1,resume,11.0,0,0.0
+multi-task management,11,0,0,1,resume,11.0,0,0.0
+needs analysis,11,0,0,1,resume,11.0,0,0.0
+newspapers,11,0,0,1,resume,11.0,0,0.0
+oct,11,0,0,1,resume,11.0,0,0.0
+of sales,11,0,0,1,resume,11.0,0,0.0
+oracle database,11,0,0,1,resume,11.0,0,0.0
+people management,11,0,0,1,resume,11.0,0,0.0
+peripherals,11,0,0,1,resume,11.0,0,0.0
+powerpoint presentations,11,0,0,1,resume,11.0,0,0.0
+process control,11,0,0,1,resume,11.0,0,0.0
+project,11,0,0,1,resume,11.0,0,0.0
+project manager,11,0,0,1,resume,11.0,0,0.0
+reconciliation,11,0,0,1,resume,11.0,0,0.0
+red hat,11,0,0,1,resume,11.0,0,0.0
+sarbanes oxley,11,0,0,1,resume,11.0,0,0.0
+service,11,0,0,1,resume,11.0,0,0.0
+siemens,11,0,0,1,resume,11.0,0,0.0
+system design,11,0,0,1,resume,11.0,0,0.0
+training employees,11,0,0,1,resume,11.0,0,0.0
+trial balance,11,0,0,1,resume,11.0,0,0.0
+video editing,11,0,0,1,resume,11.0,0,0.0
+web site,11,0,0,1,resume,11.0,0,0.0
+fastify,0,0,0,1,stackoverflow,10.7,1070,10.7
+kate,0,0,0,1,stackoverflow,10.7,1070,10.7
+hadoop,0,0,0,1,stackoverflow,10.47,1047,10.47
+cordova,0,0,0,1,stackoverflow,10.11,1011,10.11
+databricks sql,0,0,0,1,stackoverflow,10.03,1003,10.03
+android development,0,2,0,1,technical_roles,10.0,0,0.0
+billing system,10,0,0,1,resume,10.0,0,0.0
+budget development,10,0,0,1,resume,10.0,0,0.0
+class,10,0,0,1,resume,10.0,0,0.0
+comprehensive large array data stewardship system,10,0,0,1,resume,10.0,0,0.0
+computer applications,10,0,0,1,resume,10.0,0,0.0
+counselor,10,0,0,1,resume,10.0,0,0.0
+creative problem solver,10,0,0,1,resume,10.0,0,0.0
+customer needs assessment,10,0,0,1,resume,10.0,0,0.0
+department of health,10,0,0,1,resume,10.0,0,0.0
+design and construction,10,0,0,1,resume,10.0,0,0.0
+development,10,0,0,1,resume,10.0,0,0.0
+dispatching,10,0,0,1,resume,10.0,0,0.0
+draw,10,0,0,1,resume,10.0,0,0.0
+editorial,10,0,0,1,resume,10.0,0,0.0
+electrical systems,10,0,0,1,resume,10.0,0,0.0
+ethernet,10,0,0,1,resume,10.0,0,0.0
+excellent written,10,0,0,1,resume,10.0,0,0.0
+financial analyst,10,0,0,1,resume,10.0,0,0.0
+financial operations,10,0,0,1,resume,10.0,0,0.0
+game physics,0,2,0,1,technical_roles,10.0,0,0.0
+general office,10,0,0,1,resume,10.0,0,0.0
+instructing,10,0,0,1,resume,10.0,0,0.0
+law enforcement,10,0,0,1,resume,10.0,0,0.0
+loans,10,0,0,1,resume,10.0,0,0.0
+ma,10,0,0,1,resume,10.0,0,0.0
+ms windows,10,0,0,1,resume,10.0,0,0.0
+nec,10,0,0,1,resume,10.0,0,0.0
+negotiator,10,0,0,1,resume,10.0,0,0.0
+new hires,10,0,0,1,resume,10.0,0,0.0
+performance appraisals,10,0,0,1,resume,10.0,0,0.0
+physics,10,0,0,1,resume,10.0,0,0.0
+power tools,10,0,0,1,resume,10.0,0,0.0
+prime,10,0,0,1,resume,10.0,0,0.0
+product marketing,10,0,0,1,resume,10.0,0,0.0
+project lead,10,0,0,1,resume,10.0,0,0.0
+proofing,10,0,0,1,resume,10.0,0,0.0
+quantitative analysis,10,0,0,1,resume,10.0,0,0.0
+radar,10,0,0,1,resume,10.0,0,0.0
+recruiter,10,0,0,1,resume,10.0,0,0.0
+renovations,10,0,0,1,resume,10.0,0,0.0
+revit,10,0,0,1,resume,10.0,0,0.0
+sales analysis,10,0,0,1,resume,10.0,0,0.0
+salesforce,10,0,0,1,resume,10.0,0,0.0
+software installation,10,0,0,1,resume,10.0,0,0.0
+speech,10,0,0,1,resume,10.0,0,0.0
+surgery,10,0,0,1,resume,10.0,0,0.0
+systems administration,10,0,0,1,resume,10.0,0,0.0
+tax preparation,10,0,0,1,resume,10.0,0,0.0
+team management,10,0,0,1,resume,10.0,0,0.0
+technical training,10,0,0,1,resume,10.0,0,0.0
+telemarketing,10,0,0,1,resume,10.0,0,0.0
+translating,10,0,0,1,resume,10.0,0,0.0
+ux,10,0,0,1,resume,10.0,0,0.0
+web based,10,0,0,1,resume,10.0,0,0.0
+web development,10,0,0,1,resume,10.0,0,0.0
+website design,10,0,0,1,resume,10.0,0,0.0
+neo4j,0,0,0,1,stackoverflow,9.98,998,9.98
+fleet,0,0,0,1,stackoverflow,9.81,981,9.81
+helix,0,0,0,1,stackoverflow,9.79,979,9.79
+mfc,5,0,0,2,resume|stackoverflow,9.690000000000001,469,4.69
+crystal,7,0,0,2,resume|stackoverflow,9.53,253,2.53
+deno,0,0,0,1,stackoverflow,9.43,943,9.43
+micropython,0,0,0,1,stackoverflow,9.42,942,9.42
+phoenix,0,0,0,1,stackoverflow,9.3,930,9.3
+databricks,0,0,0,1,stackoverflow,9.18,918,9.18
+ibm db2,0,0,0,1,stackoverflow,9.14,914,9.14
+cobol,5,0,0,2,resume|stackoverflow,9.129999999999999,413,4.13
+abc,9,0,0,1,resume,9.0,0,0.0
+analysis,9,0,0,1,resume,9.0,0,0.0
+analytical,9,0,0,1,resume,9.0,0,0.0
+anatomy,9,0,0,1,resume,9.0,0,0.0
+answering,9,0,0,1,resume,9.0,0,0.0
+ansys,9,0,0,1,resume,9.0,0,0.0
+asp,9,0,0,1,resume,9.0,0,0.0
+automobiles,9,0,0,1,resume,9.0,0,0.0
+backup exec,9,0,0,1,resume,9.0,0,0.0
+billing systems,9,0,0,1,resume,9.0,0,0.0
+business law,9,0,0,1,resume,9.0,0,0.0
+business strategies,9,0,0,1,resume,9.0,0,0.0
+calculators,9,0,0,1,resume,9.0,0,0.0
+calendaring,9,0,0,1,resume,9.0,0,0.0
+capacity planning,9,0,0,1,resume,9.0,0,0.0
+carpentry,9,0,0,1,resume,9.0,0,0.0
+cd,9,0,0,1,resume,9.0,0,0.0
+chinese,9,0,0,1,resume,9.0,0,0.0
+clerk,9,0,0,1,resume,9.0,0,0.0
+collections,9,0,0,1,resume,9.0,0,0.0
+copiers,9,0,0,1,resume,9.0,0,0.0
+corporate communications,9,0,0,1,resume,9.0,0,0.0
+credit card,9,0,0,1,resume,9.0,0,0.0
+customer service experience,9,0,0,1,resume,9.0,0,0.0
+database design,9,0,0,1,resume,9.0,0,0.0
+deployment,9,0,0,1,resume,9.0,0,0.0
+educational programs,9,0,0,1,resume,9.0,0,0.0
+educator,9,0,0,1,resume,9.0,0,0.0
+facilities management,9,0,0,1,resume,9.0,0,0.0
+factiva desktop publishing software: photoshop,9,0,0,1,resume,9.0,0,0.0
+file management,9,0,0,1,resume,9.0,0,0.0
+financial audits,9,0,0,1,resume,9.0,0,0.0
+fixed income,9,0,0,1,resume,9.0,0,0.0
+gateway,9,0,0,1,resume,9.0,0,0.0
+general ledger accounting,9,0,0,1,resume,9.0,0,0.0
+government regulations,9,0,0,1,resume,9.0,0,0.0
+health education,9,0,0,1,resume,9.0,0,0.0
+hospice,9,0,0,1,resume,9.0,0,0.0
+html5,9,0,0,1,resume,9.0,0,0.0
+inside sales,9,0,0,1,resume,9.0,0,0.0
+interpersonal communication,9,0,0,1,resume,9.0,0,0.0
+iso 9001,9,0,0,1,resume,9.0,0,0.0
+italian,9,0,0,1,resume,9.0,0,0.0
+json,9,0,0,1,resume,9.0,0,0.0
+letters and memos,9,0,0,1,resume,9.0,0,0.0
+mathcad,9,0,0,1,resume,9.0,0,0.0
+medisoft,9,0,0,1,resume,9.0,0,0.0
+microsoft certified,9,0,0,1,resume,9.0,0,0.0
+needs assessment,9,0,0,1,resume,9.0,0,0.0
+order entry,9,0,0,1,resume,9.0,0,0.0
+ordering,9,0,0,1,resume,9.0,0,0.0
+organization skills,9,0,0,1,resume,9.0,0,0.0
+pc's,9,0,0,1,resume,9.0,0,0.0
+pci,9,0,0,1,resume,9.0,0,0.0
+phlebotomy,9,0,0,1,resume,9.0,0,0.0
+problem-solving skills,9,0,0,1,resume,9.0,0,0.0
+process development,9,0,0,1,resume,9.0,0,0.0
+product design,9,0,0,1,resume,9.0,0,0.0
+profit and loss,9,0,0,1,resume,9.0,0,0.0
+project coordination,9,0,0,1,resume,9.0,0,0.0
+purchase orders,9,0,0,1,resume,9.0,0,0.0
+quality improvement,9,0,0,1,resume,9.0,0,0.0
+quicken,9,0,0,1,resume,9.0,0,0.0
+sat,9,0,0,1,resume,9.0,0,0.0
+scanner,9,0,0,1,resume,9.0,0,0.0
+service level agreements,9,0,0,1,resume,9.0,0,0.0
+siebel,9,0,0,1,resume,9.0,0,0.0
+software engineering,9,0,0,1,resume,9.0,0,0.0
+store manager,9,0,0,1,resume,9.0,0,0.0
+systems integration,9,0,0,1,resume,9.0,0,0.0
+telephony,9,0,0,1,resume,9.0,0,0.0
+trading,9,0,0,1,resume,9.0,0,0.0
+user support,9,0,0,1,resume,9.0,0,0.0
+vb.net,9,0,0,1,resume,9.0,0,0.0
+web server,9,0,0,1,resume,9.0,0,0.0
+writing,9,0,0,1,resume,9.0,0,0.0
+writing skills,9,0,0,1,resume,9.0,0,0.0
+pythonanywhere,0,0,0,1,stackoverflow,8.92,892,8.92
+clickhouse,0,0,0,1,stackoverflow,8.9,890,8.9
+lisp,0,0,0,1,stackoverflow,8.89,889,8.89
+directx,0,0,0,1,stackoverflow,8.79,879,8.79
+spyder,0,0,0,1,stackoverflow,8.28,828,8.28
+meson,0,0,0,1,stackoverflow,8.23,823,8.23
+strapi,0,0,0,1,stackoverflow,8.15,815,8.15
+codeigniter,0,0,0,1,stackoverflow,8.12,812,8.12
+capacitor,0,0,0,1,stackoverflow,8.04,804,8.04
+design,6,0,1,2,linkedin|resume,8.0,0,0.0
+aia,8,0,0,1,resume,8.0,0,0.0
+android,8,0,0,1,resume,8.0,0,0.0
+answer phones,8,0,0,1,resume,8.0,0,0.0
+anti-virus,8,0,0,1,resume,8.0,0,0.0
+architecture,8,0,0,1,resume,8.0,0,0.0
+artist,8,0,0,1,resume,8.0,0,0.0
+as/400,8,0,0,1,resume,8.0,0,0.0
+assist patients,8,0,0,1,resume,8.0,0,0.0
+avid,8,0,0,1,resume,8.0,0,0.0
+banners,8,0,0,1,resume,8.0,0,0.0
+behavioral health,8,0,0,1,resume,8.0,0,0.0
+biology,8,0,0,1,resume,8.0,0,0.0
+building codes,8,0,0,1,resume,8.0,0,0.0
+ceridian,8,0,0,1,resume,8.0,0,0.0
+child care,8,0,0,1,resume,8.0,0,0.0
+client support,8,0,0,1,resume,8.0,0,0.0
+computer knowledge,8,0,0,1,resume,8.0,0,0.0
+customer service training,8,0,0,1,resume,8.0,0,0.0
+db2,8,0,0,1,resume,8.0,0,0.0
+dba,8,0,0,1,resume,8.0,0,0.0
+desktop publishing,8,0,0,1,resume,8.0,0,0.0
+edi,8,0,0,1,resume,8.0,0,0.0
+encryption,8,0,0,1,resume,8.0,0,0.0
+etl,8,0,0,1,resume,8.0,0,0.0
+exchange server,8,0,0,1,resume,8.0,0,0.0
+executive management support,8,0,0,1,resume,8.0,0,0.0
+experiments,8,0,0,1,resume,8.0,0,0.0
+external audits,8,0,0,1,resume,8.0,0,0.0
+financial statement analysis,8,0,0,1,resume,8.0,0,0.0
+foreign exchange,8,0,0,1,resume,8.0,0,0.0
+forklifts,8,0,0,1,resume,8.0,0,0.0
+games,8,0,0,1,resume,8.0,0,0.0
+general office duties,8,0,0,1,resume,8.0,0,0.0
+german,8,0,0,1,resume,8.0,0,0.0
+grammar,8,0,0,1,resume,8.0,0,0.0
+help desk support,8,0,0,1,resume,8.0,0,0.0
+home office,8,0,0,1,resume,8.0,0,0.0
+intel,8,0,0,1,resume,8.0,0,0.0
+internal audits,8,0,0,1,resume,8.0,0,0.0
+internet marketing,8,0,0,1,resume,8.0,0,0.0
+invoice,8,0,0,1,resume,8.0,0,0.0
+invoice processing,8,0,0,1,resume,8.0,0,0.0
+job costing,8,0,0,1,resume,8.0,0,0.0
+leads,8,0,0,1,resume,8.0,0,0.0
+logos,8,0,0,1,resume,8.0,0,0.0
+machining,8,0,0,1,resume,8.0,0,0.0
+maintain inventory,8,0,0,1,resume,8.0,0,0.0
+management information system,8,0,0,1,resume,8.0,0,0.0
+management reporting,8,0,0,1,resume,8.0,0,0.0
+manufacturing processes,8,0,0,1,resume,8.0,0,0.0
+mark,8,0,0,1,resume,8.0,0,0.0
+marketing management,8,0,0,1,resume,8.0,0,0.0
+mas90,8,0,0,1,resume,8.0,0,0.0
+medical records,8,0,0,1,resume,8.0,0,0.0
+memory,8,0,0,1,resume,8.0,0,0.0
+mergers,8,0,0,1,resume,8.0,0,0.0
+mergers and acquisitions,8,0,0,1,resume,8.0,0,0.0
+ms sql,8,0,0,1,resume,8.0,0,0.0
+mvc,8,0,0,1,resume,8.0,0,0.0
+network systems,8,0,0,1,resume,8.0,0,0.0
+office administration,8,0,0,1,resume,8.0,0,0.0
+oscilloscopes,8,0,0,1,resume,8.0,0,0.0
+people soft,8,0,0,1,resume,8.0,0,0.0
+phone etiquette,8,0,0,1,resume,8.0,0,0.0
+physiology,8,0,0,1,resume,8.0,0,0.0
+point of sale,8,0,0,1,resume,8.0,0,0.0
+process payroll,8,0,0,1,resume,8.0,0,0.0
+processors,8,0,0,1,resume,8.0,0,0.0
+project development,8,0,0,1,resume,8.0,0,0.0
+quality management,8,0,0,1,resume,8.0,0,0.0
+quarkxpress,8,0,0,1,resume,8.0,0,0.0
+requirements gathering,8,0,0,1,resume,8.0,0,0.0
+sales associate,8,0,0,1,resume,8.0,0,0.0
+sales software: salesforce.com,8,0,0,1,resume,8.0,0,0.0
+shell,8,0,0,1,resume,8.0,0,0.0
+sketching,8,0,0,1,resume,8.0,0,0.0
+statistical process control,8,0,0,1,resume,8.0,0,0.0
+strategic management,8,0,0,1,resume,8.0,0,0.0
+take messages,8,0,0,1,resume,8.0,0,0.0
+tapscan public relations software: bacon's mediasource,8,0,0,1,resume,8.0,0,0.0
+technical writing,8,0,0,1,resume,8.0,0,0.0
+timberline,8,0,0,1,resume,8.0,0,0.0
+tivoli,8,0,0,1,resume,8.0,0,0.0
+training material,8,0,0,1,resume,8.0,0,0.0
+transmissions,8,0,0,1,resume,8.0,0,0.0
+underwriter,8,0,0,1,resume,8.0,0,0.0
+voice mail,8,0,0,1,resume,8.0,0,0.0
+web content,8,0,0,1,resume,8.0,0,0.0
+windows 98,8,0,0,1,resume,8.0,0,0.0
+wise,8,0,0,1,resume,8.0,0,0.0
+wound care,8,0,0,1,resume,8.0,0,0.0
+vultr,0,0,0,1,stackoverflow,7.98,798,7.98
+opencl,0,0,0,1,stackoverflow,7.85,785,7.85
+tidyverse,0,0,0,1,stackoverflow,7.68,768,7.68
+solr,0,0,0,1,stackoverflow,7.66,766,7.66
+gatsby,0,0,0,1,stackoverflow,7.58,758,7.58
+remix,0,0,0,1,stackoverflow,7.57,757,7.57
+roslyn,0,0,0,1,stackoverflow,7.55,755,7.55
+clojure,0,0,0,1,stackoverflow,7.37,737,7.37
+openstack,0,0,0,1,stackoverflow,7.16,716,7.16
+duckdb,0,0,0,1,stackoverflow,7.1,710,7.1
+10-key,7,0,0,1,resume,7.0,0,0.0
+act!,7,0,0,1,resume,7.0,0,0.0
+acute care,7,0,0,1,resume,7.0,0,0.0
+adjustments,7,0,0,1,resume,7.0,0,0.0
+after effects,7,0,0,1,resume,7.0,0,0.0
+animation,7,0,0,1,resume,7.0,0,0.0
+arbitration,7,0,0,1,resume,7.0,0,0.0
+archiving,7,0,0,1,resume,7.0,0,0.0
+assistant manager,7,0,0,1,resume,7.0,0,0.0
+avaya,7,0,0,1,resume,7.0,0,0.0
+bookkeeper,7,0,0,1,resume,7.0,0,0.0
+brochure,7,0,0,1,resume,7.0,0,0.0
+business case,7,0,0,1,resume,7.0,0,0.0
+business process improvement,7,0,0,1,resume,7.0,0,0.0
+cameras,7,0,0,1,resume,7.0,0,0.0
+catia,7,0,0,1,resume,7.0,0,0.0
+cisco routers,7,0,0,1,resume,7.0,0,0.0
+cisco switches,7,0,0,1,resume,7.0,0,0.0
+cli,7,0,0,1,resume,7.0,0,0.0
+client management,7,0,0,1,resume,7.0,0,0.0
+cna,7,0,0,1,resume,7.0,0,0.0
+commodities,7,0,0,1,resume,7.0,0,0.0
+communications,7,0,0,1,resume,7.0,0,0.0
+community health,7,0,0,1,resume,7.0,0,0.0
+computer networking,7,0,0,1,resume,7.0,0,0.0
+computer proficient,7,0,0,1,resume,7.0,0,0.0
+conflict management,7,0,0,1,resume,7.0,0,0.0
+creative writing,7,0,0,1,resume,7.0,0,0.0
+crisis intervention,7,0,0,1,resume,7.0,0,0.0
+data mining,7,0,0,1,resume,7.0,0,0.0
+data processing,7,0,0,1,resume,7.0,0,0.0
+database administration,7,0,0,1,resume,7.0,0,0.0
+design software,7,0,0,1,resume,7.0,0,0.0
+dimensions,7,0,0,1,resume,7.0,0,0.0
+dna,7,0,0,1,resume,7.0,0,0.0
+doors,7,0,0,1,resume,7.0,0,0.0
+e-business,7,0,0,1,resume,7.0,0,0.0
+employee handbooks,7,0,0,1,resume,7.0,0,0.0
+enterprise resource planning,7,0,0,1,resume,7.0,0,0.0
+excellent interpersonal skills,7,0,0,1,resume,7.0,0,0.0
+excellent multitasker,7,0,0,1,resume,7.0,0,0.0
+floor plans,7,0,0,1,resume,7.0,0,0.0
+fm,7,0,0,1,resume,7.0,0,0.0
+forecasts,7,0,0,1,resume,7.0,0,0.0
+forklift operator,7,0,0,1,resume,7.0,0,0.0
+frontpage,7,0,0,1,resume,7.0,0,0.0
+fsa,7,0,0,1,resume,7.0,0,0.0
+gmp,7,0,0,1,resume,7.0,0,0.0
+groupwise,7,0,0,1,resume,7.0,0,0.0
+health and safety standards,7,0,0,1,resume,7.0,0,0.0
+hp-ux,7,0,0,1,resume,7.0,0,0.0
+in sales,7,0,0,1,resume,7.0,0,0.0
+internet applications,7,0,0,1,resume,7.0,0,0.0
+issue receipts,7,0,0,1,resume,7.0,0,0.0
+itil v,7,0,0,1,resume,7.0,0,0.0
+journalism,7,0,0,1,resume,7.0,0,0.0
+lathe,7,0,0,1,resume,7.0,0,0.0
+leadership training,7,0,0,1,resume,7.0,0,0.0
+legal compliance,7,0,0,1,resume,7.0,0,0.0
+managerial accounting,7,0,0,1,resume,7.0,0,0.0
+marketing material,7,0,0,1,resume,7.0,0,0.0
+mas 90,7,0,0,1,resume,7.0,0,0.0
+medical coding,7,0,0,1,resume,7.0,0,0.0
+month-end closing,7,0,0,1,resume,7.0,0,0.0
+navision,7,0,0,1,resume,7.0,0,0.0
+netware,7,0,0,1,resume,7.0,0,0.0
+network administrator,7,0,0,1,resume,7.0,0,0.0
+network management,7,0,0,1,resume,7.0,0,0.0
+office machines,7,0,0,1,resume,7.0,0,0.0
+order management,7,0,0,1,resume,7.0,0,0.0
+organization development,7,0,0,1,resume,7.0,0,0.0
+pdm,7,0,0,1,resume,7.0,0,0.0
+performance appraisal,7,0,0,1,resume,7.0,0,0.0
+persuasion,7,0,0,1,resume,7.0,0,0.0
+persuasive,7,0,0,1,resume,7.0,0,0.0
+primavera,7,0,0,1,resume,7.0,0,0.0
+prioritization,7,0,0,1,resume,7.0,0,0.0
+proactive,7,0,0,1,resume,7.0,0,0.0
+process design,7,0,0,1,resume,7.0,0,0.0
+process engineering,7,0,0,1,resume,7.0,0,0.0
+proposal development,7,0,0,1,resume,7.0,0,0.0
+public health,7,0,0,1,resume,7.0,0,0.0
+public safety,7,0,0,1,resume,7.0,0,0.0
+public speaker,7,0,0,1,resume,7.0,0,0.0
+reconciliations,7,0,0,1,resume,7.0,0,0.0
+resolve customer complaints,7,0,0,1,resume,7.0,0,0.0
+rfi,7,0,0,1,resume,7.0,0,0.0
+sales team,7,0,0,1,resume,7.0,0,0.0
+sc,7,0,0,1,resume,7.0,0,0.0
+scada,7,0,0,1,resume,7.0,0,0.0
+scheduling appointments,7,0,0,1,resume,7.0,0,0.0
+service level agreement,7,0,0,1,resume,7.0,0,0.0
+share point,7,0,0,1,resume,7.0,0,0.0
+sigma,7,0,0,1,resume,7.0,0,0.0
+six-sigma,7,0,0,1,resume,7.0,0,0.0
+sms,7,0,0,1,resume,7.0,0,0.0
+software testing,7,0,0,1,resume,7.0,0,0.0
+solomon,7,0,0,1,resume,7.0,0,0.0
+space planning,7,0,0,1,resume,7.0,0,0.0
+stress management,7,0,0,1,resume,7.0,0,0.0
+strong organizational skills,7,0,0,1,resume,7.0,0,0.0
+supply inventory,7,0,0,1,resume,7.0,0,0.0
+switchboard,7,0,0,1,resume,7.0,0,0.0
+system administrator,7,0,0,1,resume,7.0,0,0.0
+tax compliance,7,0,0,1,resume,7.0,0,0.0
+team development,7,0,0,1,resume,7.0,0,0.0
+the sales,7,0,0,1,resume,7.0,0,0.0
+training manuals,7,0,0,1,resume,7.0,0,0.0
+trauma,7,0,0,1,resume,7.0,0,0.0
+triage,7,0,0,1,resume,7.0,0,0.0
+twitter,7,0,0,1,resume,7.0,0,0.0
+user interface,7,0,0,1,resume,7.0,0,0.0
+vm,7,0,0,1,resume,7.0,0,0.0
+voice,7,0,0,1,resume,7.0,0,0.0
+web applications,7,0,0,1,resume,7.0,0,0.0
+well organized,7,0,0,1,resume,7.0,0,0.0
+julia,0,0,0,1,stackoverflow,6.84,684,6.84
+qmake,0,0,0,1,stackoverflow,6.78,678,6.78
+zig,0,0,0,1,stackoverflow,6.67,667,6.67
+rubymine,0,0,0,1,stackoverflow,6.55,655,6.55
+dagger,0,0,0,1,stackoverflow,6.35,635,6.35
+puppet,0,0,0,1,stackoverflow,6.29,629,6.29
+geany,0,0,0,1,stackoverflow,6.05,605,6.05
+manufacturing,4,0,1,2,linkedin|resume,6.0,0,0.0
+account executive,6,0,0,1,resume,6.0,0,0.0
+accountable for,6,0,0,1,resume,6.0,0,0.0
+accounts payable and receivable,6,0,0,1,resume,6.0,0,0.0
+active learning,6,0,0,1,resume,6.0,0,0.0
+ajax,6,0,0,1,resume,6.0,0,0.0
+all microsoft,6,0,0,1,resume,6.0,0,0.0
+ambulance,6,0,0,1,resume,6.0,0,0.0
+annuities,6,0,0,1,resume,6.0,0,0.0
+audit reports,6,0,0,1,resume,6.0,0,0.0
+best practices,6,0,0,1,resume,6.0,0,0.0
+biotechnology,6,0,0,1,resume,6.0,0,0.0
+brand management,6,0,0,1,resume,6.0,0,0.0
+broadband,6,0,0,1,resume,6.0,0,0.0
+business requirements,6,0,0,1,resume,6.0,0,0.0
+business systems,6,0,0,1,resume,6.0,0,0.0
+careful and active listener,6,0,0,1,resume,6.0,0,0.0
+cashiering,6,0,0,1,resume,6.0,0,0.0
+cisco certified network associate,6,0,0,1,resume,6.0,0,0.0
+commercial lending,6,0,0,1,resume,6.0,0,0.0
+community outreach,6,0,0,1,resume,6.0,0,0.0
+content development,6,0,0,1,resume,6.0,0,0.0
+contract administration,6,0,0,1,resume,6.0,0,0.0
+coordination,6,0,0,1,resume,6.0,0,0.0
+copywriting,6,0,0,1,resume,6.0,0,0.0
+corporate accounting,6,0,0,1,resume,6.0,0,0.0
+creative design,6,0,0,1,resume,6.0,0,0.0
+crisis communications,6,0,0,1,resume,6.0,0,0.0
+css3,6,0,0,1,resume,6.0,0,0.0
+data acquisition,6,0,0,1,resume,6.0,0,0.0
+data warehousing,6,0,0,1,resume,6.0,0,0.0
+debugging,6,0,0,1,resume,6.0,0,0.0
+derivatives,6,0,0,1,resume,6.0,0,0.0
+design process,6,0,0,1,resume,6.0,0,0.0
+electrical engineering,6,0,0,1,resume,6.0,0,0.0
+electronic medical records,6,0,0,1,resume,6.0,0,0.0
+employee management,6,0,0,1,resume,6.0,0,0.0
+final cut pro,6,0,0,1,resume,6.0,0,0.0
+financial services,6,0,0,1,resume,6.0,0,0.0
+financial statement preparation,6,0,0,1,resume,6.0,0,0.0
+fireworks,6,0,0,1,resume,6.0,0,0.0
+forth,6,0,0,1,resume,6.0,0,0.0
+front desk,6,0,0,1,resume,6.0,0,0.0
+grant proposals,6,0,0,1,resume,6.0,0,0.0
+hard drives,6,0,0,1,resume,6.0,0,0.0
+home care,6,0,0,1,resume,6.0,0,0.0
+hub,6,0,0,1,resume,6.0,0,0.0
+hydraulics,6,0,0,1,resume,6.0,0,0.0
+ims,6,0,0,1,resume,6.0,0,0.0
+indexing,6,0,0,1,resume,6.0,0,0.0
+infection control,6,0,0,1,resume,6.0,0,0.0
+inspects,6,0,0,1,resume,6.0,0,0.0
+interviewing,6,0,0,1,resume,6.0,0,0.0
+investment banking,6,0,0,1,resume,6.0,0,0.0
+iq,6,0,0,1,resume,6.0,0,0.0
+journal,6,0,0,1,resume,6.0,0,0.0
+logistics management,6,0,0,1,resume,6.0,0,0.0
+macintosh,6,0,0,1,resume,6.0,0,0.0
+magic,6,0,0,1,resume,6.0,0,0.0
+maintain files,6,0,0,1,resume,6.0,0,0.0
+mapping,6,0,0,1,resume,6.0,0,0.0
+materials management,6,0,0,1,resume,6.0,0,0.0
+maya,6,0,0,1,resume,6.0,0,0.0
+mcafee,6,0,0,1,resume,6.0,0,0.0
+microsoft office products,6,0,0,1,resume,6.0,0,0.0
+microsoft products,6,0,0,1,resume,6.0,0,0.0
+microsoft visio,6,0,0,1,resume,6.0,0,0.0
+month end closing,6,0,0,1,resume,6.0,0,0.0
+monthly sales,6,0,0,1,resume,6.0,0,0.0
+ms-office,6,0,0,1,resume,6.0,0,0.0
+multimeters,6,0,0,1,resume,6.0,0,0.0
+natural gas,6,0,0,1,resume,6.0,0,0.0
+negotiating contracts,6,0,0,1,resume,6.0,0,0.0
+network support,6,0,0,1,resume,6.0,0,0.0
+new products,6,0,0,1,resume,6.0,0,0.0
+notary public,6,0,0,1,resume,6.0,0,0.0
+oncology,6,0,0,1,resume,6.0,0,0.0
+oop,6,0,0,1,resume,6.0,0,0.0
+oracle financials,6,0,0,1,resume,6.0,0,0.0
+outlook express,6,0,0,1,resume,6.0,0,0.0
+pacs,6,0,0,1,resume,6.0,0,0.0
+payment processing,6,0,0,1,resume,6.0,0,0.0
+peachtree accounting,6,0,0,1,resume,6.0,0,0.0
+phone skills,6,0,0,1,resume,6.0,0,0.0
+photocopiers,6,0,0,1,resume,6.0,0,0.0
+physical therapy,6,0,0,1,resume,6.0,0,0.0
+pipeline,6,0,0,1,resume,6.0,0,0.0
+platinum,6,0,0,1,resume,6.0,0,0.0
+plm,6,0,0,1,resume,6.0,0,0.0
+policy development,6,0,0,1,resume,6.0,0,0.0
+preparation of financial statements,6,0,0,1,resume,6.0,0,0.0
+prepare financial statements,6,0,0,1,resume,6.0,0,0.0
+primary care,6,0,0,1,resume,6.0,0,0.0
+print production,6,0,0,1,resume,6.0,0,0.0
+process invoices,6,0,0,1,resume,6.0,0,0.0
+program evaluation,6,0,0,1,resume,6.0,0,0.0
+programmer,6,0,0,1,resume,6.0,0,0.0
+project leadership,6,0,0,1,resume,6.0,0,0.0
+restaurant operations,6,0,0,1,resume,6.0,0,0.0
+reuters,6,0,0,1,resume,6.0,0,0.0
+revenue recognition,6,0,0,1,resume,6.0,0,0.0
+rn,6,0,0,1,resume,6.0,0,0.0
+robotic,6,0,0,1,resume,6.0,0,0.0
+robotics,6,0,0,1,resume,6.0,0,0.0
+roi,6,0,0,1,resume,6.0,0,0.0
+sales experience,6,0,0,1,resume,6.0,0,0.0
+sales forecasting,6,0,0,1,resume,6.0,0,0.0
+sales reporting,6,0,0,1,resume,6.0,0,0.0
+sales skills,6,0,0,1,resume,6.0,0,0.0
+sap r/3,6,0,0,1,resume,6.0,0,0.0
+scheme,6,0,0,1,resume,6.0,0,0.0
+security clearance,6,0,0,1,resume,6.0,0,0.0
+soap,6,0,0,1,resume,6.0,0,0.0
+solaris,6,0,0,1,resume,6.0,0,0.0
+spc,6,0,0,1,resume,6.0,0,0.0
+subject matter expert,6,0,0,1,resume,6.0,0,0.0
+systems development,6,0,0,1,resume,6.0,0,0.0
+tcp,6,0,0,1,resume,6.0,0,0.0
+technical manuals,6,0,0,1,resume,6.0,0,0.0
+terminal server,6,0,0,1,resume,6.0,0,0.0
+territory,6,0,0,1,resume,6.0,0,0.0
+threads,6,0,0,1,resume,6.0,0,0.0
+transcription,6,0,0,1,resume,6.0,0,0.0
+uhf,6,0,0,1,resume,6.0,0,0.0
+uml,6,0,0,1,resume,6.0,0,0.0
+vbscript,6,0,0,1,resume,6.0,0,0.0
+video production,6,0,0,1,resume,6.0,0,0.0
+visual merchandising,6,0,0,1,resume,6.0,0,0.0
+vital signs,6,0,0,1,resume,6.0,0,0.0
+water treatment,6,0,0,1,resume,6.0,0,0.0
+weblogic,6,0,0,1,resume,6.0,0,0.0
+website development,6,0,0,1,resume,6.0,0,0.0
+weld,6,0,0,1,resume,6.0,0,0.0
+white papers,6,0,0,1,resume,6.0,0,0.0
+windows applications,6,0,0,1,resume,6.0,0,0.0
+windows operating systems,6,0,0,1,resume,6.0,0,0.0
+with sales,6,0,0,1,resume,6.0,0,0.0
+word perfect,6,0,0,1,resume,6.0,0,0.0
+wordperfect,6,0,0,1,resume,6.0,0,0.0
+"rad studio (delphi, c++ builder)",0,0,0,1,stackoverflow,5.96,596,5.96
+solid.js,0,0,0,1,stackoverflow,5.9,590,5.9
+quarkus,0,0,0,1,stackoverflow,5.85,585,5.85
+firebird,0,0,0,1,stackoverflow,5.63,563,5.63
+ktor,0,0,0,1,stackoverflow,5.59,559,5.59
+alibaba cloud,0,0,0,1,stackoverflow,5.48,548,5.48
+couch db,0,0,0,1,stackoverflow,5.34,534,5.34
+mlflow,0,0,0,1,stackoverflow,5.31,531,5.31
+erlang,0,0,0,1,stackoverflow,5.22,522,5.22
+f#,0,0,0,1,stackoverflow,5.12,512,5.12
+cockroachdb,0,0,0,1,stackoverflow,5.07,507,5.07
+bbedit,0,0,0,1,stackoverflow,5.06,506,5.06
+catch2,0,0,0,1,stackoverflow,5.06,506,5.06
+ibm cloud or watson,0,0,0,1,stackoverflow,5.06,506,5.06
+apex,0,0,0,1,stackoverflow,5.02,502,5.02
+10 key,5,0,0,1,resume,5.0,0,0.0
+access database,5,0,0,1,resume,5.0,0,0.0
+accounts for,5,0,0,1,resume,5.0,0,0.0
+ad copy,5,0,0,1,resume,5.0,0,0.0
+administrative skills,5,0,0,1,resume,5.0,0,0.0
+adobe indesign,5,0,0,1,resume,5.0,0,0.0
+aix,5,0,0,1,resume,5.0,0,0.0
+alpha,5,0,0,1,resume,5.0,0,0.0
+appointment setting,5,0,0,1,resume,5.0,0,0.0
+ask,5,0,0,1,resume,5.0,0,0.0
+atl,5,0,0,1,resume,5.0,0,0.0
+auto cad,5,0,0,1,resume,5.0,0,0.0
+blueprint,5,0,0,1,resume,5.0,0,0.0
+book keeping,5,0,0,1,resume,5.0,0,0.0
+brand identity,5,0,0,1,resume,5.0,0,0.0
+brand marketing,5,0,0,1,resume,5.0,0,0.0
+business communications,5,0,0,1,resume,5.0,0,0.0
+business correspondence,5,0,0,1,resume,5.0,0,0.0
+business writing,5,0,0,1,resume,5.0,0,0.0
+calculator,5,0,0,1,resume,5.0,0,0.0
+canvas,5,0,0,1,resume,5.0,0,0.0
+capital expenditures,5,0,0,1,resume,5.0,0,0.0
+capital markets,5,0,0,1,resume,5.0,0,0.0
+cardiology,5,0,0,1,resume,5.0,0,0.0
+cisco ios,5,0,0,1,resume,5.0,0,0.0
+client server,5,0,0,1,resume,5.0,0,0.0
+clustering,5,0,0,1,resume,5.0,0,0.0
+competitive analysis,5,0,0,1,resume,5.0,0,0.0
+construction management,5,0,0,1,resume,5.0,0,0.0
+construction manager,5,0,0,1,resume,5.0,0,0.0
+copier,5,0,0,1,resume,5.0,0,0.0
+course development,5,0,0,1,resume,5.0,0,0.0
+creative direction,5,0,0,1,resume,5.0,0,0.0
+credit analysis,5,0,0,1,resume,5.0,0,0.0
+credit risk,5,0,0,1,resume,5.0,0,0.0
+customer inquiries,5,0,0,1,resume,5.0,0,0.0
+data analyst,5,0,0,1,resume,5.0,0,0.0
+data archiving,5,0,0,1,resume,5.0,0,0.0
+data migration,5,0,0,1,resume,5.0,0,0.0
+data science,0,1,0,1,technical_roles,5.0,0,0.0
+data warehouses,5,0,0,1,resume,5.0,0,0.0
+decision support,5,0,0,1,resume,5.0,0,0.0
+develop business,5,0,0,1,resume,5.0,0,0.0
+dialysis,5,0,0,1,resume,5.0,0,0.0
+dictation,5,0,0,1,resume,5.0,0,0.0
+electronic health records,5,0,0,1,resume,5.0,0,0.0
+employee engagement,5,0,0,1,resume,5.0,0,0.0
+engineering design,5,0,0,1,resume,5.0,0,0.0
+equipment operation,5,0,0,1,resume,5.0,0,0.0
+ergonomics,5,0,0,1,resume,5.0,0,0.0
+exceed,5,0,0,1,resume,5.0,0,0.0
+excellent communication skills,5,0,0,1,resume,5.0,0,0.0
+expense reporting,5,0,0,1,resume,5.0,0,0.0
+facebook,5,0,0,1,resume,5.0,0,0.0
+facsimile,5,0,0,1,resume,5.0,0,0.0
+fax machines,5,0,0,1,resume,5.0,0,0.0
+financial and accounting,5,0,0,1,resume,5.0,0,0.0
+financial planning and analysis,5,0,0,1,resume,5.0,0,0.0
+financial report,5,0,0,1,resume,5.0,0,0.0
+fp&a,5,0,0,1,resume,5.0,0,0.0
+frame relay,5,0,0,1,resume,5.0,0,0.0
+go live,5,0,0,1,resume,5.0,0,0.0
+good communication skills,5,0,0,1,resume,5.0,0,0.0
+graphic designer,5,0,0,1,resume,5.0,0,0.0
+gross profit,5,0,0,1,resume,5.0,0,0.0
+health promotion,5,0,0,1,resume,5.0,0,0.0
+honest,5,0,0,1,resume,5.0,0,0.0
+hootsuite,5,0,0,1,resume,5.0,0,0.0
+hubs,5,0,0,1,resume,5.0,0,0.0
+human relations,5,0,0,1,resume,5.0,0,0.0
+icd-10,5,0,0,1,resume,5.0,0,0.0
+ide,5,0,0,1,resume,5.0,0,0.0
+ie,5,0,0,1,resume,5.0,0,0.0
+incoming calls,5,0,0,1,resume,5.0,0,0.0
+inspections,5,0,0,1,resume,5.0,0,0.0
+internet connectivity,5,0,0,1,resume,5.0,0,0.0
+interpersonal and communication,5,0,0,1,resume,5.0,0,0.0
+intranet,5,0,0,1,resume,5.0,0,0.0
+investment management,5,0,0,1,resume,5.0,0,0.0
+it strategy,5,0,0,1,resume,5.0,0,0.0
+job analysis,5,0,0,1,resume,5.0,0,0.0
+knowledge management,5,0,0,1,resume,5.0,0,0.0
+lan/wan,5,0,0,1,resume,5.0,0,0.0
+ldap,5,0,0,1,resume,5.0,0,0.0
+lending,5,0,0,1,resume,5.0,0,0.0
+linkedin,5,0,0,1,resume,5.0,0,0.0
+long-term disability,5,0,0,1,resume,5.0,0,0.0
+ltd,5,0,0,1,resume,5.0,0,0.0
+maintaining inventory,5,0,0,1,resume,5.0,0,0.0
+market share,5,0,0,1,resume,5.0,0,0.0
+marketing research,5,0,0,1,resume,5.0,0,0.0
+material science,5,0,0,1,resume,5.0,0,0.0
+max,5,0,0,1,resume,5.0,0,0.0
+mb,5,0,0,1,resume,5.0,0,0.0
+mechanical engineering,5,0,0,1,resume,5.0,0,0.0
+media plan,5,0,0,1,resume,5.0,0,0.0
+media plans,5,0,0,1,resume,5.0,0,0.0
+medicaid,5,0,0,1,resume,5.0,0,0.0
+microsoft certified systems engineer,5,0,0,1,resume,5.0,0,0.0
+microsoft office (word,5,0,0,1,resume,5.0,0,0.0
+microsoft office suites,5,0,0,1,resume,5.0,0,0.0
+microsoft visual basic,5,0,0,1,resume,5.0,0,0.0
+microwave,5,0,0,1,resume,5.0,0,0.0
+mill,5,0,0,1,resume,5.0,0,0.0
+modems,5,0,0,1,resume,5.0,0,0.0
+mortgage loans,5,0,0,1,resume,5.0,0,0.0
+mrp,5,0,0,1,resume,5.0,0,0.0
+ms exchange,5,0,0,1,resume,5.0,0,0.0
+ms publisher,5,0,0,1,resume,5.0,0,0.0
+multi-media,5,0,0,1,resume,5.0,0,0.0
+network hardware,5,0,0,1,resume,5.0,0,0.0
+network printers,5,0,0,1,resume,5.0,0,0.0
+office suite,5,0,0,1,resume,5.0,0,0.0
+oracle 9,5,0,0,1,resume,5.0,0,0.0
+oracle enterprise manager,5,0,0,1,resume,5.0,0,0.0
+oracle sql,5,0,0,1,resume,5.0,0,0.0
+ospf,5,0,0,1,resume,5.0,0,0.0
+outpatient,5,0,0,1,resume,5.0,0,0.0
+pain management,5,0,0,1,resume,5.0,0,0.0
+pascal,5,0,0,1,resume,5.0,0,0.0
+patient safety,5,0,0,1,resume,5.0,0,0.0
+performance analysis,5,0,0,1,resume,5.0,0,0.0
+phd,5,0,0,1,resume,5.0,0,0.0
+pivot table,5,0,0,1,resume,5.0,0,0.0
+posting,5,0,0,1,resume,5.0,0,0.0
+power distribution,5,0,0,1,resume,5.0,0,0.0
+power supply,5,0,0,1,resume,5.0,0,0.0
+predict,5,0,0,1,resume,5.0,0,0.0
+premiere,5,0,0,1,resume,5.0,0,0.0
+presenter,5,0,0,1,resume,5.0,0,0.0
+print advertising,5,0,0,1,resume,5.0,0,0.0
+print design,5,0,0,1,resume,5.0,0,0.0
+process,5,0,0,1,resume,5.0,0,0.0
+process re-engineering,5,0,0,1,resume,5.0,0,0.0
+production environment,5,0,0,1,resume,5.0,0,0.0
+professional and friendly,5,0,0,1,resume,5.0,0,0.0
+project design,5,0,0,1,resume,5.0,0,0.0
+project leader,5,0,0,1,resume,5.0,0,0.0
+proposal preparation,5,0,0,1,resume,5.0,0,0.0
+prototype,5,0,0,1,resume,5.0,0,0.0
+prototypes,5,0,0,1,resume,5.0,0,0.0
+purchase requisitions,5,0,0,1,resume,5.0,0,0.0
+radiology,5,0,0,1,resume,5.0,0,0.0
+raid,5,0,0,1,resume,5.0,0,0.0
+reading comprehension,5,0,0,1,resume,5.0,0,0.0
+researcher,5,0,0,1,resume,5.0,0,0.0
+rms,5,0,0,1,resume,5.0,0,0.0
+roofing,5,0,0,1,resume,5.0,0,0.0
+safety codes,5,0,0,1,resume,5.0,0,0.0
+sales goals,5,0,0,1,resume,5.0,0,0.0
+sales plan,5,0,0,1,resume,5.0,0,0.0
+sales staff,5,0,0,1,resume,5.0,0,0.0
+sales tax,5,0,0,1,resume,5.0,0,0.0
+salesforce.com,5,0,0,1,resume,5.0,0,0.0
+schedule appointments,5,0,0,1,resume,5.0,0,0.0
+sculpture,5,0,0,1,resume,5.0,0,0.0
+service orientation,5,0,0,1,resume,5.0,0,0.0
+simultaneously,5,0,0,1,resume,5.0,0,0.0
+smart contracts,0,1,0,1,technical_roles,5.0,0,0.0
+snmp,5,0,0,1,resume,5.0,0,0.0
+social services,5,0,0,1,resume,5.0,0,0.0
+software support,5,0,0,1,resume,5.0,0,0.0
+software training,5,0,0,1,resume,5.0,0,0.0
+solid works,5,0,0,1,resume,5.0,0,0.0
+staff supervision,5,0,0,1,resume,5.0,0,0.0
+state tax,5,0,0,1,resume,5.0,0,0.0
+strategic analysis,5,0,0,1,resume,5.0,0,0.0
+strategist,5,0,0,1,resume,5.0,0,0.0
+structured software,5,0,0,1,resume,5.0,0,0.0
+supplier management,5,0,0,1,resume,5.0,0,0.0
+symposium,5,0,0,1,resume,5.0,0,0.0
+systems analyst,5,0,0,1,resume,5.0,0,0.0
+systems engineering,5,0,0,1,resume,5.0,0,0.0
+team builder,5,0,0,1,resume,5.0,0,0.0
+telemetry,5,0,0,1,resume,5.0,0,0.0
+teradata,5,0,0,1,resume,5.0,0,0.0
+terminations,5,0,0,1,resume,5.0,0,0.0
+test plans,5,0,0,1,resume,5.0,0,0.0
+tomcat,5,0,0,1,resume,5.0,0,0.0
+topo,5,0,0,1,resume,5.0,0,0.0
+typing skills,5,0,0,1,resume,5.0,0,0.0
+typing speed,5,0,0,1,resume,5.0,0,0.0
+urdu,5,0,0,1,resume,5.0,0,0.0
+vc,5,0,0,1,resume,5.0,0,0.0
+venture capital,5,0,0,1,resume,5.0,0,0.0
+veritas,5,0,0,1,resume,5.0,0,0.0
+vhf,5,0,0,1,resume,5.0,0,0.0
+video conferencing,5,0,0,1,resume,5.0,0,0.0
+visual c++,5,0,0,1,resume,5.0,0,0.0
+vms,5,0,0,1,resume,5.0,0,0.0
+vouchers,5,0,0,1,resume,5.0,0,0.0
+web pages,5,0,0,1,resume,5.0,0,0.0
+web portal,5,0,0,1,resume,5.0,0,0.0
+web sites,5,0,0,1,resume,5.0,0,0.0
+web3js,0,1,0,1,technical_roles,5.0,0,0.0
+welder,5,0,0,1,resume,5.0,0,0.0
+wireless,5,0,0,1,resume,5.0,0,0.0
+work flow,5,0,0,1,resume,5.0,0,0.0
+work-flow,5,0,0,1,resume,5.0,0,0.0
+pulumi,0,0,0,1,stackoverflow,4.95,495,4.95
+prolog,0,0,0,1,stackoverflow,4.86,486,4.86
+jax,0,0,0,1,stackoverflow,4.77,477,4.77
+ocaml,0,0,0,1,stackoverflow,4.58,458,4.58
+yii 2,0,0,0,1,stackoverflow,4.54,454,4.54
+cppunit,0,0,0,1,stackoverflow,4.06,406,4.06
+a+ certification,4,0,0,1,resume,4.0,0,0.0
+a+ certified,4,0,0,1,resume,4.0,0,0.0
+accounts payable/receivable,4,0,0,1,resume,4.0,0,0.0
+adobe dreamweaver,4,0,0,1,resume,4.0,0,0.0
+adobe premiere,4,0,0,1,resume,4.0,0,0.0
+adobe suite,4,0,0,1,resume,4.0,0,0.0
+adr,4,0,0,1,resume,4.0,0,0.0
+advertising sales,4,0,0,1,resume,4.0,0,0.0
+all sales,4,0,0,1,resume,4.0,0,0.0
+architectural drafting,4,0,0,1,resume,4.0,0,0.0
+arrangements,4,0,0,1,resume,4.0,0,0.0
+asm,4,0,0,1,resume,4.0,0,0.0
+assistant director,4,0,0,1,resume,4.0,0,0.0
+assisted living,4,0,0,1,resume,4.0,0,0.0
+autism,4,0,0,1,resume,4.0,0,0.0
+auto-cad,4,0,0,1,resume,4.0,0,0.0
+ba,4,0,0,1,resume,4.0,0,0.0
+back end,4,0,0,1,resume,4.0,0,0.0
+backups,4,0,0,1,resume,4.0,0,0.0
+bankruptcy,4,0,0,1,resume,4.0,0,0.0
+basic computer skills,4,0,0,1,resume,4.0,0,0.0
+basic html,4,0,0,1,resume,4.0,0,0.0
+bgp,4,0,0,1,resume,4.0,0,0.0
+big data,4,0,0,1,resume,4.0,0,0.0
+biochemistry,4,0,0,1,resume,4.0,0,0.0
+blood pressure,4,0,0,1,resume,4.0,0,0.0
+bluebeam,4,0,0,1,resume,4.0,0,0.0
+business,4,0,0,1,resume,4.0,0,0.0
+c programming,4,0,0,1,resume,4.0,0,0.0
+cadence,4,0,0,1,resume,4.0,0,0.0
+calculus,4,0,0,1,resume,4.0,0,0.0
+cash deposits,4,0,0,1,resume,4.0,0,0.0
+cash flow analysis,4,0,0,1,resume,4.0,0,0.0
+cat5,4,0,0,1,resume,4.0,0,0.0
+cisco certified,4,0,0,1,resume,4.0,0,0.0
+civil engineering,4,0,0,1,resume,4.0,0,0.0
+cl,4,0,0,1,resume,4.0,0,0.0
+client and server,4,0,0,1,resume,4.0,0,0.0
+clinical research,4,0,0,1,resume,4.0,0,0.0
+commercial loans,4,0,0,1,resume,4.0,0,0.0
+communications skills,4,0,0,1,resume,4.0,0,0.0
+compressors,4,0,0,1,resume,4.0,0,0.0
+computer,4,0,0,1,resume,4.0,0,0.0
+computer programming,4,0,0,1,resume,4.0,0,0.0
+computer skills,4,0,0,1,resume,4.0,0,0.0
+computer support,4,0,0,1,resume,4.0,0,0.0
+computerized accounting,4,0,0,1,resume,4.0,0,0.0
+conceptual design,4,0,0,1,resume,4.0,0,0.0
+consolidations,4,0,0,1,resume,4.0,0,0.0
+contact management,4,0,0,1,resume,4.0,0,0.0
+content management systems,4,0,0,1,resume,4.0,0,0.0
+cpi,4,0,0,1,resume,4.0,0,0.0
+creative development,4,0,0,1,resume,4.0,0,0.0
+creative director,4,0,0,1,resume,4.0,0,0.0
+criminal justice,4,0,0,1,resume,4.0,0,0.0
+das,4,0,0,1,resume,4.0,0,0.0
+data center,4,0,0,1,resume,4.0,0,0.0
+database development,4,0,0,1,resume,4.0,0,0.0
+database marketing,4,0,0,1,resume,4.0,0,0.0
+database software,4,0,0,1,resume,4.0,0,0.0
+desktop publishing software: photoshop,4,0,0,1,resume,4.0,0,0.0
+developing business,4,0,0,1,resume,4.0,0,0.0
+digital photography,4,0,0,1,resume,4.0,0,0.0
+discharge planning,4,0,0,1,resume,4.0,0,0.0
+documenting,4,0,0,1,resume,4.0,0,0.0
+doh,4,0,0,1,resume,4.0,0,0.0
+dynamic html5,4,0,0,1,resume,4.0,0,0.0
+eit,4,0,0,1,resume,4.0,0,0.0
+ejb,4,0,0,1,resume,4.0,0,0.0
+electronic mail,4,0,0,1,resume,4.0,0,0.0
+elisa,4,0,0,1,resume,4.0,0,0.0
+employee benefits,4,0,0,1,resume,4.0,0,0.0
+engineering support,4,0,0,1,resume,4.0,0,0.0
+engines,4,0,0,1,resume,4.0,0,0.0
+environmental health,4,0,0,1,resume,4.0,0,0.0
+equipment installation,4,0,0,1,resume,4.0,0,0.0
+equipment operator,4,0,0,1,resume,4.0,0,0.0
+equities,4,0,0,1,resume,4.0,0,0.0
+ess,4,0,0,1,resume,4.0,0,0.0
+essays,4,0,0,1,resume,4.0,0,0.0
+etiquette,4,0,0,1,resume,4.0,0,0.0
+event coordination,4,0,0,1,resume,4.0,0,0.0
+excellent customer service skills,4,0,0,1,resume,4.0,0,0.0
+excellent oral,4,0,0,1,resume,4.0,0,0.0
+exhibitions,4,0,0,1,resume,4.0,0,0.0
+expense control,4,0,0,1,resume,4.0,0,0.0
+facility maintenance,4,0,0,1,resume,4.0,0,0.0
+facility management,4,0,0,1,resume,4.0,0,0.0
+fda,4,0,0,1,resume,4.0,0,0.0
+fiber optics,4,0,0,1,resume,4.0,0,0.0
+financial audit,4,0,0,1,resume,4.0,0,0.0
+financial controls,4,0,0,1,resume,4.0,0,0.0
+financial forecasting,4,0,0,1,resume,4.0,0,0.0
+fire protection,4,0,0,1,resume,4.0,0,0.0
+fixed asset register,4,0,0,1,resume,4.0,0,0.0
+flsa,4,0,0,1,resume,4.0,0,0.0
+fmla,4,0,0,1,resume,4.0,0,0.0
+framing,4,0,0,1,resume,4.0,0,0.0
+front end,4,0,0,1,resume,4.0,0,0.0
+full life cycle,4,0,0,1,resume,4.0,0,0.0
+gap analysis,4,0,0,1,resume,4.0,0,0.0
+gateways,4,0,0,1,resume,4.0,0,0.0
+go-live,4,0,0,1,resume,4.0,0,0.0
+governance,4,0,0,1,resume,4.0,0,0.0
+grant writing,4,0,0,1,resume,4.0,0,0.0
+greeting,4,0,0,1,resume,4.0,0,0.0
+hand trucks,4,0,0,1,resume,4.0,0,0.0
+hardware installation,4,0,0,1,resume,4.0,0,0.0
+hazardous waste,4,0,0,1,resume,4.0,0,0.0
+health information technology,4,0,0,1,resume,4.0,0,0.0
+hebrew,4,0,0,1,resume,4.0,0,0.0
+hp servers,4,0,0,1,resume,4.0,0,0.0
+induction,4,0,0,1,resume,4.0,0,0.0
+injections,4,0,0,1,resume,4.0,0,0.0
+ink,4,0,0,1,resume,4.0,0,0.0
+instagram,4,0,0,1,resume,4.0,0,0.0
+integration testing,4,0,0,1,resume,4.0,0,0.0
+international sales,4,0,0,1,resume,4.0,0,0.0
+j2ee,4,0,0,1,resume,4.0,0,0.0
+japanese,4,0,0,1,resume,4.0,0,0.0
+jboss,4,0,0,1,resume,4.0,0,0.0
+jsp,4,0,0,1,resume,4.0,0,0.0
+laboratory,4,0,0,1,resume,4.0,0,0.0
+layout design,4,0,0,1,resume,4.0,0,0.0
+lead development,4,0,0,1,resume,4.0,0,0.0
+liability,4,0,0,1,resume,4.0,0,0.0
+life cycle,4,0,0,1,resume,4.0,0,0.0
+local area networks,4,0,0,1,resume,4.0,0,0.0
+long-term care,4,0,0,1,resume,4.0,0,0.0
+mailchimp,4,0,0,1,resume,4.0,0,0.0
+maintenance schedules,4,0,0,1,resume,4.0,0,0.0
+make travel arrangements,4,0,0,1,resume,4.0,0,0.0
+management information systems,4,0,0,1,resume,4.0,0,0.0
+management training,4,0,0,1,resume,4.0,0,0.0
+manufacturing engineer,4,0,0,1,resume,4.0,0,0.0
+maple,4,0,0,1,resume,4.0,0,0.0
+market development,4,0,0,1,resume,4.0,0,0.0
+marketing & sales,4,0,0,1,resume,4.0,0,0.0
+marketing communication,4,0,0,1,resume,4.0,0,0.0
+masonry,4,0,0,1,resume,4.0,0,0.0
+media planning,4,0,0,1,resume,4.0,0,0.0
+medical assistant,4,0,0,1,resume,4.0,0,0.0
+medicare,4,0,0,1,resume,4.0,0,0.0
+meditech,4,0,0,1,resume,4.0,0,0.0
+mes,4,0,0,1,resume,4.0,0,0.0
+microsoft office software,4,0,0,1,resume,4.0,0,0.0
+microsoft power point,4,0,0,1,resume,4.0,0,0.0
+microsoft sql,4,0,0,1,resume,4.0,0,0.0
+middleware,4,0,0,1,resume,4.0,0,0.0
+minute taking,4,0,0,1,resume,4.0,0,0.0
+mitigation,4,0,0,1,resume,4.0,0,0.0
+mortgage,4,0,0,1,resume,4.0,0,0.0
+ms power point,4,0,0,1,resume,4.0,0,0.0
+multi-line phone,4,0,0,1,resume,4.0,0,0.0
+multi-line telephone,4,0,0,1,resume,4.0,0,0.0
+nds,4,0,0,1,resume,4.0,0,0.0
+network attached storage,4,0,0,1,resume,4.0,0,0.0
+neural,4,0,0,1,resume,4.0,0,0.0
+new sales,4,0,0,1,resume,4.0,0,0.0
+novel,4,0,0,1,resume,4.0,0,0.0
+novell netware,4,0,0,1,resume,4.0,0,0.0
+novell servers,4,0,0,1,resume,4.0,0,0.0
+of accounts,4,0,0,1,resume,4.0,0,0.0
+office automation,4,0,0,1,resume,4.0,0,0.0
+office supplies,4,0,0,1,resume,4.0,0,0.0
+organization,4,0,0,1,resume,4.0,0,0.0
+organized,4,0,0,1,resume,4.0,0,0.0
+organizer,4,0,0,1,resume,4.0,0,0.0
+os/2,4,0,0,1,resume,4.0,0,0.0
+oscilloscope,4,0,0,1,resume,4.0,0,0.0
+painter,4,0,0,1,resume,4.0,0,0.0
+pallet jack,4,0,0,1,resume,4.0,0,0.0
+patent,4,0,0,1,resume,4.0,0,0.0
+patient-focused care,4,0,0,1,resume,4.0,0,0.0
+pc hardware,4,0,0,1,resume,4.0,0,0.0
+pcr,4,0,0,1,resume,4.0,0,0.0
+peach tree,4,0,0,1,resume,4.0,0,0.0
+pen,4,0,0,1,resume,4.0,0,0.0
+phone support,4,0,0,1,resume,4.0,0,0.0
+phone systems,4,0,0,1,resume,4.0,0,0.0
+plc programming,4,0,0,1,resume,4.0,0,0.0
+portuguese,4,0,0,1,resume,4.0,0,0.0
+pos system,4,0,0,1,resume,4.0,0,0.0
+pre-press,4,0,0,1,resume,4.0,0,0.0
+prepress,4,0,0,1,resume,4.0,0,0.0
+press kits,4,0,0,1,resume,4.0,0,0.0
+pricing strategies,4,0,0,1,resume,4.0,0,0.0
+pricing strategy,4,0,0,1,resume,4.0,0,0.0
+print media,4,0,0,1,resume,4.0,0,0.0
+procedures,4,0,0,1,resume,4.0,0,0.0
+process equipment,4,0,0,1,resume,4.0,0,0.0
+product design and development,4,0,0,1,resume,4.0,0,0.0
+product manager,4,0,0,1,resume,4.0,0,0.0
+production management,4,0,0,1,resume,4.0,0,0.0
+production manager,4,0,0,1,resume,4.0,0,0.0
+program implementation,4,0,0,1,resume,4.0,0,0.0
+promotional material,4,0,0,1,resume,4.0,0,0.0
+proposal writing,4,0,0,1,resume,4.0,0,0.0
+public policy,4,0,0,1,resume,4.0,0,0.0
+quark xpress,4,0,0,1,resume,4.0,0,0.0
+quest,4,0,0,1,resume,4.0,0,0.0
+re-engineering,4,0,0,1,resume,4.0,0,0.0
+receivables,4,0,0,1,resume,4.0,0,0.0
+reengineering,4,0,0,1,resume,4.0,0,0.0
+relational databases,4,0,0,1,resume,4.0,0,0.0
+reporter,4,0,0,1,resume,4.0,0,0.0
+resuscitation,4,0,0,1,resume,4.0,0,0.0
+russian,4,0,0,1,resume,4.0,0,0.0
+saas,4,0,0,1,resume,4.0,0,0.0
+sales activities,4,0,0,1,resume,4.0,0,0.0
+sales development,4,0,0,1,resume,4.0,0,0.0
+sales force,4,0,0,1,resume,4.0,0,0.0
+sarbanes-oxley (sox,4,0,0,1,resume,4.0,0,0.0
+secretary,4,0,0,1,resume,4.0,0,0.0
+signal generators,4,0,0,1,resume,4.0,0,0.0
+skills,4,0,0,1,resume,4.0,0,0.0
+software design,4,0,0,1,resume,4.0,0,0.0
+software developers,4,0,0,1,resume,4.0,0,0.0
+sox,4,0,0,1,resume,4.0,0,0.0
+sql server 2005,4,0,0,1,resume,4.0,0,0.0
+staff management,4,0,0,1,resume,4.0,0,0.0
+stocking,4,0,0,1,resume,4.0,0,0.0
+store management,4,0,0,1,resume,4.0,0,0.0
+strategic development,4,0,0,1,resume,4.0,0,0.0
+strategic sourcing,4,0,0,1,resume,4.0,0,0.0
+strategy development,4,0,0,1,resume,4.0,0,0.0
+supervisory skills,4,0,0,1,resume,4.0,0,0.0
+system configuration,4,0,0,1,resume,4.0,0,0.0
+system development,4,0,0,1,resume,4.0,0,0.0
+systems analysis,4,0,0,1,resume,4.0,0,0.0
+systems support,4,0,0,1,resume,4.0,0,0.0
+tax return preparation,4,0,0,1,resume,4.0,0,0.0
+technical sales,4,0,0,1,resume,4.0,0,0.0
+test cases,4,0,0,1,resume,4.0,0,0.0
+toad,4,0,0,1,resume,4.0,0,0.0
+transformers,4,0,0,1,resume,4.0,0,0.0
+translated,4,0,0,1,resume,4.0,0,0.0
+translator,4,0,0,1,resume,4.0,0,0.0
+type 50 wpm,4,0,0,1,resume,4.0,0,0.0
+typography,4,0,0,1,resume,4.0,0,0.0
+urology,4,0,0,1,resume,4.0,0,0.0
+usability testing,4,0,0,1,resume,4.0,0,0.0
+uv,4,0,0,1,resume,4.0,0,0.0
+vendor,4,0,0,1,resume,4.0,0,0.0
+very organized,4,0,0,1,resume,4.0,0,0.0
+vi,4,0,0,1,resume,4.0,0,0.0
+virtual machine,4,0,0,1,resume,4.0,0,0.0
+visual displays,4,0,0,1,resume,4.0,0,0.0
+voice and data,4,0,0,1,resume,4.0,0,0.0
+warehousing,4,0,0,1,resume,4.0,0,0.0
+wealth management,4,0,0,1,resume,4.0,0,0.0
+web designing,4,0,0,1,resume,4.0,0,0.0
+web servers,4,0,0,1,resume,4.0,0,0.0
+web services,4,0,0,1,resume,4.0,0,0.0
+web-based,4,0,0,1,resume,4.0,0,0.0
+website content,4,0,0,1,resume,4.0,0,0.0
+websphere,4,0,0,1,resume,4.0,0,0.0
+westlaw,4,0,0,1,resume,4.0,0,0.0
+win 7,4,0,0,1,resume,4.0,0,0.0
+windows 9,4,0,0,1,resume,4.0,0,0.0
+windows os,4,0,0,1,resume,4.0,0,0.0
+workbench,4,0,0,1,resume,4.0,0,0.0
+chef,0,0,0,1,stackoverflow,3.99,399,3.99
+scaleway,0,0,0,1,stackoverflow,3.96,396,3.96
+play framework,0,0,0,1,stackoverflow,3.87,387,3.87
+couchbase,0,0,0,1,stackoverflow,3.53,353,3.53
+presto,0,0,0,1,stackoverflow,3.23,323,3.23
+boost.test,0,0,0,1,stackoverflow,3.13,313,3.13
+doctest,0,0,0,1,stackoverflow,3.11,311,3.11
+elm,0,0,0,1,stackoverflow,3.09,309,3.09
+colocation,0,0,0,1,stackoverflow,3.07,307,3.07
+10-key by touch,3,0,0,1,resume,3.0,0,0.0
+50 wpm,3,0,0,1,resume,3.0,0,0.0
+a/r,3,0,0,1,resume,3.0,0,0.0
+account manager,3,0,0,1,resume,3.0,0,0.0
+accounting manager,3,0,0,1,resume,3.0,0,0.0
+accounts,3,0,0,1,resume,3.0,0,0.0
+accounts to,3,0,0,1,resume,3.0,0,0.0
+adaptable,3,0,0,1,resume,3.0,0,0.0
+administration,3,0,0,1,resume,3.0,0,0.0
+adp payroll system,3,0,0,1,resume,3.0,0,0.0
+adult learning,3,0,0,1,resume,3.0,0,0.0
+aims,3,0,0,1,resume,3.0,0,0.0
+aircraft maintenance,3,0,0,1,resume,3.0,0,0.0
+allergies,3,0,0,1,resume,3.0,0,0.0
+analysis of financial statements,3,0,0,1,resume,3.0,0,0.0
+analyze financial information,3,0,0,1,resume,3.0,0,0.0
+and account,3,0,0,1,resume,3.0,0,0.0
+and outlook,3,0,0,1,resume,3.0,0,0.0
+apollo,3,0,0,1,resume,3.0,0,0.0
+application design,3,0,0,1,resume,3.0,0,0.0
+application support,3,0,0,1,resume,3.0,0,0.0
+aps,3,0,0,1,resume,3.0,0,0.0
+arcserve,3,0,0,1,resume,3.0,0,0.0
+armed forces,3,0,0,1,resume,3.0,0,0.0
+art direction,3,0,0,1,resume,3.0,0,0.0
+art director,3,0,0,1,resume,3.0,0,0.0
+as 400,3,0,0,1,resume,3.0,0,0.0
+automated payroll,3,0,0,1,resume,3.0,0,0.0
+avenue,3,0,0,1,resume,3.0,0,0.0
+aviation maintenance,3,0,0,1,resume,3.0,0,0.0
+avionics,3,0,0,1,resume,3.0,0,0.0
+bachelors,3,0,0,1,resume,3.0,0,0.0
+bathing,3,0,0,1,resume,3.0,0,0.0
+bilingual,3,0,0,1,resume,3.0,0,0.0
+bootstrap,3,0,0,1,resume,3.0,0,0.0
+brand development,3,0,0,1,resume,3.0,0,0.0
+bsc,3,0,0,1,resume,3.0,0,0.0
+business communication,3,0,0,1,resume,3.0,0,0.0
+business consultant,3,0,0,1,resume,3.0,0,0.0
+business continuity,3,0,0,1,resume,3.0,0,0.0
+business plan development,3,0,0,1,resume,3.0,0,0.0
+business process re-engineering,3,0,0,1,resume,3.0,0,0.0
+business startup,3,0,0,1,resume,3.0,0,0.0
+business systems analysis,3,0,0,1,resume,3.0,0,0.0
+business works,3,0,0,1,resume,3.0,0,0.0
+buyer,3,0,0,1,resume,3.0,0,0.0
+buying,3,0,0,1,resume,3.0,0,0.0
+cabinets,3,0,0,1,resume,3.0,0,0.0
+cad/cam,3,0,0,1,resume,3.0,0,0.0
+career development,3,0,0,1,resume,3.0,0,0.0
+caregiver,3,0,0,1,resume,3.0,0,0.0
+cash flow projections,3,0,0,1,resume,3.0,0,0.0
+cat 5,3,0,0,1,resume,3.0,0,0.0
+central point of contact,3,0,0,1,resume,3.0,0,0.0
+change orders,3,0,0,1,resume,3.0,0,0.0
+chi,3,0,0,1,resume,3.0,0,0.0
+cisa,3,0,0,1,resume,3.0,0,0.0
+cision,3,0,0,1,resume,3.0,0,0.0
+classroom management,3,0,0,1,resume,3.0,0,0.0
+client liaison,3,0,0,1,resume,3.0,0,0.0
+client-server,3,0,0,1,resume,3.0,0,0.0
+clinical trials,3,0,0,1,resume,3.0,0,0.0
+cobra,3,0,0,1,resume,3.0,0,0.0
+cold-calling,3,0,0,1,resume,3.0,0,0.0
+compaq,3,0,0,1,resume,3.0,0,0.0
+compassionate and trustworthy caregiver,3,0,0,1,resume,3.0,0,0.0
+competitive intelligence,3,0,0,1,resume,3.0,0,0.0
+compliance audits,3,0,0,1,resume,3.0,0,0.0
+compliance management,3,0,0,1,resume,3.0,0,0.0
+computer networks,3,0,0,1,resume,3.0,0,0.0
+computer repair,3,0,0,1,resume,3.0,0,0.0
+confident,3,0,0,1,resume,3.0,0,0.0
+contract review,3,0,0,1,resume,3.0,0,0.0
+conversational french,3,0,0,1,resume,3.0,0,0.0
+copy machine,3,0,0,1,resume,3.0,0,0.0
+corel draw,3,0,0,1,resume,3.0,0,0.0
+corporate training,3,0,0,1,resume,3.0,0,0.0
+corrective action,3,0,0,1,resume,3.0,0,0.0
+cpt coding,3,0,0,1,resume,3.0,0,0.0
+cpu,3,0,0,1,resume,3.0,0,0.0
+creative,3,0,0,1,resume,3.0,0,0.0
+creative thinking,3,0,0,1,resume,3.0,0,0.0
+critical care,3,0,0,1,resume,3.0,0,0.0
+critical thinker,3,0,0,1,resume,3.0,0,0.0
+crm systems,3,0,0,1,resume,3.0,0,0.0
+customer accounts,3,0,0,1,resume,3.0,0,0.0
+customer assistance,3,0,0,1,resume,3.0,0,0.0
+customer service representative,3,0,0,1,resume,3.0,0,0.0
+cvs,3,0,0,1,resume,3.0,0,0.0
+daily sales,3,0,0,1,resume,3.0,0,0.0
+data integrity,3,0,0,1,resume,3.0,0,0.0
+data validation,3,0,0,1,resume,3.0,0,0.0
+database analysis,3,0,0,1,resume,3.0,0,0.0
+database systems,3,0,0,1,resume,3.0,0,0.0
+db,3,0,0,1,resume,3.0,0,0.0
+dbase,3,0,0,1,resume,3.0,0,0.0
+dell servers,3,0,0,1,resume,3.0,0,0.0
+design of experiments,3,0,0,1,resume,3.0,0,0.0
+diabetes,3,0,0,1,resume,3.0,0,0.0
+digital video,3,0,0,1,resume,3.0,0,0.0
+disaster recovery planning,3,0,0,1,resume,3.0,0,0.0
+documentum,3,0,0,1,resume,3.0,0,0.0
+dream weaver,3,0,0,1,resume,3.0,0,0.0
+dsc,3,0,0,1,resume,3.0,0,0.0
+dsl,3,0,0,1,resume,3.0,0,0.0
+dts,3,0,0,1,resume,3.0,0,0.0
+dvd,3,0,0,1,resume,3.0,0,0.0
+dynamics,3,0,0,1,resume,3.0,0,0.0
+editing skills,3,0,0,1,resume,3.0,0,0.0
+educational materials,3,0,0,1,resume,3.0,0,0.0
+eigrp,3,0,0,1,resume,3.0,0,0.0
+ekg's,3,0,0,1,resume,3.0,0,0.0
+electrical wiring,3,0,0,1,resume,3.0,0,0.0
+electronic data interchange,3,0,0,1,resume,3.0,0,0.0
+emc,3,0,0,1,resume,3.0,0,0.0
+emergency care,3,0,0,1,resume,3.0,0,0.0
+emotional support,3,0,0,1,resume,3.0,0,0.0
+endocrinology,3,0,0,1,resume,3.0,0,0.0
+energetic,3,0,0,1,resume,3.0,0,0.0
+energy management,3,0,0,1,resume,3.0,0,0.0
+entry level,3,0,0,1,resume,3.0,0,0.0
+environmental compliance,3,0,0,1,resume,3.0,0,0.0
+equal employment opportunity,3,0,0,1,resume,3.0,0,0.0
+escrow,3,0,0,1,resume,3.0,0,0.0
+estimation,3,0,0,1,resume,3.0,0,0.0
+excellent presentation skills,3,0,0,1,resume,3.0,0,0.0
+experiment,3,0,0,1,resume,3.0,0,0.0
+facilities,3,0,0,1,resume,3.0,0,0.0
+factiva,3,0,0,1,resume,3.0,0,0.0
+failure analysis,3,0,0,1,resume,3.0,0,0.0
+family medicine,3,0,0,1,resume,3.0,0,0.0
+fat,3,0,0,1,resume,3.0,0,0.0
+fax machine,3,0,0,1,resume,3.0,0,0.0
+feasibility studies,3,0,0,1,resume,3.0,0,0.0
+feature articles,3,0,0,1,resume,3.0,0,0.0
+federal government,3,0,0,1,resume,3.0,0,0.0
+fedex,3,0,0,1,resume,3.0,0,0.0
+file maintenance,3,0,0,1,resume,3.0,0,0.0
+filenet,3,0,0,1,resume,3.0,0,0.0
+filings,3,0,0,1,resume,3.0,0,0.0
+financial consulting,3,0,0,1,resume,3.0,0,0.0
+financial forecasts,3,0,0,1,resume,3.0,0,0.0
+flow,3,0,0,1,resume,3.0,0,0.0
+for sales,3,0,0,1,resume,3.0,0,0.0
+forex,3,0,0,1,resume,3.0,0,0.0
+freehand,3,0,0,1,resume,3.0,0,0.0
+front page,3,0,0,1,resume,3.0,0,0.0
+fulfillment,3,0,0,1,resume,3.0,0,0.0
+fund raising,3,0,0,1,resume,3.0,0,0.0
+gaap,3,0,0,1,resume,3.0,0,0.0
+gc,3,0,0,1,resume,3.0,0,0.0
+general aviation,3,0,0,1,resume,3.0,0,0.0
+geographic information system,3,0,0,1,resume,3.0,0,0.0
+glp,3,0,0,1,resume,3.0,0,0.0
+goal-setting,3,0,0,1,resume,3.0,0,0.0
+graphical user interface,3,0,0,1,resume,3.0,0,0.0
+great communication skills,3,0,0,1,resume,3.0,0,0.0
+grinders,3,0,0,1,resume,3.0,0,0.0
+group facilitation,3,0,0,1,resume,3.0,0,0.0
+guardian,3,0,0,1,resume,3.0,0,0.0
+hardware support,3,0,0,1,resume,3.0,0,0.0
+highly organized,3,0,0,1,resume,3.0,0,0.0
+hippa,3,0,0,1,resume,3.0,0,0.0
+hogan,3,0,0,1,resume,3.0,0,0.0
+home healthcare,3,0,0,1,resume,3.0,0,0.0
+hp-unix,3,0,0,1,resume,3.0,0,0.0
+hplc,3,0,0,1,resume,3.0,0,0.0
+html coding,3,0,0,1,resume,3.0,0,0.0
+ibm mainframe,3,0,0,1,resume,3.0,0,0.0
+ibm websphere,3,0,0,1,resume,3.0,0,0.0
+icd,3,0,0,1,resume,3.0,0,0.0
+ieee,3,0,0,1,resume,3.0,0,0.0
+immunizations,3,0,0,1,resume,3.0,0,0.0
+immunology,3,0,0,1,resume,3.0,0,0.0
+implementation,3,0,0,1,resume,3.0,0,0.0
+improve process,3,0,0,1,resume,3.0,0,0.0
+improve processes,3,0,0,1,resume,3.0,0,0.0
+in design,3,0,0,1,resume,3.0,0,0.0
+install software,3,0,0,1,resume,3.0,0,0.0
+instrumentation,3,0,0,1,resume,3.0,0,0.0
+insurance claims,3,0,0,1,resume,3.0,0,0.0
+intellectual property,3,0,0,1,resume,3.0,0,0.0
+internal auditing,3,0,0,1,resume,3.0,0,0.0
+internal medicine,3,0,0,1,resume,3.0,0,0.0
+internet,3,0,0,1,resume,3.0,0,0.0
+internet access,3,0,0,1,resume,3.0,0,0.0
+internet skills,3,0,0,1,resume,3.0,0,0.0
+inventory management and control,3,0,0,1,resume,3.0,0,0.0
+isis,3,0,0,1,resume,3.0,0,0.0
+iso 9000,3,0,0,1,resume,3.0,0,0.0
+isp,3,0,0,1,resume,3.0,0,0.0
+ivr,3,0,0,1,resume,3.0,0,0.0
+jcl,3,0,0,1,resume,3.0,0,0.0
+jdbc,3,0,0,1,resume,3.0,0,0.0
+jde,3,0,0,1,resume,3.0,0,0.0
+jms,3,0,0,1,resume,3.0,0,0.0
+key accounts,3,0,0,1,resume,3.0,0,0.0
+keynote,3,0,0,1,resume,3.0,0,0.0
+korean,3,0,0,1,resume,3.0,0,0.0
+lab test,3,0,0,1,resume,3.0,0,0.0
+labor law,3,0,0,1,resume,3.0,0,0.0
+labor laws,3,0,0,1,resume,3.0,0,0.0
+laboratory equipment,3,0,0,1,resume,3.0,0,0.0
+lans,3,0,0,1,resume,3.0,0,0.0
+laptop computers,3,0,0,1,resume,3.0,0,0.0
+laundry,3,0,0,1,resume,3.0,0,0.0
+layout and design,3,0,0,1,resume,3.0,0,0.0
+lecturer,3,0,0,1,resume,3.0,0,0.0
+lesson plan,3,0,0,1,resume,3.0,0,0.0
+lexis nexis,3,0,0,1,resume,3.0,0,0.0
+life insurance,3,0,0,1,resume,3.0,0,0.0
+lisa,3,0,0,1,resume,3.0,0,0.0
+loan documentation,3,0,0,1,resume,3.0,0,0.0
+local government,3,0,0,1,resume,3.0,0,0.0
+logic analyzer,3,0,0,1,resume,3.0,0,0.0
+machinist,3,0,0,1,resume,3.0,0,0.0
+macola,3,0,0,1,resume,3.0,0,0.0
+maintain documentation,3,0,0,1,resume,3.0,0,0.0
+maintains inventory,3,0,0,1,resume,3.0,0,0.0
+management consultant,3,0,0,1,resume,3.0,0,0.0
+managing people,3,0,0,1,resume,3.0,0,0.0
+mandarin,3,0,0,1,resume,3.0,0,0.0
+mandarin chinese,3,0,0,1,resume,3.0,0,0.0
+mapinfo,3,0,0,1,resume,3.0,0,0.0
+market planning,3,0,0,1,resume,3.0,0,0.0
+market research and analysis,3,0,0,1,resume,3.0,0,0.0
+marketing and communications,3,0,0,1,resume,3.0,0,0.0
+marketing department,3,0,0,1,resume,3.0,0,0.0
+marketing manager,3,0,0,1,resume,3.0,0,0.0
+mechanical design,3,0,0,1,resume,3.0,0,0.0
+media production,3,0,0,1,resume,3.0,0,0.0
+media strategy,3,0,0,1,resume,3.0,0,0.0
+media training,3,0,0,1,resume,3.0,0,0.0
+medical device,3,0,0,1,resume,3.0,0,0.0
+medical manager,3,0,0,1,resume,3.0,0,0.0
+medical technology,3,0,0,1,resume,3.0,0,0.0
+mgmt,3,0,0,1,resume,3.0,0,0.0
+microcomputers,3,0,0,1,resume,3.0,0,0.0
+microsoft applications,3,0,0,1,resume,3.0,0,0.0
+microsoft office (excel,3,0,0,1,resume,3.0,0,0.0
+microsoft office xp,3,0,0,1,resume,3.0,0,0.0
+microsoft publisher,3,0,0,1,resume,3.0,0,0.0
+microsoft visual studio,3,0,0,1,resume,3.0,0,0.0
+microsoft windows xp,3,0,0,1,resume,3.0,0,0.0
+microsoft works,3,0,0,1,resume,3.0,0,0.0
+microstrategy,3,0,0,1,resume,3.0,0,0.0
+mobile,3,0,0,1,resume,3.0,0,0.0
+monarch,3,0,0,1,resume,3.0,0,0.0
+monthly variance analysis,3,0,0,1,resume,3.0,0,0.0
+mortgage lending,3,0,0,1,resume,3.0,0,0.0
+mortgage loan,3,0,0,1,resume,3.0,0,0.0
+motorola,3,0,0,1,resume,3.0,0,0.0
+ms,3,0,0,1,resume,3.0,0,0.0
+ms asp,3,0,0,1,resume,3.0,0,0.0
+ms dos,3,0,0,1,resume,3.0,0,0.0
+ms visual studio,3,0,0,1,resume,3.0,0,0.0
+ms windows xp,3,0,0,1,resume,3.0,0,0.0
+msc,3,0,0,1,resume,3.0,0,0.0
+msi,3,0,0,1,resume,3.0,0,0.0
+multi-line,3,0,0,1,resume,3.0,0,0.0
+multi-meters,3,0,0,1,resume,3.0,0,0.0
+national accounts,3,0,0,1,resume,3.0,0,0.0
+navigator,3,0,0,1,resume,3.0,0,0.0
+negotiate contracts,3,0,0,1,resume,3.0,0,0.0
+netscape,3,0,0,1,resume,3.0,0,0.0
+network design,3,0,0,1,resume,3.0,0,0.0
+network engineer,3,0,0,1,resume,3.0,0,0.0
+network engineering,3,0,0,1,resume,3.0,0,0.0
+network installation,3,0,0,1,resume,3.0,0,0.0
+new account,3,0,0,1,resume,3.0,0,0.0
+nfs,3,0,0,1,resume,3.0,0,0.0
+nice,3,0,0,1,resume,3.0,0,0.0
+nms,3,0,0,1,resume,3.0,0,0.0
+nortel,3,0,0,1,resume,3.0,0,0.0
+notebooks,3,0,0,1,resume,3.0,0,0.0
+novell network,3,0,0,1,resume,3.0,0,0.0
+ocr,3,0,0,1,resume,3.0,0,0.0
+odbc,3,0,0,1,resume,3.0,0,0.0
+office applications,3,0,0,1,resume,3.0,0,0.0
+office assistant,3,0,0,1,resume,3.0,0,0.0
+office skills,3,0,0,1,resume,3.0,0,0.0
+offshore,3,0,0,1,resume,3.0,0,0.0
+oracle applications,3,0,0,1,resume,3.0,0,0.0
+oracle dba,3,0,0,1,resume,3.0,0,0.0
+orcad,3,0,0,1,resume,3.0,0,0.0
+order processing,3,0,0,1,resume,3.0,0,0.0
+organize files,3,0,0,1,resume,3.0,0,0.0
+orthopedics,3,0,0,1,resume,3.0,0,0.0
+osi,3,0,0,1,resume,3.0,0,0.0
+oss,3,0,0,1,resume,3.0,0,0.0
+p.c,3,0,0,1,resume,3.0,0,0.0
+packaging design,3,0,0,1,resume,3.0,0,0.0
+page 2,3,0,0,1,resume,3.0,0,0.0
+pagemaker,3,0,0,1,resume,3.0,0,0.0
+paradox,3,0,0,1,resume,3.0,0,0.0
+pc,3,0,0,1,resume,3.0,0,0.0
+peoplesoft hrms,3,0,0,1,resume,3.0,0,0.0
+performance,3,0,0,1,resume,3.0,0,0.0
+personnel training,3,0,0,1,resume,3.0,0,0.0
+photo editing,3,0,0,1,resume,3.0,0,0.0
+photographer,3,0,0,1,resume,3.0,0,0.0
+pinterest,3,0,0,1,resume,3.0,0,0.0
+plan development,3,0,0,1,resume,3.0,0,0.0
+power supplies,3,0,0,1,resume,3.0,0,0.0
+prepare contract,3,0,0,1,resume,3.0,0,0.0
+printing,3,0,0,1,resume,3.0,0,0.0
+pro engineer,3,0,0,1,resume,3.0,0,0.0
+problem analysis,3,0,0,1,resume,3.0,0,0.0
+procedure development,3,0,0,1,resume,3.0,0,0.0
+procedure writing,3,0,0,1,resume,3.0,0,0.0
+process management,3,0,0,1,resume,3.0,0,0.0
+processing payments,3,0,0,1,resume,3.0,0,0.0
+processing payroll,3,0,0,1,resume,3.0,0,0.0
+product sales,3,0,0,1,resume,3.0,0,0.0
+program design,3,0,0,1,resume,3.0,0,0.0
+prospecting,3,0,0,1,resume,3.0,0,0.0
+provisioning,3,0,0,1,resume,3.0,0,0.0
+pspice,3,0,0,1,resume,3.0,0,0.0
+publishing,3,0,0,1,resume,3.0,0,0.0
+qa testing,3,0,0,1,resume,3.0,0,0.0
+qualitative research,3,0,0,1,resume,3.0,0,0.0
+quota,3,0,0,1,resume,3.0,0,0.0
+rational,3,0,0,1,resume,3.0,0,0.0
+rational rose,3,0,0,1,resume,3.0,0,0.0
+read blueprints,3,0,0,1,resume,3.0,0,0.0
+reality,3,0,0,1,resume,3.0,0,0.0
+reconciling bank statements,3,0,0,1,resume,3.0,0,0.0
+regional sales,3,0,0,1,resume,3.0,0,0.0
+registered nurse,3,0,0,1,resume,3.0,0,0.0
+regression testing,3,0,0,1,resume,3.0,0,0.0
+relational database,3,0,0,1,resume,3.0,0,0.0
+relations,3,0,0,1,resume,3.0,0,0.0
+remedy,3,0,0,1,resume,3.0,0,0.0
+requirements analysis,3,0,0,1,resume,3.0,0,0.0
+rest,3,0,0,1,resume,3.0,0,0.0
+rexx,3,0,0,1,resume,3.0,0,0.0
+rip,3,0,0,1,resume,3.0,0,0.0
+robotic systems,3,0,0,1,resume,3.0,0,0.0
+sabre,3,0,0,1,resume,3.0,0,0.0
+sales and management,3,0,0,1,resume,3.0,0,0.0
+sales associates,3,0,0,1,resume,3.0,0,0.0
+sales floor,3,0,0,1,resume,3.0,0,0.0
+sales for,3,0,0,1,resume,3.0,0,0.0
+sales in,3,0,0,1,resume,3.0,0,0.0
+sales of,3,0,0,1,resume,3.0,0,0.0
+sales presentations,3,0,0,1,resume,3.0,0,0.0
+sales revenue,3,0,0,1,resume,3.0,0,0.0
+sales techniques,3,0,0,1,resume,3.0,0,0.0
+sales to,3,0,0,1,resume,3.0,0,0.0
+sales/marketing,3,0,0,1,resume,3.0,0,0.0
+sanitation,3,0,0,1,resume,3.0,0,0.0
+selling and,3,0,0,1,resume,3.0,0,0.0
+series 6,3,0,0,1,resume,3.0,0,0.0
+series 7,3,0,0,1,resume,3.0,0,0.0
+sheet metal,3,0,0,1,resume,3.0,0,0.0
+short stories,3,0,0,1,resume,3.0,0,0.0
+shorthand,3,0,0,1,resume,3.0,0,0.0
+smtp,3,0,0,1,resume,3.0,0,0.0
+social media marketing,3,0,0,1,resume,3.0,0,0.0
+software as a service,3,0,0,1,resume,3.0,0,0.0
+software engineer,3,0,0,1,resume,3.0,0,0.0
+solder,3,0,0,1,resume,3.0,0,0.0
+sops,3,0,0,1,resume,3.0,0,0.0
+sorting mail,3,0,0,1,resume,3.0,0,0.0
+sox compliance,3,0,0,1,resume,3.0,0,0.0
+spanish language,3,0,0,1,resume,3.0,0,0.0
+spectrum analyzer,3,0,0,1,resume,3.0,0,0.0
+spread sheets,3,0,0,1,resume,3.0,0,0.0
+sql 2000,3,0,0,1,resume,3.0,0,0.0
+sql server 2000,3,0,0,1,resume,3.0,0,0.0
+ssh,3,0,0,1,resume,3.0,0,0.0
+std counseling,3,0,0,1,resume,3.0,0,0.0
+stock control,3,0,0,1,resume,3.0,0,0.0
+store merchandising,3,0,0,1,resume,3.0,0,0.0
+struts,3,0,0,1,resume,3.0,0,0.0
+swaps,3,0,0,1,resume,3.0,0,0.0
+sybase,3,0,0,1,resume,3.0,0,0.0
+system,3,0,0,1,resume,3.0,0,0.0
+system architecture,3,0,0,1,resume,3.0,0,0.0
+system engineering,3,0,0,1,resume,3.0,0,0.0
+system security,3,0,0,1,resume,3.0,0,0.0
+systems design,3,0,0,1,resume,3.0,0,0.0
+systems engineer,3,0,0,1,resume,3.0,0,0.0
+systems security,3,0,0,1,resume,3.0,0,0.0
+t-sql,3,0,0,1,resume,3.0,0,0.0
+taking messages,3,0,0,1,resume,3.0,0,0.0
+task analysis,3,0,0,1,resume,3.0,0,0.0
+tax accounting,3,0,0,1,resume,3.0,0,0.0
+tax planning,3,0,0,1,resume,3.0,0,0.0
+tds,3,0,0,1,resume,3.0,0,0.0
+team-building,3,0,0,1,resume,3.0,0,0.0
+teambuilding,3,0,0,1,resume,3.0,0,0.0
+tear,3,0,0,1,resume,3.0,0,0.0
+tech support,3,0,0,1,resume,3.0,0,0.0
+technology integration,3,0,0,1,resume,3.0,0,0.0
+telephone etiquette,3,0,0,1,resume,3.0,0,0.0
+tender,3,0,0,1,resume,3.0,0,0.0
+territory management,3,0,0,1,resume,3.0,0,0.0
+test director,3,0,0,1,resume,3.0,0,0.0
+test engineer,3,0,0,1,resume,3.0,0,0.0
+the sale,3,0,0,1,resume,3.0,0,0.0
+theatre,3,0,0,1,resume,3.0,0,0.0
+toshiba,3,0,0,1,resume,3.0,0,0.0
+total quality management,3,0,0,1,resume,3.0,0,0.0
+train employees,3,0,0,1,resume,3.0,0,0.0
+training development,3,0,0,1,resume,3.0,0,0.0
+travel planning,3,0,0,1,resume,3.0,0,0.0
+treatment plans,3,0,0,1,resume,3.0,0,0.0
+turbo tax,3,0,0,1,resume,3.0,0,0.0
+turkish,3,0,0,1,resume,3.0,0,0.0
+typewriter,3,0,0,1,resume,3.0,0,0.0
+uat,3,0,0,1,resume,3.0,0,0.0
+unigraphics,3,0,0,1,resume,3.0,0,0.0
+ups,3,0,0,1,resume,3.0,0,0.0
+usability,3,0,0,1,resume,3.0,0,0.0
+usb,3,0,0,1,resume,3.0,0,0.0
+user documentation,3,0,0,1,resume,3.0,0,0.0
+user manuals,3,0,0,1,resume,3.0,0,0.0
+vaccine,3,0,0,1,resume,3.0,0,0.0
+vax,3,0,0,1,resume,3.0,0,0.0
+vb,3,0,0,1,resume,3.0,0,0.0
+ventura,3,0,0,1,resume,3.0,0,0.0
+vertex,3,0,0,1,resume,3.0,0,0.0
+virtualization,3,0,0,1,resume,3.0,0,0.0
+visual basic 6.0,3,0,0,1,resume,3.0,0,0.0
+visual basics,3,0,0,1,resume,3.0,0,0.0
+warrants,3,0,0,1,resume,3.0,0,0.0
+water quality,3,0,0,1,resume,3.0,0,0.0
+waterfall,3,0,0,1,resume,3.0,0,0.0
+web hosting,3,0,0,1,resume,3.0,0,0.0
+web marketing,3,0,0,1,resume,3.0,0,0.0
+web page,3,0,0,1,resume,3.0,0,0.0
+webmaster,3,0,0,1,resume,3.0,0,0.0
+weighing,3,0,0,1,resume,3.0,0,0.0
+well-organized,3,0,0,1,resume,3.0,0,0.0
+win7,3,0,0,1,resume,3.0,0,0.0
+windows platform,3,0,0,1,resume,3.0,0,0.0
+workers compensation,3,0,0,1,resume,3.0,0,0.0
+workstations,3,0,0,1,resume,3.0,0,0.0
+writing test,3,0,0,1,resume,3.0,0,0.0
+written communications,3,0,0,1,resume,3.0,0,0.0
+xhtml,3,0,0,1,resume,3.0,0,0.0
+xp,3,0,0,1,resume,3.0,0,0.0
+xslt,3,0,0,1,resume,3.0,0,0.0
+scons,0,0,0,1,stackoverflow,2.92,292,2.92
+zmk,0,0,0,1,stackoverflow,2.27,227,2.27
+nim,0,0,0,1,stackoverflow,2.1,210,2.1
+spacemacs,0,0,0,1,stackoverflow,2.04,204,2.04
+micronaut,0,0,0,1,stackoverflow,2.03,203,2.03
+accounting/auditing,0,0,1,1,linkedin,2.0,0,0.0
+art/creative,0,0,1,1,linkedin,2.0,0,0.0
+distribution,0,0,1,1,linkedin,2.0,0,0.0
+education,0,0,1,1,linkedin,2.0,0,0.0
+engineering,0,0,1,1,linkedin,2.0,0,0.0
+general business,0,0,1,1,linkedin,2.0,0,0.0
+health care provider,0,0,1,1,linkedin,2.0,0,0.0
+other,0,0,1,1,linkedin,2.0,0,0.0
+production,0,0,1,1,linkedin,2.0,0,0.0
+science,0,0,1,1,linkedin,2.0,0,0.0
+strategy/planning,0,0,1,1,linkedin,2.0,0,0.0
+writing/editing,0,0,1,1,linkedin,2.0,0,0.0
+datomic,0,0,0,1,stackoverflow,1.84,184,1.84
+zephyr,0,0,0,1,stackoverflow,1.84,184,1.84
+eventstoredb,0,0,0,1,stackoverflow,1.62,162,1.62
+ravendb,0,0,0,1,stackoverflow,1.59,159,1.59
+build2,0,0,0,1,stackoverflow,1.39,139,1.39
+tidb,0,0,0,1,stackoverflow,1.27,127,1.27
+cute,0,0,0,1,stackoverflow,0.99,99,0.99

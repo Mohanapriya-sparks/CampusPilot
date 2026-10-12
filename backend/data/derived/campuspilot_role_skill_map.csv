@@ -1,0 +1,160 @@
+job_role,skill
+AIML,deep learning
+AIML,machine learning
+AIML,nlp
+AIML,python
+AIML,tensorflow
+Backend Developer,hibernate
+Backend Developer,java
+Backend Developer,microservices
+Backend Developer,problem solving
+Backend Developer,rest api
+Backend Developer,spring
+Backend Developer,sql
+Blockchain Developer,blockchain
+Blockchain Developer,ethereum
+Blockchain Developer,javascript
+Blockchain Developer,smart contracts
+Blockchain Developer,solidity
+Blockchain Developer,web3
+Blockchain Developer,web3js
+C# Developer,asp.net
+C# Developer,azure
+C# Developer,c#
+C# Developer,net
+C# Developer,net core
+C# Developer,sql
+C# Developer,sql server
+Cybersecurity Engineer,ethical hacking
+Cybersecurity Engineer,firewalls
+Cybersecurity Engineer,network security
+Cybersecurity Engineer,penetration testing
+Cybersecurity Engineer,siem
+Data Analyst,data analysis
+Data Analyst,data visualization
+Data Analyst,pandas
+Data Analyst,python
+Data Analyst,sql
+Data Analyst,statistics
+Data Analyst,tableau
+Data Scientist,communication
+Data Scientist,data science
+Data Scientist,keras
+Data Scientist,machine learning
+Data Scientist,nlp
+Data Scientist,python
+Data Scientist,sql
+Data Scientist,tensorflow
+Designer,adobe illustrator
+Designer,adobe xd
+Designer,creativity
+Designer,figma
+Designer,photoshop
+Designer,prototyping
+Designer,sketch
+Designer,ui/ux
+Designer,wireframing
+DevOps Engineer,ansible
+DevOps Engineer,aws
+DevOps Engineer,ci/cd
+DevOps Engineer,docker
+DevOps Engineer,jenkins
+DevOps Engineer,kubernetes
+DevOps Engineer,linux
+DevOps Engineer,terraform
+Finance,communication
+Finance,excel
+Finance,financial modeling
+Finance,risk analysis
+Frontend Developer,css
+Frontend Developer,html
+Frontend Developer,javascript
+Frontend Developer,react
+Frontend Developer,redux
+Frontend Developer,teamwork
+Frontend Developer,typescript
+Full Stack Java Developer,angular
+Full Stack Java Developer,aws
+Full Stack Java Developer,hibernate
+Full Stack Java Developer,java
+Full Stack Java Developer,microservices
+Full Stack Java Developer,react
+Full Stack Java Developer,spring
+Full Stack Java Developer,spring boot
+Full Stack Python Developer,agile
+Full Stack Python Developer,django
+Full Stack Python Developer,flask
+Full Stack Python Developer,javascript
+Full Stack Python Developer,postgresql
+Full Stack Python Developer,python
+Full Stack Python Developer,react
+Full Stack Python Developer,sql
+Game Developer,3d modeling
+Game Developer,c#
+Game Developer,c++
+Game Developer,game design
+Game Developer,game physics
+Game Developer,teamwork
+Game Developer,unity
+Game Developer,unreal engine
+Game Developer,vr
+Game Developer,vr development
+HR,communication
+HR,employee relations
+HR,hr management
+HR,hr policies
+HR,leadership
+HR,recruitment
+HR,training
+Kubernetes Operations Engineer,aws
+Kubernetes Operations Engineer,ci/cd
+Kubernetes Operations Engineer,docker
+Kubernetes Operations Engineer,gcp
+Kubernetes Operations Engineer,helm
+Kubernetes Operations Engineer,kubernetes
+Kubernetes Operations Engineer,terraform
+Marketing,analytics
+Marketing,content creation
+Marketing,digital marketing
+Marketing,google analytics
+Marketing,marketing campaigns
+Marketing,marketing strategy
+Marketing,ppc
+Marketing,seo
+Marketing,social media
+Mobile Developer,android development
+Mobile Developer,android sdk
+Mobile Developer,core data
+Mobile Developer,ios
+Mobile Developer,ios development
+Mobile Developer,java
+Mobile Developer,kotlin
+Mobile Developer,objective-c
+Mobile Developer,rest api
+Mobile Developer,swift
+Mobile Developer,ui/ux
+Mobile Developer,xcode
+PHP Developer,javascript
+PHP Developer,laravel
+PHP Developer,mysql
+PHP Developer,php
+PHP Developer,symfony
+PHP Developer,wordpress
+Software Project Manager,agile
+Software Project Manager,jira
+Software Project Manager,leadership
+Software Project Manager,project management
+Software Project Manager,scrum
+Software Project Manager,stakeholder management
+Video Game Designer,3d modeling
+Video Game Designer,c++
+Video Game Designer,game design
+Video Game Designer,unity
+Web Developer,angular
+Web Developer,css
+Web Developer,express
+Web Developer,html
+Web Developer,javascript
+Web Developer,mongodb
+Web Developer,node.js
+Web Developer,vue.js

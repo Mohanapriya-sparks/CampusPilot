@@ -1,0 +1,2416 @@
+skill,resume_frequency,technical_frequency,linkedin_frequency,source_count,sources,priority_score
+javascript,53,200,0,2,resume|technical_roles,1053
+sql,113,148,0,2,resume|technical_roles,853
+python,32,150,0,2,resume|technical_roles,782
+excel,675,1,0,2,resume|technical_roles,680
+sales,671,0,1,2,linkedin|resume,673
+java,45,125,0,2,resume|technical_roles,670
+aws,4,123,0,2,resume|technical_roles,619
+word,530,0,0,1,resume,530
+ui/ux,3,99,0,2,resume|technical_roles,498
+html,92,75,0,2,resume|technical_roles,467
+customer service,449,0,1,2,linkedin|resume,451
+css,46,75,0,2,resume|technical_roles,421
+quality,415,0,0,1,resume,415
+marketing,407,0,1,2,linkedin|resume,409
+recruitment,132,50,0,2,resume|technical_roles,382
+react,0,75,0,1,technical_roles,375
+project management,245,25,1,3,linkedin|resume|technical_roles,372
+docker,0,74,0,1,technical_roles,370
+microsoft office,367,0,0,1,resume,367
+powerpoint,364,0,0,1,resume,364
+inventory,357,0,0,1,resume,357
+documentation,347,0,0,1,resume,347
+financial,337,0,0,1,resume,337
+processes,337,0,0,1,resume,337
+leadership,314,4,0,2,resume|technical_roles,334
+research,306,0,1,2,linkedin|resume,308
+reporting,294,0,0,1,resume,294
+managing,293,0,0,1,resume,293
+scheduling,289,0,0,1,resume,289
+access,286,0,0,1,resume,286
+php,33,50,0,2,resume|technical_roles,283
+agile,26,51,0,2,resume|technical_roles,281
+mysql,31,50,0,2,resume|technical_roles,281
+sql server,29,49,0,2,resume|technical_roles,274
+database,271,0,0,1,resume,271
+safety,267,0,0,1,resume,267
+outlook,257,0,0,1,resume,257
+accounting,256,0,0,1,resume,256
+swift,5,50,0,2,resume|technical_roles,255
+c#,0,51,0,1,technical_roles,255
+rest api,0,51,0,1,technical_roles,255
+payroll,252,0,0,1,resume,252
+c++,0,50,0,1,technical_roles,250
+kubernetes,0,50,0,1,technical_roles,250
+solidity,0,50,0,1,technical_roles,250
+tensorflow,0,50,0,1,technical_roles,250
+azure,3,49,0,2,resume|technical_roles,248
+ethereum,0,49,0,1,technical_roles,245
+figma,0,49,0,1,technical_roles,245
+jenkins,0,49,0,1,technical_roles,245
+spring,0,49,0,1,technical_roles,245
+terraform,0,49,0,1,technical_roles,245
+analytics,0,48,0,1,technical_roles,240
+nlp,0,48,0,1,technical_roles,240
+siem,0,48,0,1,technical_roles,240
+web3,0,48,0,1,technical_roles,240
+credit,235,0,0,1,resume,235
+contracts,227,0,0,1,resume,227
+training,96,23,1,3,linkedin|resume|technical_roles,213
+statistics,67,25,0,2,resume|technical_roles,192
+billing,189,0,0,1,resume,189
+employee relations,63,25,0,2,resume|technical_roles,188
+linux,63,25,0,2,resume|technical_roles,188
+insurance,187,0,0,1,resume,187
+presentations,182,0,0,1,resume,182
+finance,178,0,1,2,linkedin|resume,180
+strategic,179,0,0,1,resume,179
+network,178,0,0,1,resume,178
+network security,26,27,0,2,resume|technical_roles,161
+administrative,152,0,1,2,linkedin|resume,154
+scrum,20,26,0,2,resume|technical_roles,150
+purchasing,147,0,1,2,linkedin|resume,149
+databases,149,0,0,1,resume,149
+functional,149,0,0,1,resume,149
+hiring,149,0,0,1,resume,149
+advertising,145,0,1,2,linkedin|resume,147
+closing,146,0,0,1,resume,146
+pricing,146,0,0,1,resume,146
+strategy,145,0,0,1,resume,145
+staffing,144,0,0,1,resume,144
+asp.net,17,25,0,2,resume|technical_roles,142
+tableau,17,25,0,2,resume|technical_roles,142
+coaching,142,0,0,1,resume,142
+firewalls,16,25,0,2,resume|technical_roles,141
+machine learning,6,27,0,2,resume|technical_roles,141
+postgresql,3,27,0,2,resume|technical_roles,138
+seo,3,27,0,2,resume|technical_roles,138
+express,16,24,0,2,resume|technical_roles,136
+basic,135,0,0,1,resume,135
+forms,134,0,0,1,resume,134
+budgeting,133,0,0,1,resume,133
+hr,132,0,0,1,resume,132
+prototyping,6,25,0,2,resume|technical_roles,131
+angular,0,26,0,1,technical_roles,130
+blockchain,0,26,0,1,technical_roles,130
+core data,0,26,0,1,technical_roles,130
+game design,0,26,0,1,technical_roles,130
+hibernate,0,26,0,1,technical_roles,130
+ios development,0,26,0,1,technical_roles,130
+microservices,0,26,0,1,technical_roles,130
+organizational,130,0,0,1,resume,130
+penetration testing,0,26,0,1,technical_roles,130
+spring boot,0,26,0,1,technical_roles,130
+unity,0,26,0,1,technical_roles,130
+digital marketing,4,25,0,2,resume|technical_roles,129
+jira,4,25,0,2,resume|technical_roles,129
+email,129,0,0,1,resume,129
+data visualization,3,25,0,2,resume|technical_roles,128
+mongodb,3,25,0,2,resume|technical_roles,128
+social media,8,24,0,2,resume|technical_roles,128
+government,127,0,0,1,resume,127
+hardware,127,0,0,1,resume,127
+networking,127,0,0,1,resume,127
+supervision,127,0,0,1,resume,127
+telephone,127,0,0,1,resume,127
+adobe xd,0,25,0,1,technical_roles,125
+ci/cd,0,25,0,1,technical_roles,125
+deep learning,0,25,0,1,technical_roles,125
+django,0,25,0,1,technical_roles,125
+flask,0,25,0,1,technical_roles,125
+helm,0,25,0,1,technical_roles,125
+hr management,0,25,0,1,technical_roles,125
+hr policies,0,25,0,1,technical_roles,125
+keras,0,25,0,1,technical_roles,125
+kotlin,0,25,0,1,technical_roles,125
+laravel,0,25,0,1,technical_roles,125
+net core,0,25,0,1,technical_roles,125
+node.js,0,25,0,1,technical_roles,125
+pandas,0,25,0,1,technical_roles,125
+ppc,0,25,0,1,technical_roles,125
+recruiting,125,0,0,1,resume,125
+redux,0,25,0,1,technical_roles,125
+stakeholder management,0,25,0,1,technical_roles,125
+typescript,0,25,0,1,technical_roles,125
+unreal engine,0,25,0,1,technical_roles,125
+customer satisfaction,124,0,0,1,resume,124
+logistics,124,0,0,1,resume,124
+business development,121,0,1,2,linkedin|resume,123
+ios,3,24,0,2,resume|technical_roles,123
+sap,123,0,0,1,resume,123
+written,123,0,0,1,resume,123
+problem solving,117,1,0,2,resume|technical_roles,122
+english,122,0,0,1,resume,122
+data entry,121,0,0,1,resume,121
+windows,121,0,0,1,resume,121
+accounts payable,120,0,0,1,resume,120
+ethical hacking,0,24,0,1,technical_roles,120
+gcp,0,24,0,1,technical_roles,120
+sketch,0,24,0,1,technical_roles,120
+symfony,0,24,0,1,technical_roles,120
+troubleshooting,120,0,0,1,resume,120
+vr development,0,24,0,1,technical_roles,120
+wireframing,0,24,0,1,technical_roles,120
+xcode,0,24,0,1,technical_roles,120
+human resources,117,0,1,2,linkedin|resume,119
+quality assurance,115,0,1,2,linkedin|resume,117
+oracle,117,0,0,1,resume,117
+android sdk,0,23,0,1,technical_roles,115
+marketing campaigns,0,23,0,1,technical_roles,115
+supervisor,115,0,0,1,resume,115
+vr,0,23,0,1,technical_roles,115
+vue.js,0,23,0,1,technical_roles,115
+legal,112,0,1,2,linkedin|resume,114
+agency,112,0,0,1,resume,112
+focus,112,0,0,1,resume,112
+time management,112,0,0,1,resume,112
+content,111,0,0,1,resume,111
+direction,110,0,0,1,resume,110
+proposals,110,0,0,1,resume,110
+forecasting,109,0,0,1,resume,109
+quickbooks,109,0,0,1,resume,109
+power point,108,0,0,1,resume,108
+procurement,108,0,0,1,resume,108
+teaching,107,0,0,1,resume,107
+website,107,0,0,1,resume,107
+enterprise,106,0,0,1,resume,106
+selling,106,0,0,1,resume,106
+profit,104,0,0,1,resume,104
+tax,102,0,0,1,resume,102
+banking,101,0,0,1,resume,101
+public relations,97,0,1,2,linkedin|resume,99
+financial statements,99,0,0,1,resume,99
+photoshop,92,1,0,2,resume|technical_roles,97
+general ledger,97,0,0,1,resume,97
+receiving,95,0,0,1,resume,95
+microsoft office suite,91,0,0,1,resume,91
+mail,89,0,0,1,resume,89
+strategic planning,89,0,0,1,resume,89
+senior management,88,0,0,1,resume,88
+shipping,88,0,0,1,resume,88
+technical support,88,0,0,1,resume,88
+programming,87,0,0,1,resume,87
+servers,86,0,0,1,resume,86
+quality control,85,0,0,1,resume,85
+communication,64,4,0,2,resume|technical_roles,84
+video,83,0,0,1,resume,83
+spanish,81,0,0,1,resume,81
+designing,80,0,0,1,resume,80
+fast,80,0,0,1,resume,80
+funds,80,0,0,1,resume,80
+instruction,80,0,0,1,resume,80
+workflow,80,0,0,1,resume,80
+consulting,77,0,1,2,linkedin|resume,79
+accounts receivable,79,0,0,1,resume,79
+illustrator,78,0,0,1,resume,78
+spreadsheets,78,0,0,1,resume,78
+works,78,0,0,1,resume,78
+coding,77,0,0,1,resume,77
+inspection,75,0,0,1,resume,75
+conferences,74,0,0,1,resume,74
+inventory control,74,0,0,1,resume,74
+mentoring,74,0,0,1,resume,74
+approach,73,0,0,1,resume,73
+letters,73,0,0,1,resume,73
+team player,73,0,0,1,resume,73
+autocad,72,0,0,1,resume,72
+competitive,72,0,0,1,resume,72
+workshops,72,0,0,1,resume,72
+academic,71,0,0,1,resume,71
+ad,71,0,0,1,resume,71
+merchandising,71,0,0,1,resume,71
+special events,71,0,0,1,resume,71
+engineer,70,0,0,1,resume,70
+information technology,67,0,1,2,linkedin|resume,69
+balance,69,0,0,1,resume,69
+money,69,0,0,1,resume,69
+networks,69,0,0,1,resume,69
+process improvement,69,0,0,1,resume,69
+sharepoint,69,0,0,1,resume,69
+financial reporting,68,0,0,1,resume,68
+organizing,68,0,0,1,resume,68
+com,67,0,0,1,resume,67
+counseling,67,0,0,1,resume,67
+real estate,67,0,0,1,resume,67
+seminars,67,0,0,1,resume,67
+data analysis,61,1,0,2,resume|technical_roles,66
+operations,66,0,0,1,resume,66
+risk management,66,0,0,1,resume,66
+administrative support,65,0,0,1,resume,65
+cpr,65,0,0,1,resume,65
+receptionist,65,0,0,1,resume,65
+training programs,65,0,0,1,resume,65
+visio,65,0,0,1,resume,65
+call center,64,0,0,1,resume,64
+clerical,64,0,0,1,resume,64
+auditing,63,0,0,1,resume,63
+exchange,63,0,0,1,resume,63
+features,63,0,0,1,resume,63
+law,63,0,0,1,resume,63
+mentor,62,0,0,1,resume,62
+operating systems,62,0,0,1,resume,62
+publisher,62,0,0,1,resume,62
+peoplesoft,61,0,0,1,resume,61
+retail sales,61,0,0,1,resume,61
+transportation,61,0,0,1,resume,61
+art,60,0,0,1,resume,60
+arts,60,0,0,1,resume,60
+balance sheet,60,0,0,1,resume,60
+human resource,60,0,0,1,resume,60
+reading,60,0,0,1,resume,60
+account management,59,0,0,1,resume,59
+charts,59,0,0,1,resume,59
+recording,59,0,0,1,resume,59
+troubleshoot,59,0,0,1,resume,59
+teamwork,48,2,0,2,resume|technical_roles,58
+active directory,58,0,0,1,resume,58
+adobe,58,0,0,1,resume,58
+consultant,58,0,0,1,resume,58
+organizational skills,58,0,0,1,resume,58
+promotion,58,0,0,1,resume,58
+invoicing,57,0,0,1,resume,57
+performance management,57,0,0,1,resume,57
+san,57,0,0,1,resume,57
+supervising,57,0,0,1,resume,57
+bi,56,0,0,1,resume,56
+cash flow,56,0,0,1,resume,56
+mechanical,56,0,0,1,resume,56
+book,55,0,0,1,resume,55
+bookkeeping,55,0,0,1,resume,55
+pos,55,0,0,1,resume,55
+optimization,54,0,0,1,resume,54
+websites,54,0,0,1,resume,54
+fashion,53,0,0,1,resume,53
+marketing strategies,53,0,0,1,resume,53
+repairs,53,0,0,1,resume,53
+six sigma,53,0,0,1,resume,53
+team building,53,0,0,1,resume,53
+type,53,0,0,1,resume,53
+upgrades,53,0,0,1,resume,53
+backup,52,0,0,1,resume,52
+coach,52,0,0,1,resume,52
+conversion,52,0,0,1,resume,52
+critical thinking,52,0,0,1,resume,52
+crm,52,0,0,1,resume,52
+instructor,52,0,0,1,resume,52
+radio,52,0,0,1,resume,52
+editing,51,0,0,1,resume,51
+erp,51,0,0,1,resume,51
+first aid,51,0,0,1,resume,51
+leadership skills,51,0,0,1,resume,51
+maintenance,51,0,0,1,resume,51
+teacher,51,0,0,1,resume,51
+automation,50,0,0,1,resume,50
+packaging,50,0,0,1,resume,50
+product development,50,0,0,1,resume,50
+read,50,0,0,1,resume,50
+cisco,49,0,0,1,resume,49
+concept,49,0,0,1,resume,49
+excellent customer service,49,0,0,1,resume,49
+image,49,0,0,1,resume,49
+lan,49,0,0,1,resume,49
+mac,49,0,0,1,resume,49
+negotiating,49,0,0,1,resume,49
+spreadsheet,49,0,0,1,resume,49
+vision,49,0,0,1,resume,49
+adp,48,0,0,1,resume,48
+client relations,48,0,0,1,resume,48
+financial reports,48,0,0,1,resume,48
+negotiations,48,0,0,1,resume,48
+proposal,48,0,0,1,resume,48
+change management,47,0,0,1,resume,47
+drafting,47,0,0,1,resume,47
+negotiation,47,0,0,1,resume,47
+reconciling,47,0,0,1,resume,47
+unique,47,0,0,1,resume,47
+attention to detail,46,0,0,1,resume,46
+customer support,46,0,0,1,resume,46
+indesign,46,0,0,1,resume,46
+migration,46,0,0,1,resume,46
+ca,45,0,0,1,resume,45
+customer relations,45,0,0,1,resume,45
+decision making,45,0,0,1,resume,45
+information systems,45,0,0,1,resume,45
+phones,45,0,0,1,resume,45
+fundraising,44,0,0,1,resume,44
+inventory management,44,0,0,1,resume,44
+next,44,0,0,1,resume,44
+qa,44,0,0,1,resume,44
+windows 7,44,0,0,1,resume,44
+year-end,44,0,0,1,resume,44
+conflict resolution,43,0,0,1,resume,43
+data collection,43,0,0,1,resume,43
+excellent communication,43,0,0,1,resume,43
+press releases,43,0,0,1,resume,43
+surveys,43,0,0,1,resume,43
+management,40,0,1,2,linkedin|resume,42
+accountant,42,0,0,1,resume,42
+branding,42,0,0,1,resume,42
+cashier,42,0,0,1,resume,42
+directing,42,0,0,1,resume,42
+fixed assets,42,0,0,1,resume,42
+layout,42,0,0,1,resume,42
+researching,42,0,0,1,resume,42
+trainer,42,0,0,1,resume,42
+travel arrangements,42,0,0,1,resume,42
+typing,42,0,0,1,resume,42
+lotus notes,41,0,0,1,resume,41
+modeling,41,0,0,1,resume,41
+requirement,41,0,0,1,resume,41
+tax returns,41,0,0,1,resume,41
+unix,41,0,0,1,resume,41
+upgrade,41,0,0,1,resume,41
+vista,41,0,0,1,resume,41
+brochures,40,0,0,1,resume,40
+business operations,40,0,0,1,resume,40
+clientele,40,0,0,1,resume,40
+event planning,40,0,0,1,resume,40
+financial analysis,40,0,0,1,resume,40
+financial management,40,0,0,1,resume,40
+interpersonal skills,40,0,0,1,resume,40
+microsoft outlook,40,0,0,1,resume,40
+sound,40,0,0,1,resume,40
+technician,40,0,0,1,resume,40
+adobe photoshop,39,0,0,1,resume,39
+microsoft project,39,0,0,1,resume,39
+monitors,39,0,0,1,resume,39
+pr,39,0,0,1,resume,39
+producing,39,0,0,1,resume,39
+protocols,39,0,0,1,resume,39
+quick,39,0,0,1,resume,39
+streamline,39,0,0,1,resume,39
+tables,39,0,0,1,resume,39
+driving,38,0,0,1,resume,38
+help desk,38,0,0,1,resume,38
+hris,38,0,0,1,resume,38
+ibm,38,0,0,1,resume,38
+messaging,38,0,0,1,resume,38
+taxes,38,0,0,1,resume,38
+windows xp,38,0,0,1,resume,38
+council,37,0,0,1,resume,37
+notes,37,0,0,1,resume,37
+page,37,0,0,1,resume,37
+printers,37,0,0,1,resume,37
+publications,37,0,0,1,resume,37
+acquisitions,36,0,0,1,resume,36
+business management,36,0,0,1,resume,36
+e-mail,36,0,0,1,resume,36
+microsoft access,36,0,0,1,resume,36
+public speaking,36,0,0,1,resume,36
+speaking,36,0,0,1,resume,36
+staff training,36,0,0,1,resume,36
+xml,36,0,0,1,resume,36
+analyst,33,0,1,2,linkedin|resume,35
+cash management,35,0,0,1,resume,35
+grants,35,0,0,1,resume,35
+hp,35,0,0,1,resume,35
+scripts,35,0,0,1,resume,35
+switches,35,0,0,1,resume,35
+validation,35,0,0,1,resume,35
+marketing strategy,24,2,0,2,resume|technical_roles,34
+ap,34,0,0,1,resume,34
+ar,34,0,0,1,resume,34
+bank reconciliations,34,0,0,1,resume,34
+cash handling,34,0,0,1,resume,34
+cooking,34,0,0,1,resume,34
+estimating,34,0,0,1,resume,34
+managerial,34,0,0,1,resume,34
+marketing materials,34,0,0,1,resume,34
+multi-tasking,34,0,0,1,resume,34
+newsletter,34,0,0,1,resume,34
+press,34,0,0,1,resume,34
+routers,34,0,0,1,resume,34
+scanning,34,0,0,1,resume,34
+software development,34,0,0,1,resume,34
+vendor management,34,0,0,1,resume,34
+citrix,33,0,0,1,resume,33
+cost control,33,0,0,1,resume,33
+disaster recovery,33,0,0,1,resume,33
+presenting,33,0,0,1,resume,33
+telecommunications,33,0,0,1,resume,33
+vpn,33,0,0,1,resume,33
+google analytics,27,1,0,2,resume|technical_roles,32
+articles,32,0,0,1,resume,32
+cad,32,0,0,1,resume,32
+controller,32,0,0,1,resume,32
+database management,32,0,0,1,resume,32
+equity,32,0,0,1,resume,32
+liaison,32,0,0,1,resume,32
+listening,32,0,0,1,resume,32
+matlab,32,0,0,1,resume,32
+nursing,32,0,0,1,resume,32
+oil,32,0,0,1,resume,32
+operations management,32,0,0,1,resume,32
+relationship building,32,0,0,1,resume,32
+security,32,0,0,1,resume,32
+specification,32,0,0,1,resume,32
+supply chain,29,0,1,2,linkedin|resume,31
+army,31,0,0,1,resume,31
+associate,31,0,0,1,resume,31
+bank reconciliation,31,0,0,1,resume,31
+cash,31,0,0,1,resume,31
+cash register,31,0,0,1,resume,31
+color,31,0,0,1,resume,31
+graphics,31,0,0,1,resume,31
+innovation,31,0,0,1,resume,31
+problem resolution,31,0,0,1,resume,31
+problem solver,31,0,0,1,resume,31
+record keeping,31,0,0,1,resume,31
+team lead,31,0,0,1,resume,31
+testing,31,0,0,1,resume,31
+ads,30,0,0,1,resume,30
+developer,30,0,0,1,resume,30
+financials,30,0,0,1,resume,30
+ftp,30,0,0,1,resume,30
+imaging,30,0,0,1,resume,30
+media relations,30,0,0,1,resume,30
+ms office suite,30,0,0,1,resume,30
+performance reviews,30,0,0,1,resume,30
+tcp/ip,30,0,0,1,resume,30
+tv,30,0,0,1,resume,30
+wan,30,0,0,1,resume,30
+business intelligence,29,0,0,1,resume,29
+case management,29,0,0,1,resume,29
+cpa,29,0,0,1,resume,29
+dreamweaver,29,0,0,1,resume,29
+due diligence,29,0,0,1,resume,29
+e-commerce,29,0,0,1,resume,29
+hyperion,29,0,0,1,resume,29
+interpretation,29,0,0,1,resume,29
+ledger,29,0,0,1,resume,29
+logic,29,0,0,1,resume,29
+marketing plan,29,0,0,1,resume,29
+ms access,29,0,0,1,resume,29
+navy,29,0,0,1,resume,29
+solutions,29,0,0,1,resume,29
+television,29,0,0,1,resume,29
+automotive,28,0,0,1,resume,28
+continuous improvement,28,0,0,1,resume,28
+customer services,28,0,0,1,resume,28
+drivers,28,0,0,1,resume,28
+graphic,28,0,0,1,resume,28
+graphic design,28,0,0,1,resume,28
+investments,28,0,0,1,resume,28
+machinery,28,0,0,1,resume,28
+market research,28,0,0,1,resume,28
+marketing plans,28,0,0,1,resume,28
+operating system,28,0,0,1,resume,28
+painting,28,0,0,1,resume,28
+team leader,28,0,0,1,resume,28
+trade shows,28,0,0,1,resume,28
+wiring,28,0,0,1,resume,28
+adobe acrobat,27,0,0,1,resume,27
+cold calling,27,0,0,1,resume,27
+consultation,27,0,0,1,resume,27
+dhcp,27,0,0,1,resume,27
+dns,27,0,0,1,resume,27
+fax,27,0,0,1,resume,27
+lesson plans,27,0,0,1,resume,27
+microsoft windows,27,0,0,1,resume,27
+ms project,27,0,0,1,resume,27
+problem solving skills,27,0,0,1,resume,27
+program management,27,0,0,1,resume,27
+solidworks,27,0,0,1,resume,27
+creativity,21,1,0,2,resume|technical_roles,26
+product management,24,0,1,2,linkedin|resume,26
+accounting software,26,0,0,1,resume,26
+accruals,26,0,0,1,resume,26
+ada,26,0,0,1,resume,26
+basis,26,0,0,1,resume,26
+billings,26,0,0,1,resume,26
+calibration,26,0,0,1,resume,26
+drawing,26,0,0,1,resume,26
+flash,26,0,0,1,resume,26
+kronos,26,0,0,1,resume,26
+leadership development,26,0,0,1,resume,26
+newsletters,26,0,0,1,resume,26
+pivot tables,26,0,0,1,resume,26
+real-time,26,0,0,1,resume,26
+simulation,26,0,0,1,resume,26
+treasury,26,0,0,1,resume,26
+account reconciliation,25,0,0,1,resume,25
+api,25,0,0,1,resume,25
+award,25,0,0,1,resume,25
+business plan,25,0,0,1,resume,25
+contract negotiations,25,0,0,1,resume,25
+employee training,25,0,0,1,resume,25
+inspect,25,0,0,1,resume,25
+math,25,0,0,1,resume,25
+oral,25,0,0,1,resume,25
+photo,25,0,0,1,resume,25
+rapport,25,0,0,1,resume,25
+routing,25,0,0,1,resume,25
+sage,25,0,0,1,resume,25
+securities,25,0,0,1,resume,25
+staff development,25,0,0,1,resume,25
+utilities,25,0,0,1,resume,25
+voip,25,0,0,1,resume,25
+welding,25,0,0,1,resume,25
+adobe illustrator,19,1,0,2,resume|technical_roles,24
+content creation,14,2,0,2,resume|technical_roles,24
+net,19,1,0,2,resume|technical_roles,24
+apple,24,0,0,1,resume,24
+as400,24,0,0,1,resume,24
+assembly,24,0,0,1,resume,24
+asset management,24,0,0,1,resume,24
+business process,24,0,0,1,resume,24
+cms,24,0,0,1,resume,24
+cost analysis,24,0,0,1,resume,24
+detail oriented,24,0,0,1,resume,24
+economics,24,0,0,1,resume,24
+financing,24,0,0,1,resume,24
+interpersonal,24,0,0,1,resume,24
+loss prevention,24,0,0,1,resume,24
+medical terminology,24,0,0,1,resume,24
+mis,24,0,0,1,resume,24
+scanners,24,0,0,1,resume,24
+schematics,24,0,0,1,resume,24
+weapons,24,0,0,1,resume,24
+business processes,23,0,0,1,resume,23
+cpr certified,23,0,0,1,resume,23
+dell,23,0,0,1,resume,23
+direct mail,23,0,0,1,resume,23
+electronics,23,0,0,1,resume,23
+expense reports,23,0,0,1,resume,23
+gl,23,0,0,1,resume,23
+increase,23,0,0,1,resume,23
+internet research,23,0,0,1,resume,23
+ip,23,0,0,1,resume,23
+iso,23,0,0,1,resume,23
+itil,23,0,0,1,resume,23
+mathematics,23,0,0,1,resume,23
+ms outlook,23,0,0,1,resume,23
+natural,23,0,0,1,resume,23
+os,23,0,0,1,resume,23
+phone system,23,0,0,1,resume,23
+photography,23,0,0,1,resume,23
+police,23,0,0,1,resume,23
+project planning,23,0,0,1,resume,23
+regulatory compliance,23,0,0,1,resume,23
+relationship management,23,0,0,1,resume,23
+rfp,23,0,0,1,resume,23
+telephones,23,0,0,1,resume,23
+trend,23,0,0,1,resume,23
+windows server,23,0,0,1,resume,23
+account reconciliations,22,0,0,1,resume,22
+acrobat,22,0,0,1,resume,22
+audio,22,0,0,1,resume,22
+audits,22,0,0,1,resume,22
+budget management,22,0,0,1,resume,22
+cable,22,0,0,1,resume,22
+computer literate,22,0,0,1,resume,22
+content management,22,0,0,1,resume,22
+customer relationship management,22,0,0,1,resume,22
+edit,22,0,0,1,resume,22
+firewall,22,0,0,1,resume,22
+human resource management,22,0,0,1,resume,22
+jd edwards,22,0,0,1,resume,22
+mac os,22,0,0,1,resume,22
+marketing collateral,22,0,0,1,resume,22
+payroll processing,22,0,0,1,resume,22
+project plans,22,0,0,1,resume,22
+reception,22,0,0,1,resume,22
+sales and,22,0,0,1,resume,22
+sas,22,0,0,1,resume,22
+structured,22,0,0,1,resume,22
+symantec,22,0,0,1,resume,22
+training materials,22,0,0,1,resume,22
+visual basic,22,0,0,1,resume,22
+window,22,0,0,1,resume,22
+accounting system,21,0,0,1,resume,21
+benefits administration,21,0,0,1,resume,21
+blueprints,21,0,0,1,resume,21
+debit,21,0,0,1,resume,21
+film,21,0,0,1,resume,21
+financial accounting,21,0,0,1,resume,21
+http,21,0,0,1,resume,21
+hvac,21,0,0,1,resume,21
+lighting,21,0,0,1,resume,21
+macros,21,0,0,1,resume,21
+pick,21,0,0,1,resume,21
+quick learner,21,0,0,1,resume,21
+self-starter,21,0,0,1,resume,21
+spss,21,0,0,1,resume,21
+strategic plans,21,0,0,1,resume,21
+supervisory,21,0,0,1,resume,21
+technical assistance,21,0,0,1,resume,21
+win,21,0,0,1,resume,21
+accounts receivables,20,0,0,1,resume,20
+administrative assistant,20,0,0,1,resume,20
+annual reports,20,0,0,1,resume,20
+b2b,20,0,0,1,resume,20
+broadcast,20,0,0,1,resume,20
+business analysis,20,0,0,1,resume,20
+business plans,20,0,0,1,resume,20
+communicator,20,0,0,1,resume,20
+concise,20,0,0,1,resume,20
+costing,20,0,0,1,resume,20
+data management,20,0,0,1,resume,20
+dc,20,0,0,1,resume,20
+dependable,20,0,0,1,resume,20
+desktop support,20,0,0,1,resume,20
+document management,20,0,0,1,resume,20
+fast learner,20,0,0,1,resume,20
+faxing,20,0,0,1,resume,20
+frame,20,0,0,1,resume,20
+hindi,20,0,0,1,resume,20
+laser,20,0,0,1,resume,20
+mental health,20,0,0,1,resume,20
+neat,20,0,0,1,resume,20
+novell,20,0,0,1,resume,20
+outside sales,20,0,0,1,resume,20
+patient care,20,0,0,1,resume,20
+peachtree,20,0,0,1,resume,20
+positioning,20,0,0,1,resume,20
+publicity,20,0,0,1,resume,20
+satisfaction,20,0,0,1,resume,20
+trouble shooting,20,0,0,1,resume,20
+underwriting,20,0,0,1,resume,20
+variance analysis,20,0,0,1,resume,20
+view,20,0,0,1,resume,20
+windows 2000,20,0,0,1,resume,20
+3d modeling,4,3,0,2,resume|technical_roles,19
+advertisements,19,0,0,1,resume,19
+architect,19,0,0,1,resume,19
+camera,19,0,0,1,resume,19
+cpt,19,0,0,1,resume,19
+crystal reports,19,0,0,1,resume,19
+decision-making,19,0,0,1,resume,19
+french,19,0,0,1,resume,19
+general accounting,19,0,0,1,resume,19
+general manager,19,0,0,1,resume,19
+languages,19,0,0,1,resume,19
+mailing,19,0,0,1,resume,19
+mba,19,0,0,1,resume,19
+organizational development,19,0,0,1,resume,19
+personnel management,19,0,0,1,resume,19
+printer,19,0,0,1,resume,19
+proofreading,19,0,0,1,resume,19
+team leadership,19,0,0,1,resume,19
+telecom,19,0,0,1,resume,19
+verbal communication skills,19,0,0,1,resume,19
+writer,19,0,0,1,resume,19
+risk analysis,13,1,0,2,resume|technical_roles,18
+audit,18,0,0,1,resume,18
+business objects,18,0,0,1,resume,18
+customer care,18,0,0,1,resume,18
+customer service skills,18,0,0,1,resume,18
+executive management,18,0,0,1,resume,18
+faxes,18,0,0,1,resume,18
+internet explorer,18,0,0,1,resume,18
+laptops,18,0,0,1,resume,18
+mainframe,18,0,0,1,resume,18
+management skills,18,0,0,1,resume,18
+microsoft exchange,18,0,0,1,resume,18
+online marketing,18,0,0,1,resume,18
+paint,18,0,0,1,resume,18
+plumbing,18,0,0,1,resume,18
+retail marketing,18,0,0,1,resume,18
+sales reports,18,0,0,1,resume,18
+sarbanes-oxley,18,0,0,1,resume,18
+self motivated,18,0,0,1,resume,18
+system integration,18,0,0,1,resume,18
+test equipment,18,0,0,1,resume,18
+visual studio,18,0,0,1,resume,18
+a/p,17,0,0,1,resume,17
+accounts and,17,0,0,1,resume,17
+analytical skills,17,0,0,1,resume,17
+creative problem solving,17,0,0,1,resume,17
+detail-oriented,17,0,0,1,resume,17
+edge,17,0,0,1,resume,17
+financial planning,17,0,0,1,resume,17
+forklift,17,0,0,1,resume,17
+ids,17,0,0,1,resume,17
+information security,17,0,0,1,resume,17
+integration,17,0,0,1,resume,17
+integrator,17,0,0,1,resume,17
+navigation,17,0,0,1,resume,17
+new product development,17,0,0,1,resume,17
+office management,17,0,0,1,resume,17
+payables,17,0,0,1,resume,17
+presentation skills,17,0,0,1,resume,17
+psychology,17,0,0,1,resume,17
+script,17,0,0,1,resume,17
+sdlc,17,0,0,1,resume,17
+soldering,17,0,0,1,resume,17
+sop,17,0,0,1,resume,17
+statistical analysis,17,0,0,1,resume,17
+strong communication skills,17,0,0,1,resume,17
+telecommunication,17,0,0,1,resume,17
+vendor relations,17,0,0,1,resume,17
+windows 95,17,0,0,1,resume,17
+administrative duties,16,0,0,1,resume,16
+answering phones,16,0,0,1,resume,16
+application development,16,0,0,1,resume,16
+arabic,16,0,0,1,resume,16
+bonds,16,0,0,1,resume,16
+budget planning,16,0,0,1,resume,16
+cases,16,0,0,1,resume,16
+cash receipts,16,0,0,1,resume,16
+chemistry,16,0,0,1,resume,16
+configuration management,16,0,0,1,resume,16
+contract management,16,0,0,1,resume,16
+contract negotiation,16,0,0,1,resume,16
+copying,16,0,0,1,resume,16
+corporate finance,16,0,0,1,resume,16
+employee development,16,0,0,1,resume,16
+fluent in spanish,16,0,0,1,resume,16
+graphs,16,0,0,1,resume,16
+icd-9,16,0,0,1,resume,16
+lean manufacturing,16,0,0,1,resume,16
+microsoft certified professional,16,0,0,1,resume,16
+million,16,0,0,1,resume,16
+new business development,16,0,0,1,resume,16
+newspaper,16,0,0,1,resume,16
+office equipment,16,0,0,1,resume,16
+pbx,16,0,0,1,resume,16
+pl/sql,16,0,0,1,resume,16
+posters,16,0,0,1,resume,16
+program development,16,0,0,1,resume,16
+scripting,16,0,0,1,resume,16
+self-motivated,16,0,0,1,resume,16
+social media platforms,16,0,0,1,resume,16
+strategic marketing,16,0,0,1,resume,16
+user training,16,0,0,1,resume,16
+financial modeling,10,1,0,2,resume|technical_roles,15
+adobe creative suite,15,0,0,1,resume,15
+advanced problem-solving,15,0,0,1,resume,15
+atm,15,0,0,1,resume,15
+author,15,0,0,1,resume,15
+automate,15,0,0,1,resume,15
+balance sheets,15,0,0,1,resume,15
+cabling,15,0,0,1,resume,15
+cash registers,15,0,0,1,resume,15
+catalog,15,0,0,1,resume,15
+catalogs,15,0,0,1,resume,15
+correspondence,15,0,0,1,resume,15
+cost accounting,15,0,0,1,resume,15
+cost reduction,15,0,0,1,resume,15
+customer,15,0,0,1,resume,15
+data base,15,0,0,1,resume,15
+dec,15,0,0,1,resume,15
+editor,15,0,0,1,resume,15
+fluent in english,15,0,0,1,resume,15
+general ledger accounts,15,0,0,1,resume,15
+gis,15,0,0,1,resume,15
+it support,15,0,0,1,resume,15
+multimedia,15,0,0,1,resume,15
+naval,15,0,0,1,resume,15
+network administration,15,0,0,1,resume,15
+nt,15,0,0,1,resume,15
+oral communication,15,0,0,1,resume,15
+payments,15,0,0,1,resume,15
+premier,15,0,0,1,resume,15
+producer,15,0,0,1,resume,15
+promotional materials,15,0,0,1,resume,15
+property management,15,0,0,1,resume,15
+publication,15,0,0,1,resume,15
+quick books,15,0,0,1,resume,15
+quickbooks pro,15,0,0,1,resume,15
+rehabilitation,15,0,0,1,resume,15
+repairing,15,0,0,1,resume,15
+report writing,15,0,0,1,resume,15
+risk assessment,15,0,0,1,resume,15
+sales management,15,0,0,1,resume,15
+stories,15,0,0,1,resume,15
+tutoring,15,0,0,1,resume,15
+upgrading,15,0,0,1,resume,15
+valuation,15,0,0,1,resume,15
+web design,15,0,0,1,resume,15
+windows 8,15,0,0,1,resume,15
+word processing,15,0,0,1,resume,15
+accounting systems,14,0,0,1,resume,14
+air force,14,0,0,1,resume,14
+and marketing,14,0,0,1,resume,14
+articulate,14,0,0,1,resume,14
+business administration,14,0,0,1,resume,14
+business planning,14,0,0,1,resume,14
+clarify,14,0,0,1,resume,14
+composition,14,0,0,1,resume,14
+desktops,14,0,0,1,resume,14
+essbase,14,0,0,1,resume,14
+excel spreadsheets,14,0,0,1,resume,14
+filling,14,0,0,1,resume,14
+firing,14,0,0,1,resume,14
+great organizational skills,14,0,0,1,resume,14
+gui,14,0,0,1,resume,14
+healthcare,14,0,0,1,resume,14
+human resources management,14,0,0,1,resume,14
+inspecting,14,0,0,1,resume,14
+interior design,14,0,0,1,resume,14
+internal audit,14,0,0,1,resume,14
+its,14,0,0,1,resume,14
+labor relations,14,0,0,1,resume,14
+legal documents,14,0,0,1,resume,14
+litigation,14,0,0,1,resume,14
+logging,14,0,0,1,resume,14
+maintain records,14,0,0,1,resume,14
+marketing communications,14,0,0,1,resume,14
+mcp,14,0,0,1,resume,14
+mediation,14,0,0,1,resume,14
+minitab,14,0,0,1,resume,14
+multitasking,14,0,0,1,resume,14
+office manager,14,0,0,1,resume,14
+paralegal,14,0,0,1,resume,14
+promotional,14,0,0,1,resume,14
+router,14,0,0,1,resume,14
+sales manager,14,0,0,1,resume,14
+sales training,14,0,0,1,resume,14
+settlements,14,0,0,1,resume,14
+sla,14,0,0,1,resume,14
+sun,14,0,0,1,resume,14
+supply chain management,14,0,0,1,resume,14
+system administration,14,0,0,1,resume,14
+transmission,14,0,0,1,resume,14
+vba,14,0,0,1,resume,14
+written communication skills,14,0,0,1,resume,14
+adp payroll,13,0,0,1,resume,13
+and sales,13,0,0,1,resume,13
+apache,13,0,0,1,resume,13
+attorney,13,0,0,1,resume,13
+back-up,13,0,0,1,resume,13
+benchmarking,13,0,0,1,resume,13
+bloomberg,13,0,0,1,resume,13
+bridges,13,0,0,1,resume,13
+budget analysis,13,0,0,1,resume,13
+business solutions,13,0,0,1,resume,13
+business strategy,13,0,0,1,resume,13
+claims,13,0,0,1,resume,13
+cognos,13,0,0,1,resume,13
+community relations,13,0,0,1,resume,13
+data warehouse,13,0,0,1,resume,13
+direct sales,13,0,0,1,resume,13
+eclipse,13,0,0,1,resume,13
+file,13,0,0,1,resume,13
+food safety,13,0,0,1,resume,13
+ghost,13,0,0,1,resume,13
+hand tools,13,0,0,1,resume,13
+inventory levels,13,0,0,1,resume,13
+invoices,13,0,0,1,resume,13
+lesson planning,13,0,0,1,resume,13
+marketing analysis,13,0,0,1,resume,13
+mcse,13,0,0,1,resume,13
+metrics,13,0,0,1,resume,13
+microsoft,13,0,0,1,resume,13
+microsoft dynamics,13,0,0,1,resume,13
+month end close,13,0,0,1,resume,13
+nas,13,0,0,1,resume,13
+new construction,13,0,0,1,resume,13
+pdf,13,0,0,1,resume,13
+peak,13,0,0,1,resume,13
+people skills,13,0,0,1,resume,13
+proxy,13,0,0,1,resume,13
+sales support,13,0,0,1,resume,13
+scientific,13,0,0,1,resume,13
+secretarial,13,0,0,1,resume,13
+speeches,13,0,0,1,resume,13
+storage area network,13,0,0,1,resume,13
+switch,13,0,0,1,resume,13
+therapy,13,0,0,1,resume,13
+translation,13,0,0,1,resume,13
+verbal communication,13,0,0,1,resume,13
+written communication,13,0,0,1,resume,13
+wordpress,7,1,0,2,resume|technical_roles,12
+accounts payables,12,0,0,1,resume,12
+accrual,12,0,0,1,resume,12
+administrative functions,12,0,0,1,resume,12
+antivirus,12,0,0,1,resume,12
+cancer,12,0,0,1,resume,12
+ccna,12,0,0,1,resume,12
+certified public accountant,12,0,0,1,resume,12
+client/server,12,0,0,1,resume,12
+cnc,12,0,0,1,resume,12
+collection,12,0,0,1,resume,12
+compensation,12,0,0,1,resume,12
+computer hardware,12,0,0,1,resume,12
+computer proficiency,12,0,0,1,resume,12
+curriculum development,12,0,0,1,resume,12
+direct marketing,12,0,0,1,resume,12
+dos,12,0,0,1,resume,12
+enthusiastic people person,12,0,0,1,resume,12
+front office,12,0,0,1,resume,12
+home health,12,0,0,1,resume,12
+illustration,12,0,0,1,resume,12
+inspector,12,0,0,1,resume,12
+instructional design,12,0,0,1,resume,12
+latin,12,0,0,1,resume,12
+market analysis,12,0,0,1,resume,12
+market trends,12,0,0,1,resume,12
+marketing and sales,12,0,0,1,resume,12
+medical billing,12,0,0,1,resume,12
+microsoft sharepoint,12,0,0,1,resume,12
+microstation,12,0,0,1,resume,12
+ms sql server,12,0,0,1,resume,12
+philosophy,12,0,0,1,resume,12
+plc,12,0,0,1,resume,12
+real time,12,0,0,1,resume,12
+rendering,12,0,0,1,resume,12
+renovation,12,0,0,1,resume,12
+search engine optimization,12,0,0,1,resume,12
+sorting,12,0,0,1,resume,12
+speaker,12,0,0,1,resume,12
+ssl,12,0,0,1,resume,12
+strong interpersonal skills,12,0,0,1,resume,12
+technical documentation,12,0,0,1,resume,12
+telephone skills,12,0,0,1,resume,12
+tops,12,0,0,1,resume,12
+vmware,12,0,0,1,resume,12
+windows nt,12,0,0,1,resume,12
+aviation,11,0,0,1,resume,11
+brand strategy,11,0,0,1,resume,11
+budget preparation,11,0,0,1,resume,11
+buying/procurement,11,0,0,1,resume,11
+cables,11,0,0,1,resume,11
+crisis management,11,0,0,1,resume,11
+diagnosis,11,0,0,1,resume,11
+ecommerce,11,0,0,1,resume,11
+equipment maintenance,11,0,0,1,resume,11
+event management,11,0,0,1,resume,11
+explorer,11,0,0,1,resume,11
+goal setting,11,0,0,1,resume,11
+gps,11,0,0,1,resume,11
+great plains,11,0,0,1,resume,11
+iis,11,0,0,1,resume,11
+international business,11,0,0,1,resume,11
+labview,11,0,0,1,resume,11
+lawson,11,0,0,1,resume,11
+local area network,11,0,0,1,resume,11
+logo,11,0,0,1,resume,11
+lotus,11,0,0,1,resume,11
+manufacturing process,11,0,0,1,resume,11
+mechanic,11,0,0,1,resume,11
+microsoft office applications,11,0,0,1,resume,11
+microsoft office programs,11,0,0,1,resume,11
+multi-task management,11,0,0,1,resume,11
+needs analysis,11,0,0,1,resume,11
+newspapers,11,0,0,1,resume,11
+oct,11,0,0,1,resume,11
+of sales,11,0,0,1,resume,11
+oracle database,11,0,0,1,resume,11
+people management,11,0,0,1,resume,11
+peripherals,11,0,0,1,resume,11
+powerpoint presentations,11,0,0,1,resume,11
+process control,11,0,0,1,resume,11
+project,11,0,0,1,resume,11
+project manager,11,0,0,1,resume,11
+reconciliation,11,0,0,1,resume,11
+red hat,11,0,0,1,resume,11
+sarbanes oxley,11,0,0,1,resume,11
+service,11,0,0,1,resume,11
+siemens,11,0,0,1,resume,11
+system design,11,0,0,1,resume,11
+training employees,11,0,0,1,resume,11
+trial balance,11,0,0,1,resume,11
+video editing,11,0,0,1,resume,11
+web site,11,0,0,1,resume,11
+android development,0,2,0,1,technical_roles,10
+ansible,0,2,0,1,technical_roles,10
+billing system,10,0,0,1,resume,10
+budget development,10,0,0,1,resume,10
+class,10,0,0,1,resume,10
+comprehensive large array data stewardship system,10,0,0,1,resume,10
+computer applications,10,0,0,1,resume,10
+counselor,10,0,0,1,resume,10
+creative problem solver,10,0,0,1,resume,10
+customer needs assessment,10,0,0,1,resume,10
+department of health,10,0,0,1,resume,10
+design and construction,10,0,0,1,resume,10
+development,10,0,0,1,resume,10
+dispatching,10,0,0,1,resume,10
+draw,10,0,0,1,resume,10
+editorial,10,0,0,1,resume,10
+electrical systems,10,0,0,1,resume,10
+ethernet,10,0,0,1,resume,10
+excellent written,10,0,0,1,resume,10
+financial analyst,10,0,0,1,resume,10
+financial operations,10,0,0,1,resume,10
+game physics,0,2,0,1,technical_roles,10
+general office,10,0,0,1,resume,10
+instructing,10,0,0,1,resume,10
+law enforcement,10,0,0,1,resume,10
+loans,10,0,0,1,resume,10
+ma,10,0,0,1,resume,10
+ms windows,10,0,0,1,resume,10
+nec,10,0,0,1,resume,10
+negotiator,10,0,0,1,resume,10
+new hires,10,0,0,1,resume,10
+performance appraisals,10,0,0,1,resume,10
+physics,10,0,0,1,resume,10
+power tools,10,0,0,1,resume,10
+prime,10,0,0,1,resume,10
+product marketing,10,0,0,1,resume,10
+project lead,10,0,0,1,resume,10
+proofing,10,0,0,1,resume,10
+quantitative analysis,10,0,0,1,resume,10
+radar,10,0,0,1,resume,10
+recruiter,10,0,0,1,resume,10
+renovations,10,0,0,1,resume,10
+revit,10,0,0,1,resume,10
+sales analysis,10,0,0,1,resume,10
+salesforce,10,0,0,1,resume,10
+software installation,10,0,0,1,resume,10
+speech,10,0,0,1,resume,10
+surgery,10,0,0,1,resume,10
+systems administration,10,0,0,1,resume,10
+tax preparation,10,0,0,1,resume,10
+team management,10,0,0,1,resume,10
+technical training,10,0,0,1,resume,10
+telemarketing,10,0,0,1,resume,10
+translating,10,0,0,1,resume,10
+ux,10,0,0,1,resume,10
+web based,10,0,0,1,resume,10
+web development,10,0,0,1,resume,10
+website design,10,0,0,1,resume,10
+abc,9,0,0,1,resume,9
+analysis,9,0,0,1,resume,9
+analytical,9,0,0,1,resume,9
+anatomy,9,0,0,1,resume,9
+answering,9,0,0,1,resume,9
+ansys,9,0,0,1,resume,9
+asp,9,0,0,1,resume,9
+automobiles,9,0,0,1,resume,9
+backup exec,9,0,0,1,resume,9
+bash,9,0,0,1,resume,9
+billing systems,9,0,0,1,resume,9
+business law,9,0,0,1,resume,9
+business strategies,9,0,0,1,resume,9
+calculators,9,0,0,1,resume,9
+calendaring,9,0,0,1,resume,9
+capacity planning,9,0,0,1,resume,9
+carpentry,9,0,0,1,resume,9
+cd,9,0,0,1,resume,9
+chinese,9,0,0,1,resume,9
+clerk,9,0,0,1,resume,9
+collections,9,0,0,1,resume,9
+copiers,9,0,0,1,resume,9
+corporate communications,9,0,0,1,resume,9
+credit card,9,0,0,1,resume,9
+customer service experience,9,0,0,1,resume,9
+database design,9,0,0,1,resume,9
+deployment,9,0,0,1,resume,9
+educational programs,9,0,0,1,resume,9
+educator,9,0,0,1,resume,9
+facilities management,9,0,0,1,resume,9
+factiva desktop publishing software: photoshop,9,0,0,1,resume,9
+file management,9,0,0,1,resume,9
+financial audits,9,0,0,1,resume,9
+fixed income,9,0,0,1,resume,9
+fortran,9,0,0,1,resume,9
+gateway,9,0,0,1,resume,9
+general ledger accounting,9,0,0,1,resume,9
+government regulations,9,0,0,1,resume,9
+health education,9,0,0,1,resume,9
+hospice,9,0,0,1,resume,9
+html5,9,0,0,1,resume,9
+inside sales,9,0,0,1,resume,9
+interpersonal communication,9,0,0,1,resume,9
+iso 9001,9,0,0,1,resume,9
+italian,9,0,0,1,resume,9
+json,9,0,0,1,resume,9
+letters and memos,9,0,0,1,resume,9
+mathcad,9,0,0,1,resume,9
+medisoft,9,0,0,1,resume,9
+microsoft certified,9,0,0,1,resume,9
+needs assessment,9,0,0,1,resume,9
+order entry,9,0,0,1,resume,9
+ordering,9,0,0,1,resume,9
+organization skills,9,0,0,1,resume,9
+pc's,9,0,0,1,resume,9
+pci,9,0,0,1,resume,9
+phlebotomy,9,0,0,1,resume,9
+problem-solving skills,9,0,0,1,resume,9
+process development,9,0,0,1,resume,9
+product design,9,0,0,1,resume,9
+profit and loss,9,0,0,1,resume,9
+project coordination,9,0,0,1,resume,9
+purchase orders,9,0,0,1,resume,9
+quality improvement,9,0,0,1,resume,9
+quicken,9,0,0,1,resume,9
+sat,9,0,0,1,resume,9
+scanner,9,0,0,1,resume,9
+service level agreements,9,0,0,1,resume,9
+siebel,9,0,0,1,resume,9
+software engineering,9,0,0,1,resume,9
+store manager,9,0,0,1,resume,9
+systems integration,9,0,0,1,resume,9
+telephony,9,0,0,1,resume,9
+trading,9,0,0,1,resume,9
+user support,9,0,0,1,resume,9
+vb.net,9,0,0,1,resume,9
+web server,9,0,0,1,resume,9
+writing,9,0,0,1,resume,9
+writing skills,9,0,0,1,resume,9
+design,6,0,1,2,linkedin|resume,8
+aia,8,0,0,1,resume,8
+android,8,0,0,1,resume,8
+answer phones,8,0,0,1,resume,8
+anti-virus,8,0,0,1,resume,8
+architecture,8,0,0,1,resume,8
+artist,8,0,0,1,resume,8
+as/400,8,0,0,1,resume,8
+assist patients,8,0,0,1,resume,8
+avid,8,0,0,1,resume,8
+banners,8,0,0,1,resume,8
+behavioral health,8,0,0,1,resume,8
+biology,8,0,0,1,resume,8
+building codes,8,0,0,1,resume,8
+ceridian,8,0,0,1,resume,8
+child care,8,0,0,1,resume,8
+client support,8,0,0,1,resume,8
+computer knowledge,8,0,0,1,resume,8
+customer service training,8,0,0,1,resume,8
+db2,8,0,0,1,resume,8
+dba,8,0,0,1,resume,8
+desktop publishing,8,0,0,1,resume,8
+edi,8,0,0,1,resume,8
+encryption,8,0,0,1,resume,8
+etl,8,0,0,1,resume,8
+exchange server,8,0,0,1,resume,8
+executive management support,8,0,0,1,resume,8
+experiments,8,0,0,1,resume,8
+external audits,8,0,0,1,resume,8
+financial statement analysis,8,0,0,1,resume,8
+foreign exchange,8,0,0,1,resume,8
+forklifts,8,0,0,1,resume,8
+games,8,0,0,1,resume,8
+general office duties,8,0,0,1,resume,8
+german,8,0,0,1,resume,8
+grammar,8,0,0,1,resume,8
+help desk support,8,0,0,1,resume,8
+home office,8,0,0,1,resume,8
+intel,8,0,0,1,resume,8
+internal audits,8,0,0,1,resume,8
+internet marketing,8,0,0,1,resume,8
+invoice,8,0,0,1,resume,8
+invoice processing,8,0,0,1,resume,8
+job costing,8,0,0,1,resume,8
+leads,8,0,0,1,resume,8
+logos,8,0,0,1,resume,8
+machining,8,0,0,1,resume,8
+maintain inventory,8,0,0,1,resume,8
+management information system,8,0,0,1,resume,8
+management reporting,8,0,0,1,resume,8
+manufacturing processes,8,0,0,1,resume,8
+mark,8,0,0,1,resume,8
+marketing management,8,0,0,1,resume,8
+mas90,8,0,0,1,resume,8
+medical records,8,0,0,1,resume,8
+memory,8,0,0,1,resume,8
+mergers,8,0,0,1,resume,8
+mergers and acquisitions,8,0,0,1,resume,8
+microsoft sql server,8,0,0,1,resume,8
+ms sql,8,0,0,1,resume,8
+mvc,8,0,0,1,resume,8
+network systems,8,0,0,1,resume,8
+office administration,8,0,0,1,resume,8
+oscilloscopes,8,0,0,1,resume,8
+people soft,8,0,0,1,resume,8
+perl,8,0,0,1,resume,8
+phone etiquette,8,0,0,1,resume,8
+physiology,8,0,0,1,resume,8
+point of sale,8,0,0,1,resume,8
+process payroll,8,0,0,1,resume,8
+processors,8,0,0,1,resume,8
+project development,8,0,0,1,resume,8
+quality management,8,0,0,1,resume,8
+quarkxpress,8,0,0,1,resume,8
+requirements gathering,8,0,0,1,resume,8
+sales associate,8,0,0,1,resume,8
+sales software: salesforce.com,8,0,0,1,resume,8
+shell,8,0,0,1,resume,8
+sketching,8,0,0,1,resume,8
+statistical process control,8,0,0,1,resume,8
+strategic management,8,0,0,1,resume,8
+take messages,8,0,0,1,resume,8
+tapscan public relations software: bacon's mediasource,8,0,0,1,resume,8
+technical writing,8,0,0,1,resume,8
+timberline,8,0,0,1,resume,8
+tivoli,8,0,0,1,resume,8
+training material,8,0,0,1,resume,8
+transmissions,8,0,0,1,resume,8
+underwriter,8,0,0,1,resume,8
+voice mail,8,0,0,1,resume,8
+web content,8,0,0,1,resume,8
+windows 98,8,0,0,1,resume,8
+wise,8,0,0,1,resume,8
+wound care,8,0,0,1,resume,8
+10-key,7,0,0,1,resume,7
+act!,7,0,0,1,resume,7
+acute care,7,0,0,1,resume,7
+adjustments,7,0,0,1,resume,7
+after effects,7,0,0,1,resume,7
+animation,7,0,0,1,resume,7
+arbitration,7,0,0,1,resume,7
+archiving,7,0,0,1,resume,7
+assistant manager,7,0,0,1,resume,7
+avaya,7,0,0,1,resume,7
+bookkeeper,7,0,0,1,resume,7
+brochure,7,0,0,1,resume,7
+business case,7,0,0,1,resume,7
+business process improvement,7,0,0,1,resume,7
+cameras,7,0,0,1,resume,7
+catia,7,0,0,1,resume,7
+cisco routers,7,0,0,1,resume,7
+cisco switches,7,0,0,1,resume,7
+cli,7,0,0,1,resume,7
+client management,7,0,0,1,resume,7
+cna,7,0,0,1,resume,7
+commodities,7,0,0,1,resume,7
+communications,7,0,0,1,resume,7
+community health,7,0,0,1,resume,7
+computer networking,7,0,0,1,resume,7
+computer proficient,7,0,0,1,resume,7
+conflict management,7,0,0,1,resume,7
+creative writing,7,0,0,1,resume,7
+crisis intervention,7,0,0,1,resume,7
+crystal,7,0,0,1,resume,7
+data mining,7,0,0,1,resume,7
+data processing,7,0,0,1,resume,7
+database administration,7,0,0,1,resume,7
+design software,7,0,0,1,resume,7
+dimensions,7,0,0,1,resume,7
+dna,7,0,0,1,resume,7
+doors,7,0,0,1,resume,7
+e-business,7,0,0,1,resume,7
+employee handbooks,7,0,0,1,resume,7
+enterprise resource planning,7,0,0,1,resume,7
+excellent interpersonal skills,7,0,0,1,resume,7
+excellent multitasker,7,0,0,1,resume,7
+floor plans,7,0,0,1,resume,7
+fm,7,0,0,1,resume,7
+forecasts,7,0,0,1,resume,7
+forklift operator,7,0,0,1,resume,7
+frontpage,7,0,0,1,resume,7
+fsa,7,0,0,1,resume,7
+gmp,7,0,0,1,resume,7
+groupwise,7,0,0,1,resume,7
+health and safety standards,7,0,0,1,resume,7
+hp-ux,7,0,0,1,resume,7
+in sales,7,0,0,1,resume,7
+internet applications,7,0,0,1,resume,7
+issue receipts,7,0,0,1,resume,7
+itil v,7,0,0,1,resume,7
+journalism,7,0,0,1,resume,7
+jquery,7,0,0,1,resume,7
+lathe,7,0,0,1,resume,7
+leadership training,7,0,0,1,resume,7
+legal compliance,7,0,0,1,resume,7
+managerial accounting,7,0,0,1,resume,7
+marketing material,7,0,0,1,resume,7
+mas 90,7,0,0,1,resume,7
+medical coding,7,0,0,1,resume,7
+month-end closing,7,0,0,1,resume,7
+navision,7,0,0,1,resume,7
+netware,7,0,0,1,resume,7
+network administrator,7,0,0,1,resume,7
+network management,7,0,0,1,resume,7
+office machines,7,0,0,1,resume,7
+order management,7,0,0,1,resume,7
+organization development,7,0,0,1,resume,7
+pdm,7,0,0,1,resume,7
+performance appraisal,7,0,0,1,resume,7
+persuasion,7,0,0,1,resume,7
+persuasive,7,0,0,1,resume,7
+primavera,7,0,0,1,resume,7
+prioritization,7,0,0,1,resume,7
+proactive,7,0,0,1,resume,7
+process design,7,0,0,1,resume,7
+process engineering,7,0,0,1,resume,7
+proposal development,7,0,0,1,resume,7
+public health,7,0,0,1,resume,7
+public safety,7,0,0,1,resume,7
+public speaker,7,0,0,1,resume,7
+reconciliations,7,0,0,1,resume,7
+resolve customer complaints,7,0,0,1,resume,7
+rfi,7,0,0,1,resume,7
+sales team,7,0,0,1,resume,7
+sc,7,0,0,1,resume,7
+scada,7,0,0,1,resume,7
+scheduling appointments,7,0,0,1,resume,7
+service level agreement,7,0,0,1,resume,7
+share point,7,0,0,1,resume,7
+sigma,7,0,0,1,resume,7
+six-sigma,7,0,0,1,resume,7
+sms,7,0,0,1,resume,7
+software testing,7,0,0,1,resume,7
+solomon,7,0,0,1,resume,7
+space planning,7,0,0,1,resume,7
+stress management,7,0,0,1,resume,7
+strong organizational skills,7,0,0,1,resume,7
+supply inventory,7,0,0,1,resume,7
+switchboard,7,0,0,1,resume,7
+system administrator,7,0,0,1,resume,7
+tax compliance,7,0,0,1,resume,7
+team development,7,0,0,1,resume,7
+the sales,7,0,0,1,resume,7
+training manuals,7,0,0,1,resume,7
+trauma,7,0,0,1,resume,7
+triage,7,0,0,1,resume,7
+twitter,7,0,0,1,resume,7
+user interface,7,0,0,1,resume,7
+vm,7,0,0,1,resume,7
+voice,7,0,0,1,resume,7
+web applications,7,0,0,1,resume,7
+well organized,7,0,0,1,resume,7
+manufacturing,4,0,1,2,linkedin|resume,6
+account executive,6,0,0,1,resume,6
+accountable for,6,0,0,1,resume,6
+accounts payable and receivable,6,0,0,1,resume,6
+active learning,6,0,0,1,resume,6
+ajax,6,0,0,1,resume,6
+all microsoft,6,0,0,1,resume,6
+ambulance,6,0,0,1,resume,6
+annuities,6,0,0,1,resume,6
+audit reports,6,0,0,1,resume,6
+best practices,6,0,0,1,resume,6
+biotechnology,6,0,0,1,resume,6
+brand management,6,0,0,1,resume,6
+broadband,6,0,0,1,resume,6
+business requirements,6,0,0,1,resume,6
+business systems,6,0,0,1,resume,6
+careful and active listener,6,0,0,1,resume,6
+cashiering,6,0,0,1,resume,6
+cisco certified network associate,6,0,0,1,resume,6
+commercial lending,6,0,0,1,resume,6
+community outreach,6,0,0,1,resume,6
+content development,6,0,0,1,resume,6
+contract administration,6,0,0,1,resume,6
+coordination,6,0,0,1,resume,6
+copywriting,6,0,0,1,resume,6
+corporate accounting,6,0,0,1,resume,6
+creative design,6,0,0,1,resume,6
+crisis communications,6,0,0,1,resume,6
+css3,6,0,0,1,resume,6
+data acquisition,6,0,0,1,resume,6
+data warehousing,6,0,0,1,resume,6
+debugging,6,0,0,1,resume,6
+derivatives,6,0,0,1,resume,6
+design process,6,0,0,1,resume,6
+electrical engineering,6,0,0,1,resume,6
+electronic medical records,6,0,0,1,resume,6
+employee management,6,0,0,1,resume,6
+final cut pro,6,0,0,1,resume,6
+financial services,6,0,0,1,resume,6
+financial statement preparation,6,0,0,1,resume,6
+fireworks,6,0,0,1,resume,6
+forth,6,0,0,1,resume,6
+front desk,6,0,0,1,resume,6
+grant proposals,6,0,0,1,resume,6
+hard drives,6,0,0,1,resume,6
+home care,6,0,0,1,resume,6
+hub,6,0,0,1,resume,6
+hydraulics,6,0,0,1,resume,6
+ims,6,0,0,1,resume,6
+indexing,6,0,0,1,resume,6
+infection control,6,0,0,1,resume,6
+inspects,6,0,0,1,resume,6
+interviewing,6,0,0,1,resume,6
+investment banking,6,0,0,1,resume,6
+iq,6,0,0,1,resume,6
+journal,6,0,0,1,resume,6
+logistics management,6,0,0,1,resume,6
+macintosh,6,0,0,1,resume,6
+magic,6,0,0,1,resume,6
+maintain files,6,0,0,1,resume,6
+mapping,6,0,0,1,resume,6
+materials management,6,0,0,1,resume,6
+maya,6,0,0,1,resume,6
+mcafee,6,0,0,1,resume,6
+microsoft office products,6,0,0,1,resume,6
+microsoft products,6,0,0,1,resume,6
+microsoft visio,6,0,0,1,resume,6
+month end closing,6,0,0,1,resume,6
+monthly sales,6,0,0,1,resume,6
+ms-office,6,0,0,1,resume,6
+multimeters,6,0,0,1,resume,6
+natural gas,6,0,0,1,resume,6
+negotiating contracts,6,0,0,1,resume,6
+network support,6,0,0,1,resume,6
+new products,6,0,0,1,resume,6
+notary public,6,0,0,1,resume,6
+oncology,6,0,0,1,resume,6
+oop,6,0,0,1,resume,6
+oracle financials,6,0,0,1,resume,6
+outlook express,6,0,0,1,resume,6
+pacs,6,0,0,1,resume,6
+payment processing,6,0,0,1,resume,6
+peachtree accounting,6,0,0,1,resume,6
+phone skills,6,0,0,1,resume,6
+photocopiers,6,0,0,1,resume,6
+physical therapy,6,0,0,1,resume,6
+pipeline,6,0,0,1,resume,6
+platinum,6,0,0,1,resume,6
+plm,6,0,0,1,resume,6
+policy development,6,0,0,1,resume,6
+preparation of financial statements,6,0,0,1,resume,6
+prepare financial statements,6,0,0,1,resume,6
+primary care,6,0,0,1,resume,6
+print production,6,0,0,1,resume,6
+process invoices,6,0,0,1,resume,6
+program evaluation,6,0,0,1,resume,6
+programmer,6,0,0,1,resume,6
+project leadership,6,0,0,1,resume,6
+restaurant operations,6,0,0,1,resume,6
+reuters,6,0,0,1,resume,6
+revenue recognition,6,0,0,1,resume,6
+rn,6,0,0,1,resume,6
+robotic,6,0,0,1,resume,6
+robotics,6,0,0,1,resume,6
+roi,6,0,0,1,resume,6
+sales experience,6,0,0,1,resume,6
+sales forecasting,6,0,0,1,resume,6
+sales reporting,6,0,0,1,resume,6
+sales skills,6,0,0,1,resume,6
+sap r/3,6,0,0,1,resume,6
+scheme,6,0,0,1,resume,6
+security clearance,6,0,0,1,resume,6
+soap,6,0,0,1,resume,6
+solaris,6,0,0,1,resume,6
+spc,6,0,0,1,resume,6
+subject matter expert,6,0,0,1,resume,6
+systems development,6,0,0,1,resume,6
+tcp,6,0,0,1,resume,6
+technical manuals,6,0,0,1,resume,6
+terminal server,6,0,0,1,resume,6
+territory,6,0,0,1,resume,6
+threads,6,0,0,1,resume,6
+transcription,6,0,0,1,resume,6
+uhf,6,0,0,1,resume,6
+uml,6,0,0,1,resume,6
+vbscript,6,0,0,1,resume,6
+video production,6,0,0,1,resume,6
+visual merchandising,6,0,0,1,resume,6
+vital signs,6,0,0,1,resume,6
+water treatment,6,0,0,1,resume,6
+weblogic,6,0,0,1,resume,6
+website development,6,0,0,1,resume,6
+weld,6,0,0,1,resume,6
+white papers,6,0,0,1,resume,6
+windows applications,6,0,0,1,resume,6
+windows operating systems,6,0,0,1,resume,6
+with sales,6,0,0,1,resume,6
+word perfect,6,0,0,1,resume,6
+wordperfect,6,0,0,1,resume,6
+10 key,5,0,0,1,resume,5
+access database,5,0,0,1,resume,5
+accounts for,5,0,0,1,resume,5
+ad copy,5,0,0,1,resume,5
+administrative skills,5,0,0,1,resume,5
+adobe indesign,5,0,0,1,resume,5
+aix,5,0,0,1,resume,5
+alpha,5,0,0,1,resume,5
+appointment setting,5,0,0,1,resume,5
+ask,5,0,0,1,resume,5
+atl,5,0,0,1,resume,5
+auto cad,5,0,0,1,resume,5
+blueprint,5,0,0,1,resume,5
+book keeping,5,0,0,1,resume,5
+brand identity,5,0,0,1,resume,5
+brand marketing,5,0,0,1,resume,5
+business communications,5,0,0,1,resume,5
+business correspondence,5,0,0,1,resume,5
+business writing,5,0,0,1,resume,5
+calculator,5,0,0,1,resume,5
+canvas,5,0,0,1,resume,5
+capital expenditures,5,0,0,1,resume,5
+capital markets,5,0,0,1,resume,5
+cardiology,5,0,0,1,resume,5
+cisco ios,5,0,0,1,resume,5
+client server,5,0,0,1,resume,5
+clustering,5,0,0,1,resume,5
+cobol,5,0,0,1,resume,5
+competitive analysis,5,0,0,1,resume,5
+construction management,5,0,0,1,resume,5
+construction manager,5,0,0,1,resume,5
+copier,5,0,0,1,resume,5
+course development,5,0,0,1,resume,5
+creative direction,5,0,0,1,resume,5
+credit analysis,5,0,0,1,resume,5
+credit risk,5,0,0,1,resume,5
+customer inquiries,5,0,0,1,resume,5
+data analyst,5,0,0,1,resume,5
+data archiving,5,0,0,1,resume,5
+data migration,5,0,0,1,resume,5
+data science,0,1,0,1,technical_roles,5
+data warehouses,5,0,0,1,resume,5
+decision support,5,0,0,1,resume,5
+develop business,5,0,0,1,resume,5
+dialysis,5,0,0,1,resume,5
+dictation,5,0,0,1,resume,5
+electronic health records,5,0,0,1,resume,5
+employee engagement,5,0,0,1,resume,5
+engineering design,5,0,0,1,resume,5
+equipment operation,5,0,0,1,resume,5
+ergonomics,5,0,0,1,resume,5
+exceed,5,0,0,1,resume,5
+excellent communication skills,5,0,0,1,resume,5
+expense reporting,5,0,0,1,resume,5
+facebook,5,0,0,1,resume,5
+facsimile,5,0,0,1,resume,5
+fax machines,5,0,0,1,resume,5
+financial and accounting,5,0,0,1,resume,5
+financial planning and analysis,5,0,0,1,resume,5
+financial report,5,0,0,1,resume,5
+fp&a,5,0,0,1,resume,5
+frame relay,5,0,0,1,resume,5
+go live,5,0,0,1,resume,5
+good communication skills,5,0,0,1,resume,5
+graphic designer,5,0,0,1,resume,5
+gross profit,5,0,0,1,resume,5
+health promotion,5,0,0,1,resume,5
+honest,5,0,0,1,resume,5
+hootsuite,5,0,0,1,resume,5
+hubs,5,0,0,1,resume,5
+human relations,5,0,0,1,resume,5
+icd-10,5,0,0,1,resume,5
+ide,5,0,0,1,resume,5
+ie,5,0,0,1,resume,5
+incoming calls,5,0,0,1,resume,5
+inspections,5,0,0,1,resume,5
+internet connectivity,5,0,0,1,resume,5
+interpersonal and communication,5,0,0,1,resume,5
+intranet,5,0,0,1,resume,5
+investment management,5,0,0,1,resume,5
+it strategy,5,0,0,1,resume,5
+job analysis,5,0,0,1,resume,5
+knowledge management,5,0,0,1,resume,5
+lan/wan,5,0,0,1,resume,5
+ldap,5,0,0,1,resume,5
+lending,5,0,0,1,resume,5
+linkedin,5,0,0,1,resume,5
+long-term disability,5,0,0,1,resume,5
+ltd,5,0,0,1,resume,5
+maintaining inventory,5,0,0,1,resume,5
+market share,5,0,0,1,resume,5
+marketing research,5,0,0,1,resume,5
+material science,5,0,0,1,resume,5
+max,5,0,0,1,resume,5
+mb,5,0,0,1,resume,5
+mechanical engineering,5,0,0,1,resume,5
+media plan,5,0,0,1,resume,5
+media plans,5,0,0,1,resume,5
+medicaid,5,0,0,1,resume,5
+mfc,5,0,0,1,resume,5
+microsoft certified systems engineer,5,0,0,1,resume,5
+microsoft office (word,5,0,0,1,resume,5
+microsoft office suites,5,0,0,1,resume,5
+microsoft visual basic,5,0,0,1,resume,5
+microwave,5,0,0,1,resume,5
+mill,5,0,0,1,resume,5
+modems,5,0,0,1,resume,5
+mortgage loans,5,0,0,1,resume,5
+mrp,5,0,0,1,resume,5
+ms exchange,5,0,0,1,resume,5
+ms publisher,5,0,0,1,resume,5
+multi-media,5,0,0,1,resume,5
+network hardware,5,0,0,1,resume,5
+network printers,5,0,0,1,resume,5
+objective-c,0,1,0,1,technical_roles,5
+office suite,5,0,0,1,resume,5
+oracle 9,5,0,0,1,resume,5
+oracle enterprise manager,5,0,0,1,resume,5
+oracle sql,5,0,0,1,resume,5
+ospf,5,0,0,1,resume,5
+outpatient,5,0,0,1,resume,5
+pain management,5,0,0,1,resume,5
+pascal,5,0,0,1,resume,5
+patient safety,5,0,0,1,resume,5
+performance analysis,5,0,0,1,resume,5
+phd,5,0,0,1,resume,5
+pivot table,5,0,0,1,resume,5
+posting,5,0,0,1,resume,5
+power distribution,5,0,0,1,resume,5
+power supply,5,0,0,1,resume,5
+predict,5,0,0,1,resume,5
+premiere,5,0,0,1,resume,5
+presenter,5,0,0,1,resume,5
+print advertising,5,0,0,1,resume,5
+print design,5,0,0,1,resume,5
+process,5,0,0,1,resume,5
+process re-engineering,5,0,0,1,resume,5
+production environment,5,0,0,1,resume,5
+professional and friendly,5,0,0,1,resume,5
+project design,5,0,0,1,resume,5
+project leader,5,0,0,1,resume,5
+proposal preparation,5,0,0,1,resume,5
+prototype,5,0,0,1,resume,5
+prototypes,5,0,0,1,resume,5
+purchase requisitions,5,0,0,1,resume,5
+radiology,5,0,0,1,resume,5
+raid,5,0,0,1,resume,5
+reading comprehension,5,0,0,1,resume,5
+researcher,5,0,0,1,resume,5
+rms,5,0,0,1,resume,5
+roofing,5,0,0,1,resume,5
+safety codes,5,0,0,1,resume,5
+sales goals,5,0,0,1,resume,5
+sales plan,5,0,0,1,resume,5
+sales staff,5,0,0,1,resume,5
+sales tax,5,0,0,1,resume,5
+salesforce.com,5,0,0,1,resume,5
+schedule appointments,5,0,0,1,resume,5
+sculpture,5,0,0,1,resume,5
+service orientation,5,0,0,1,resume,5
+simultaneously,5,0,0,1,resume,5
+smart contracts,0,1,0,1,technical_roles,5
+snmp,5,0,0,1,resume,5
+social services,5,0,0,1,resume,5
+software support,5,0,0,1,resume,5
+software training,5,0,0,1,resume,5
+solid works,5,0,0,1,resume,5
+staff supervision,5,0,0,1,resume,5
+state tax,5,0,0,1,resume,5
+strategic analysis,5,0,0,1,resume,5
+strategist,5,0,0,1,resume,5
+structured software,5,0,0,1,resume,5
+supplier management,5,0,0,1,resume,5
+symposium,5,0,0,1,resume,5
+systems analyst,5,0,0,1,resume,5
+systems engineering,5,0,0,1,resume,5
+team builder,5,0,0,1,resume,5
+telemetry,5,0,0,1,resume,5
+teradata,5,0,0,1,resume,5
+terminations,5,0,0,1,resume,5
+test plans,5,0,0,1,resume,5
+tomcat,5,0,0,1,resume,5
+topo,5,0,0,1,resume,5
+typing skills,5,0,0,1,resume,5
+typing speed,5,0,0,1,resume,5
+urdu,5,0,0,1,resume,5
+vc,5,0,0,1,resume,5
+venture capital,5,0,0,1,resume,5
+veritas,5,0,0,1,resume,5
+vhf,5,0,0,1,resume,5
+video conferencing,5,0,0,1,resume,5
+visual c++,5,0,0,1,resume,5
+vms,5,0,0,1,resume,5
+vouchers,5,0,0,1,resume,5
+web pages,5,0,0,1,resume,5
+web portal,5,0,0,1,resume,5
+web sites,5,0,0,1,resume,5
+web3js,0,1,0,1,technical_roles,5
+welder,5,0,0,1,resume,5
+wireless,5,0,0,1,resume,5
+work flow,5,0,0,1,resume,5
+work-flow,5,0,0,1,resume,5
+a+ certification,4,0,0,1,resume,4
+a+ certified,4,0,0,1,resume,4
+accounts payable/receivable,4,0,0,1,resume,4
+adobe dreamweaver,4,0,0,1,resume,4
+adobe premiere,4,0,0,1,resume,4
+adobe suite,4,0,0,1,resume,4
+adr,4,0,0,1,resume,4
+advertising sales,4,0,0,1,resume,4
+all sales,4,0,0,1,resume,4
+architectural drafting,4,0,0,1,resume,4
+arrangements,4,0,0,1,resume,4
+asm,4,0,0,1,resume,4
+assistant director,4,0,0,1,resume,4
+assisted living,4,0,0,1,resume,4
+autism,4,0,0,1,resume,4
+auto-cad,4,0,0,1,resume,4
+ba,4,0,0,1,resume,4
+back end,4,0,0,1,resume,4
+backups,4,0,0,1,resume,4
+bankruptcy,4,0,0,1,resume,4
+basic computer skills,4,0,0,1,resume,4
+basic html,4,0,0,1,resume,4
+bgp,4,0,0,1,resume,4
+big data,4,0,0,1,resume,4
+biochemistry,4,0,0,1,resume,4
+blood pressure,4,0,0,1,resume,4
+bluebeam,4,0,0,1,resume,4
+business,4,0,0,1,resume,4
+c programming,4,0,0,1,resume,4
+cadence,4,0,0,1,resume,4
+calculus,4,0,0,1,resume,4
+cash deposits,4,0,0,1,resume,4
+cash flow analysis,4,0,0,1,resume,4
+cat5,4,0,0,1,resume,4
+cisco certified,4,0,0,1,resume,4
+civil engineering,4,0,0,1,resume,4
+cl,4,0,0,1,resume,4
+client and server,4,0,0,1,resume,4
+clinical research,4,0,0,1,resume,4
+commercial loans,4,0,0,1,resume,4
+communications skills,4,0,0,1,resume,4
+compressors,4,0,0,1,resume,4
+computer,4,0,0,1,resume,4
+computer programming,4,0,0,1,resume,4
+computer skills,4,0,0,1,resume,4
+computer support,4,0,0,1,resume,4
+computerized accounting,4,0,0,1,resume,4
+conceptual design,4,0,0,1,resume,4
+consolidations,4,0,0,1,resume,4
+contact management,4,0,0,1,resume,4
+content management systems,4,0,0,1,resume,4
+cpi,4,0,0,1,resume,4
+creative development,4,0,0,1,resume,4
+creative director,4,0,0,1,resume,4
+criminal justice,4,0,0,1,resume,4
+das,4,0,0,1,resume,4
+data center,4,0,0,1,resume,4
+database development,4,0,0,1,resume,4
+database marketing,4,0,0,1,resume,4
+database software,4,0,0,1,resume,4
+desktop publishing software: photoshop,4,0,0,1,resume,4
+developing business,4,0,0,1,resume,4
+digital photography,4,0,0,1,resume,4
+discharge planning,4,0,0,1,resume,4
+documenting,4,0,0,1,resume,4
+doh,4,0,0,1,resume,4
+drupal,4,0,0,1,resume,4
+dynamic html5,4,0,0,1,resume,4
+eit,4,0,0,1,resume,4
+ejb,4,0,0,1,resume,4
+electronic mail,4,0,0,1,resume,4
+elisa,4,0,0,1,resume,4
+employee benefits,4,0,0,1,resume,4
+engineering support,4,0,0,1,resume,4
+engines,4,0,0,1,resume,4
+environmental health,4,0,0,1,resume,4
+equipment installation,4,0,0,1,resume,4
+equipment operator,4,0,0,1,resume,4
+equities,4,0,0,1,resume,4
+ess,4,0,0,1,resume,4
+essays,4,0,0,1,resume,4
+etiquette,4,0,0,1,resume,4
+event coordination,4,0,0,1,resume,4
+excellent customer service skills,4,0,0,1,resume,4
+excellent oral,4,0,0,1,resume,4
+exhibitions,4,0,0,1,resume,4
+expense control,4,0,0,1,resume,4
+facility maintenance,4,0,0,1,resume,4
+facility management,4,0,0,1,resume,4
+fda,4,0,0,1,resume,4
+fiber optics,4,0,0,1,resume,4
+financial audit,4,0,0,1,resume,4
+financial controls,4,0,0,1,resume,4
+financial forecasting,4,0,0,1,resume,4
+fire protection,4,0,0,1,resume,4
+fixed asset register,4,0,0,1,resume,4
+flsa,4,0,0,1,resume,4
+fmla,4,0,0,1,resume,4
+framing,4,0,0,1,resume,4
+front end,4,0,0,1,resume,4
+full life cycle,4,0,0,1,resume,4
+gap analysis,4,0,0,1,resume,4
+gateways,4,0,0,1,resume,4
+go-live,4,0,0,1,resume,4
+governance,4,0,0,1,resume,4
+grant writing,4,0,0,1,resume,4
+greeting,4,0,0,1,resume,4
+hand trucks,4,0,0,1,resume,4
+hardware installation,4,0,0,1,resume,4
+hazardous waste,4,0,0,1,resume,4
+health information technology,4,0,0,1,resume,4
+hebrew,4,0,0,1,resume,4
+hp servers,4,0,0,1,resume,4
+induction,4,0,0,1,resume,4
+injections,4,0,0,1,resume,4
+ink,4,0,0,1,resume,4
+instagram,4,0,0,1,resume,4
+integration testing,4,0,0,1,resume,4
+international sales,4,0,0,1,resume,4
+j2ee,4,0,0,1,resume,4
+japanese,4,0,0,1,resume,4
+jboss,4,0,0,1,resume,4
+jsp,4,0,0,1,resume,4
+laboratory,4,0,0,1,resume,4
+layout design,4,0,0,1,resume,4
+lead development,4,0,0,1,resume,4
+liability,4,0,0,1,resume,4
+life cycle,4,0,0,1,resume,4
+local area networks,4,0,0,1,resume,4
+long-term care,4,0,0,1,resume,4
+mailchimp,4,0,0,1,resume,4
+maintenance schedules,4,0,0,1,resume,4
+make travel arrangements,4,0,0,1,resume,4
+management information systems,4,0,0,1,resume,4
+management training,4,0,0,1,resume,4
+manufacturing engineer,4,0,0,1,resume,4
+maple,4,0,0,1,resume,4
+market development,4,0,0,1,resume,4
+marketing & sales,4,0,0,1,resume,4
+marketing communication,4,0,0,1,resume,4
+masonry,4,0,0,1,resume,4
+media planning,4,0,0,1,resume,4
+medical assistant,4,0,0,1,resume,4
+medicare,4,0,0,1,resume,4
+meditech,4,0,0,1,resume,4
+mes,4,0,0,1,resume,4
+microsoft office software,4,0,0,1,resume,4
+microsoft power point,4,0,0,1,resume,4
+microsoft sql,4,0,0,1,resume,4
+middleware,4,0,0,1,resume,4
+minute taking,4,0,0,1,resume,4
+mitigation,4,0,0,1,resume,4
+mortgage,4,0,0,1,resume,4
+ms power point,4,0,0,1,resume,4
+multi-line phone,4,0,0,1,resume,4
+multi-line telephone,4,0,0,1,resume,4
+nds,4,0,0,1,resume,4
+network attached storage,4,0,0,1,resume,4
+neural,4,0,0,1,resume,4
+new sales,4,0,0,1,resume,4
+novel,4,0,0,1,resume,4
+novell netware,4,0,0,1,resume,4
+novell servers,4,0,0,1,resume,4
+of accounts,4,0,0,1,resume,4
+office automation,4,0,0,1,resume,4
+office supplies,4,0,0,1,resume,4
+organization,4,0,0,1,resume,4
+organized,4,0,0,1,resume,4
+organizer,4,0,0,1,resume,4
+os/2,4,0,0,1,resume,4
+oscilloscope,4,0,0,1,resume,4
+painter,4,0,0,1,resume,4
+pallet jack,4,0,0,1,resume,4
+patent,4,0,0,1,resume,4
+patient-focused care,4,0,0,1,resume,4
+pc hardware,4,0,0,1,resume,4
+pcr,4,0,0,1,resume,4
+peach tree,4,0,0,1,resume,4
+pen,4,0,0,1,resume,4
+phone support,4,0,0,1,resume,4
+phone systems,4,0,0,1,resume,4
+plc programming,4,0,0,1,resume,4
+portuguese,4,0,0,1,resume,4
+pos system,4,0,0,1,resume,4
+pre-press,4,0,0,1,resume,4
+prepress,4,0,0,1,resume,4
+press kits,4,0,0,1,resume,4
+pricing strategies,4,0,0,1,resume,4
+pricing strategy,4,0,0,1,resume,4
+print media,4,0,0,1,resume,4
+procedures,4,0,0,1,resume,4
+process equipment,4,0,0,1,resume,4
+product design and development,4,0,0,1,resume,4
+product manager,4,0,0,1,resume,4
+production management,4,0,0,1,resume,4
+production manager,4,0,0,1,resume,4
+program implementation,4,0,0,1,resume,4
+promotional material,4,0,0,1,resume,4
+proposal writing,4,0,0,1,resume,4
+public policy,4,0,0,1,resume,4
+quark xpress,4,0,0,1,resume,4
+quest,4,0,0,1,resume,4
+re-engineering,4,0,0,1,resume,4
+receivables,4,0,0,1,resume,4
+reengineering,4,0,0,1,resume,4
+relational databases,4,0,0,1,resume,4
+reporter,4,0,0,1,resume,4
+resuscitation,4,0,0,1,resume,4
+russian,4,0,0,1,resume,4
+saas,4,0,0,1,resume,4
+sales activities,4,0,0,1,resume,4
+sales development,4,0,0,1,resume,4
+sales force,4,0,0,1,resume,4
+sarbanes-oxley (sox,4,0,0,1,resume,4
+secretary,4,0,0,1,resume,4
+signal generators,4,0,0,1,resume,4
+skills,4,0,0,1,resume,4
+software design,4,0,0,1,resume,4
+software developers,4,0,0,1,resume,4
+sox,4,0,0,1,resume,4
+sql server 2005,4,0,0,1,resume,4
+staff management,4,0,0,1,resume,4
+stocking,4,0,0,1,resume,4
+store management,4,0,0,1,resume,4
+strategic development,4,0,0,1,resume,4
+strategic sourcing,4,0,0,1,resume,4
+strategy development,4,0,0,1,resume,4
+supervisory skills,4,0,0,1,resume,4
+system configuration,4,0,0,1,resume,4
+system development,4,0,0,1,resume,4
+systems analysis,4,0,0,1,resume,4
+systems support,4,0,0,1,resume,4
+tax return preparation,4,0,0,1,resume,4
+technical sales,4,0,0,1,resume,4
+test cases,4,0,0,1,resume,4
+toad,4,0,0,1,resume,4
+transformers,4,0,0,1,resume,4
+translated,4,0,0,1,resume,4
+translator,4,0,0,1,resume,4
+type 50 wpm,4,0,0,1,resume,4
+typography,4,0,0,1,resume,4
+urology,4,0,0,1,resume,4
+usability testing,4,0,0,1,resume,4
+uv,4,0,0,1,resume,4
+vendor,4,0,0,1,resume,4
+very organized,4,0,0,1,resume,4
+vi,4,0,0,1,resume,4
+virtual machine,4,0,0,1,resume,4
+visual displays,4,0,0,1,resume,4
+voice and data,4,0,0,1,resume,4
+warehousing,4,0,0,1,resume,4
+wealth management,4,0,0,1,resume,4
+web designing,4,0,0,1,resume,4
+web servers,4,0,0,1,resume,4
+web services,4,0,0,1,resume,4
+web-based,4,0,0,1,resume,4
+website content,4,0,0,1,resume,4
+websphere,4,0,0,1,resume,4
+westlaw,4,0,0,1,resume,4
+win 7,4,0,0,1,resume,4
+windows 9,4,0,0,1,resume,4
+windows os,4,0,0,1,resume,4
+workbench,4,0,0,1,resume,4
+10-key by touch,3,0,0,1,resume,3
+50 wpm,3,0,0,1,resume,3
+a/r,3,0,0,1,resume,3
+account manager,3,0,0,1,resume,3
+accounting manager,3,0,0,1,resume,3
+accounts,3,0,0,1,resume,3
+accounts to,3,0,0,1,resume,3
+adaptable,3,0,0,1,resume,3
+administration,3,0,0,1,resume,3
+adp payroll system,3,0,0,1,resume,3
+adult learning,3,0,0,1,resume,3
+aims,3,0,0,1,resume,3
+aircraft maintenance,3,0,0,1,resume,3
+allergies,3,0,0,1,resume,3
+analysis of financial statements,3,0,0,1,resume,3
+analyze financial information,3,0,0,1,resume,3
+and account,3,0,0,1,resume,3
+and outlook,3,0,0,1,resume,3
+apollo,3,0,0,1,resume,3
+application design,3,0,0,1,resume,3
+application support,3,0,0,1,resume,3
+aps,3,0,0,1,resume,3
+arcserve,3,0,0,1,resume,3
+armed forces,3,0,0,1,resume,3
+art direction,3,0,0,1,resume,3
+art director,3,0,0,1,resume,3
+as 400,3,0,0,1,resume,3
+automated payroll,3,0,0,1,resume,3
+avenue,3,0,0,1,resume,3
+aviation maintenance,3,0,0,1,resume,3
+avionics,3,0,0,1,resume,3
+bachelors,3,0,0,1,resume,3
+bathing,3,0,0,1,resume,3
+bilingual,3,0,0,1,resume,3
+bootstrap,3,0,0,1,resume,3
+brand development,3,0,0,1,resume,3
+bsc,3,0,0,1,resume,3
+business communication,3,0,0,1,resume,3
+business consultant,3,0,0,1,resume,3
+business continuity,3,0,0,1,resume,3
+business plan development,3,0,0,1,resume,3
+business process re-engineering,3,0,0,1,resume,3
+business startup,3,0,0,1,resume,3
+business systems analysis,3,0,0,1,resume,3
+business works,3,0,0,1,resume,3
+buyer,3,0,0,1,resume,3
+buying,3,0,0,1,resume,3
+cabinets,3,0,0,1,resume,3
+cad/cam,3,0,0,1,resume,3
+career development,3,0,0,1,resume,3
+caregiver,3,0,0,1,resume,3
+cash flow projections,3,0,0,1,resume,3
+cat 5,3,0,0,1,resume,3
+central point of contact,3,0,0,1,resume,3
+change orders,3,0,0,1,resume,3
+chi,3,0,0,1,resume,3
+cisa,3,0,0,1,resume,3
+cision,3,0,0,1,resume,3
+classroom management,3,0,0,1,resume,3
+client liaison,3,0,0,1,resume,3
+client-server,3,0,0,1,resume,3
+clinical trials,3,0,0,1,resume,3
+cobra,3,0,0,1,resume,3
+cold-calling,3,0,0,1,resume,3
+compaq,3,0,0,1,resume,3
+compassionate and trustworthy caregiver,3,0,0,1,resume,3
+competitive intelligence,3,0,0,1,resume,3
+compliance audits,3,0,0,1,resume,3
+compliance management,3,0,0,1,resume,3
+computer networks,3,0,0,1,resume,3
+computer repair,3,0,0,1,resume,3
+confident,3,0,0,1,resume,3
+contract review,3,0,0,1,resume,3
+conversational french,3,0,0,1,resume,3
+copy machine,3,0,0,1,resume,3
+corel draw,3,0,0,1,resume,3
+corporate training,3,0,0,1,resume,3
+corrective action,3,0,0,1,resume,3
+cpt coding,3,0,0,1,resume,3
+cpu,3,0,0,1,resume,3
+creative,3,0,0,1,resume,3
+creative thinking,3,0,0,1,resume,3
+critical care,3,0,0,1,resume,3
+critical thinker,3,0,0,1,resume,3
+crm systems,3,0,0,1,resume,3
+customer accounts,3,0,0,1,resume,3
+customer assistance,3,0,0,1,resume,3
+customer service representative,3,0,0,1,resume,3
+cvs,3,0,0,1,resume,3
+daily sales,3,0,0,1,resume,3
+data integrity,3,0,0,1,resume,3
+data validation,3,0,0,1,resume,3
+database analysis,3,0,0,1,resume,3
+database systems,3,0,0,1,resume,3
+db,3,0,0,1,resume,3
+dbase,3,0,0,1,resume,3
+dell servers,3,0,0,1,resume,3
+delphi,3,0,0,1,resume,3
+design of experiments,3,0,0,1,resume,3
+diabetes,3,0,0,1,resume,3
+digital video,3,0,0,1,resume,3
+disaster recovery planning,3,0,0,1,resume,3
+documentum,3,0,0,1,resume,3
+dream weaver,3,0,0,1,resume,3
+dsc,3,0,0,1,resume,3
+dsl,3,0,0,1,resume,3
+dts,3,0,0,1,resume,3
+dvd,3,0,0,1,resume,3
+dynamics,3,0,0,1,resume,3
+editing skills,3,0,0,1,resume,3
+educational materials,3,0,0,1,resume,3
+eigrp,3,0,0,1,resume,3
+ekg's,3,0,0,1,resume,3
+electrical wiring,3,0,0,1,resume,3
+electronic data interchange,3,0,0,1,resume,3
+emc,3,0,0,1,resume,3
+emergency care,3,0,0,1,resume,3
+emotional support,3,0,0,1,resume,3
+endocrinology,3,0,0,1,resume,3
+energetic,3,0,0,1,resume,3
+energy management,3,0,0,1,resume,3
+entry level,3,0,0,1,resume,3
+environmental compliance,3,0,0,1,resume,3
+equal employment opportunity,3,0,0,1,resume,3
+escrow,3,0,0,1,resume,3
+estimation,3,0,0,1,resume,3
+excellent presentation skills,3,0,0,1,resume,3
+experiment,3,0,0,1,resume,3
+facilities,3,0,0,1,resume,3
+factiva,3,0,0,1,resume,3
+failure analysis,3,0,0,1,resume,3
+family medicine,3,0,0,1,resume,3
+fat,3,0,0,1,resume,3
+fax machine,3,0,0,1,resume,3
+feasibility studies,3,0,0,1,resume,3
+feature articles,3,0,0,1,resume,3
+federal government,3,0,0,1,resume,3
+fedex,3,0,0,1,resume,3
+file maintenance,3,0,0,1,resume,3
+filenet,3,0,0,1,resume,3
+filings,3,0,0,1,resume,3
+financial consulting,3,0,0,1,resume,3
+financial forecasts,3,0,0,1,resume,3
+flow,3,0,0,1,resume,3
+for sales,3,0,0,1,resume,3
+forex,3,0,0,1,resume,3
+freehand,3,0,0,1,resume,3
+front page,3,0,0,1,resume,3
+fulfillment,3,0,0,1,resume,3
+fund raising,3,0,0,1,resume,3
+gaap,3,0,0,1,resume,3
+gc,3,0,0,1,resume,3
+general aviation,3,0,0,1,resume,3
+geographic information system,3,0,0,1,resume,3
+glp,3,0,0,1,resume,3
+goal-setting,3,0,0,1,resume,3
+graphical user interface,3,0,0,1,resume,3
+great communication skills,3,0,0,1,resume,3
+grinders,3,0,0,1,resume,3
+group facilitation,3,0,0,1,resume,3
+guardian,3,0,0,1,resume,3
+hardware support,3,0,0,1,resume,3
+highly organized,3,0,0,1,resume,3
+hippa,3,0,0,1,resume,3
+hogan,3,0,0,1,resume,3
+home healthcare,3,0,0,1,resume,3
+hp-unix,3,0,0,1,resume,3
+hplc,3,0,0,1,resume,3
+html coding,3,0,0,1,resume,3
+ibm mainframe,3,0,0,1,resume,3
+ibm websphere,3,0,0,1,resume,3
+icd,3,0,0,1,resume,3
+ieee,3,0,0,1,resume,3
+immunizations,3,0,0,1,resume,3
+immunology,3,0,0,1,resume,3
+implementation,3,0,0,1,resume,3
+improve process,3,0,0,1,resume,3
+improve processes,3,0,0,1,resume,3
+in design,3,0,0,1,resume,3
+install software,3,0,0,1,resume,3
+instrumentation,3,0,0,1,resume,3
+insurance claims,3,0,0,1,resume,3
+intellectual property,3,0,0,1,resume,3
+internal auditing,3,0,0,1,resume,3
+internal medicine,3,0,0,1,resume,3
+internet,3,0,0,1,resume,3
+internet access,3,0,0,1,resume,3
+internet skills,3,0,0,1,resume,3
+inventory management and control,3,0,0,1,resume,3
+isis,3,0,0,1,resume,3
+iso 9000,3,0,0,1,resume,3
+isp,3,0,0,1,resume,3
+ivr,3,0,0,1,resume,3
+jcl,3,0,0,1,resume,3
+jdbc,3,0,0,1,resume,3
+jde,3,0,0,1,resume,3
+jms,3,0,0,1,resume,3
+key accounts,3,0,0,1,resume,3
+keynote,3,0,0,1,resume,3
+korean,3,0,0,1,resume,3
+lab test,3,0,0,1,resume,3
+labor law,3,0,0,1,resume,3
+labor laws,3,0,0,1,resume,3
+laboratory equipment,3,0,0,1,resume,3
+lans,3,0,0,1,resume,3
+laptop computers,3,0,0,1,resume,3
+laundry,3,0,0,1,resume,3
+layout and design,3,0,0,1,resume,3
+lecturer,3,0,0,1,resume,3
+lesson plan,3,0,0,1,resume,3
+lexis nexis,3,0,0,1,resume,3
+life insurance,3,0,0,1,resume,3
+lisa,3,0,0,1,resume,3
+loan documentation,3,0,0,1,resume,3
+local government,3,0,0,1,resume,3
+logic analyzer,3,0,0,1,resume,3
+machinist,3,0,0,1,resume,3
+macola,3,0,0,1,resume,3
+maintain documentation,3,0,0,1,resume,3
+maintains inventory,3,0,0,1,resume,3
+management consultant,3,0,0,1,resume,3
+managing people,3,0,0,1,resume,3
+mandarin,3,0,0,1,resume,3
+mandarin chinese,3,0,0,1,resume,3
+mapinfo,3,0,0,1,resume,3
+market planning,3,0,0,1,resume,3
+market research and analysis,3,0,0,1,resume,3
+marketing and communications,3,0,0,1,resume,3
+marketing department,3,0,0,1,resume,3
+marketing manager,3,0,0,1,resume,3
+mechanical design,3,0,0,1,resume,3
+media production,3,0,0,1,resume,3
+media strategy,3,0,0,1,resume,3
+media training,3,0,0,1,resume,3
+medical device,3,0,0,1,resume,3
+medical manager,3,0,0,1,resume,3
+medical technology,3,0,0,1,resume,3
+mgmt,3,0,0,1,resume,3
+microcomputers,3,0,0,1,resume,3
+microsoft applications,3,0,0,1,resume,3
+microsoft office (excel,3,0,0,1,resume,3
+microsoft office xp,3,0,0,1,resume,3
+microsoft publisher,3,0,0,1,resume,3
+microsoft visual studio,3,0,0,1,resume,3
+microsoft windows xp,3,0,0,1,resume,3
+microsoft works,3,0,0,1,resume,3
+microstrategy,3,0,0,1,resume,3
+mobile,3,0,0,1,resume,3
+monarch,3,0,0,1,resume,3
+monthly variance analysis,3,0,0,1,resume,3
+mortgage lending,3,0,0,1,resume,3
+mortgage loan,3,0,0,1,resume,3
+motorola,3,0,0,1,resume,3
+ms,3,0,0,1,resume,3
+ms asp,3,0,0,1,resume,3
+ms dos,3,0,0,1,resume,3
+ms visual studio,3,0,0,1,resume,3
+ms windows xp,3,0,0,1,resume,3
+msc,3,0,0,1,resume,3
+msi,3,0,0,1,resume,3
+multi-line,3,0,0,1,resume,3
+multi-meters,3,0,0,1,resume,3
+national accounts,3,0,0,1,resume,3
+navigator,3,0,0,1,resume,3
+negotiate contracts,3,0,0,1,resume,3
+netscape,3,0,0,1,resume,3
+network design,3,0,0,1,resume,3
+network engineer,3,0,0,1,resume,3
+network engineering,3,0,0,1,resume,3
+network installation,3,0,0,1,resume,3
+new account,3,0,0,1,resume,3
+nfs,3,0,0,1,resume,3
+nice,3,0,0,1,resume,3
+nms,3,0,0,1,resume,3
+nortel,3,0,0,1,resume,3
+notebooks,3,0,0,1,resume,3
+novell network,3,0,0,1,resume,3
+ocr,3,0,0,1,resume,3
+odbc,3,0,0,1,resume,3
+office applications,3,0,0,1,resume,3
+office assistant,3,0,0,1,resume,3
+office skills,3,0,0,1,resume,3
+offshore,3,0,0,1,resume,3
+oracle applications,3,0,0,1,resume,3
+oracle dba,3,0,0,1,resume,3
+orcad,3,0,0,1,resume,3
+order processing,3,0,0,1,resume,3
+organize files,3,0,0,1,resume,3
+orthopedics,3,0,0,1,resume,3
+osi,3,0,0,1,resume,3
+oss,3,0,0,1,resume,3
+p.c,3,0,0,1,resume,3
+packaging design,3,0,0,1,resume,3
+page 2,3,0,0,1,resume,3
+pagemaker,3,0,0,1,resume,3
+paradox,3,0,0,1,resume,3
+pc,3,0,0,1,resume,3
+peoplesoft hrms,3,0,0,1,resume,3
+performance,3,0,0,1,resume,3
+personnel training,3,0,0,1,resume,3
+photo editing,3,0,0,1,resume,3
+photographer,3,0,0,1,resume,3
+pinterest,3,0,0,1,resume,3
+plan development,3,0,0,1,resume,3
+power supplies,3,0,0,1,resume,3
+prepare contract,3,0,0,1,resume,3
+printing,3,0,0,1,resume,3
+pro engineer,3,0,0,1,resume,3
+problem analysis,3,0,0,1,resume,3
+procedure development,3,0,0,1,resume,3
+procedure writing,3,0,0,1,resume,3
+process management,3,0,0,1,resume,3
+processing payments,3,0,0,1,resume,3
+processing payroll,3,0,0,1,resume,3
+product sales,3,0,0,1,resume,3
+program design,3,0,0,1,resume,3
+prospecting,3,0,0,1,resume,3
+provisioning,3,0,0,1,resume,3
+pspice,3,0,0,1,resume,3
+publishing,3,0,0,1,resume,3
+qa testing,3,0,0,1,resume,3
+qualitative research,3,0,0,1,resume,3
+quota,3,0,0,1,resume,3
+rational,3,0,0,1,resume,3
+rational rose,3,0,0,1,resume,3
+read blueprints,3,0,0,1,resume,3
+reality,3,0,0,1,resume,3
+reconciling bank statements,3,0,0,1,resume,3
+regional sales,3,0,0,1,resume,3
+registered nurse,3,0,0,1,resume,3
+regression testing,3,0,0,1,resume,3
+relational database,3,0,0,1,resume,3
+relations,3,0,0,1,resume,3
+remedy,3,0,0,1,resume,3
+requirements analysis,3,0,0,1,resume,3
+rest,3,0,0,1,resume,3
+rexx,3,0,0,1,resume,3
+rip,3,0,0,1,resume,3
+robotic systems,3,0,0,1,resume,3
+sabre,3,0,0,1,resume,3
+sales and management,3,0,0,1,resume,3
+sales associates,3,0,0,1,resume,3
+sales floor,3,0,0,1,resume,3
+sales for,3,0,0,1,resume,3
+sales in,3,0,0,1,resume,3
+sales of,3,0,0,1,resume,3
+sales presentations,3,0,0,1,resume,3
+sales revenue,3,0,0,1,resume,3
+sales techniques,3,0,0,1,resume,3
+sales to,3,0,0,1,resume,3
+sales/marketing,3,0,0,1,resume,3
+sanitation,3,0,0,1,resume,3
+selling and,3,0,0,1,resume,3
+series 6,3,0,0,1,resume,3
+series 7,3,0,0,1,resume,3
+sheet metal,3,0,0,1,resume,3
+short stories,3,0,0,1,resume,3
+shorthand,3,0,0,1,resume,3
+smtp,3,0,0,1,resume,3
+social media marketing,3,0,0,1,resume,3
+software as a service,3,0,0,1,resume,3
+software engineer,3,0,0,1,resume,3
+solder,3,0,0,1,resume,3
+sops,3,0,0,1,resume,3
+sorting mail,3,0,0,1,resume,3
+sox compliance,3,0,0,1,resume,3
+spanish language,3,0,0,1,resume,3
+spectrum analyzer,3,0,0,1,resume,3
+spread sheets,3,0,0,1,resume,3
+sql 2000,3,0,0,1,resume,3
+sql server 2000,3,0,0,1,resume,3
+ssh,3,0,0,1,resume,3
+std counseling,3,0,0,1,resume,3
+stock control,3,0,0,1,resume,3
+store merchandising,3,0,0,1,resume,3
+struts,3,0,0,1,resume,3
+swaps,3,0,0,1,resume,3
+sybase,3,0,0,1,resume,3
+system,3,0,0,1,resume,3
+system architecture,3,0,0,1,resume,3
+system engineering,3,0,0,1,resume,3
+system security,3,0,0,1,resume,3
+systems design,3,0,0,1,resume,3
+systems engineer,3,0,0,1,resume,3
+systems security,3,0,0,1,resume,3
+t-sql,3,0,0,1,resume,3
+taking messages,3,0,0,1,resume,3
+task analysis,3,0,0,1,resume,3
+tax accounting,3,0,0,1,resume,3
+tax planning,3,0,0,1,resume,3
+tds,3,0,0,1,resume,3
+team-building,3,0,0,1,resume,3
+teambuilding,3,0,0,1,resume,3
+tear,3,0,0,1,resume,3
+tech support,3,0,0,1,resume,3
+technology integration,3,0,0,1,resume,3
+telephone etiquette,3,0,0,1,resume,3
+tender,3,0,0,1,resume,3
+territory management,3,0,0,1,resume,3
+test director,3,0,0,1,resume,3
+test engineer,3,0,0,1,resume,3
+the sale,3,0,0,1,resume,3
+theatre,3,0,0,1,resume,3
+toshiba,3,0,0,1,resume,3
+total quality management,3,0,0,1,resume,3
+train employees,3,0,0,1,resume,3
+training development,3,0,0,1,resume,3
+travel planning,3,0,0,1,resume,3
+treatment plans,3,0,0,1,resume,3
+turbo tax,3,0,0,1,resume,3
+turkish,3,0,0,1,resume,3
+typewriter,3,0,0,1,resume,3
+uat,3,0,0,1,resume,3
+unigraphics,3,0,0,1,resume,3
+ups,3,0,0,1,resume,3
+usability,3,0,0,1,resume,3
+usb,3,0,0,1,resume,3
+user documentation,3,0,0,1,resume,3
+user manuals,3,0,0,1,resume,3
+vaccine,3,0,0,1,resume,3
+vax,3,0,0,1,resume,3
+vb,3,0,0,1,resume,3
+ventura,3,0,0,1,resume,3
+vertex,3,0,0,1,resume,3
+virtualization,3,0,0,1,resume,3
+visual basic 6.0,3,0,0,1,resume,3
+visual basics,3,0,0,1,resume,3
+warrants,3,0,0,1,resume,3
+water quality,3,0,0,1,resume,3
+waterfall,3,0,0,1,resume,3
+web hosting,3,0,0,1,resume,3
+web marketing,3,0,0,1,resume,3
+web page,3,0,0,1,resume,3
+webmaster,3,0,0,1,resume,3
+weighing,3,0,0,1,resume,3
+well-organized,3,0,0,1,resume,3
+win7,3,0,0,1,resume,3
+windows platform,3,0,0,1,resume,3
+workers compensation,3,0,0,1,resume,3
+workstations,3,0,0,1,resume,3
+writing test,3,0,0,1,resume,3
+written communications,3,0,0,1,resume,3
+xhtml,3,0,0,1,resume,3
+xp,3,0,0,1,resume,3
+xslt,3,0,0,1,resume,3
+accounting/auditing,0,0,1,1,linkedin,2
+art/creative,0,0,1,1,linkedin,2
+distribution,0,0,1,1,linkedin,2
+education,0,0,1,1,linkedin,2
+engineering,0,0,1,1,linkedin,2
+general business,0,0,1,1,linkedin,2
+health care provider,0,0,1,1,linkedin,2
+other,0,0,1,1,linkedin,2
+production,0,0,1,1,linkedin,2
+science,0,0,1,1,linkedin,2
+strategy/planning,0,0,1,1,linkedin,2
+writing/editing,0,0,1,1,linkedin,2

@@ -1,0 +1,18 @@
+skill,aliases,category
+git,git version control|version control,developer_tools
+github,github.com|git hub,developer_tools
+graphql,graph ql,api
+artificial intelligence,ai|artificial intelligence|ai/ml,ai
+cybersecurity,cyber security|information security|infosec,cybersecurity
+esp32,esp-32|espressif esp32,iot
+iot,internet of things|internet-of-things,iot
+api,apis|application programming interface|application programming interfaces,developer_tools
+llm,llms|large language model|large language models,ai
+robotics,robotics|robotic systems|robotic system,robotics
+food safety,food safety,domain
+bionics,bionics|bionic systems,engineering
+biomechanics,biomechanics|biomechanical engineering,engineering
+rehabilitation,rehabilitation engineering|rehabilitation,engineering
+emi,emi|electromagnetic interference,electronics
+emc,emc|electromagnetic compatibility,electronics
+gps,gps|global positioning system,electronics
